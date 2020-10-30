@@ -15,7 +15,7 @@
  
 ### Underying Goal 
 
-####The underlying goal is to construct an application that locates proximal gas stations within California,upon user request, by mechanism of minimizing exposure to covid hotspots. The application will additionally display location of fires that are ongoing in order to reduce the risk of the user.
+#### The underlying goal is to construct an application that locates proximal gas stations within California,upon user request, by mechanism of minimizing exposure to covid hotspots. The application will additionally display location of fires that are ongoing in order to reduce the risk of the user.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Table of Contents 
