@@ -20,6 +20,6 @@
 
 ### Table of Contents 
 
-- [COVID-19 California](https://git.generalassemb.ly/shiffraw/Project-3-/blob/master/Data-Acquisition.ipynb)
+- [COVID-19 California](https://github.com/shiffdag/Group-Project/blob/main/clean_covid_data.csv)
 
 - [Fire Data](https://git.generalassemb.ly/shiffraw/Project-3-/blob/master/Data-Acquisition.ipynb)
