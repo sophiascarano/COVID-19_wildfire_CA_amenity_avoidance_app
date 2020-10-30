@@ -1,0 +1,2928 @@
+name,x,y,county,ordinal_cat,COVID-19 danger
+Circle K & Minimart,-117.19077720000001,34.0573651,San Bernardino,1,Low Risk
+Unknown Name,-117.22560870000001,34.0485747,San Bernardino,3,Medium Risk
+Unknown Name,-117.1562993,34.0413876,San Bernardino,1,Low Risk
+Arco,-122.420268,37.7684682,San Francisco,2,Mild Risk
+Valley Oil,-122.0701271,37.381165,Santa Clara,3,Medium Risk
+Unknown Name,-118.23723740000001,34.10327279999999,Los Angeles,3,Medium Risk
+Arco,-122.07842600000001,37.40606470000001,Santa Clara,3,Medium Risk
+Arco,-121.7879328,37.6774981,Alameda,3,Medium Risk
+Shell,-121.7868756,37.6777037,Alameda,3,Medium Risk
+76,-122.25037140000002,37.837303399999996,Alameda,3,Medium Risk
+Car Service,-122.2372221,37.8407536,Alameda,3,Medium Risk
+Chevron,-122.26154409999998,37.8404305,Alameda,3,Medium Risk
+Mobil,-122.27001509999998,37.8394465,Alameda,3,Medium Risk
+Fuel 24:7,-122.2701261,37.84002520000001,Alameda,3,Medium Risk
+Unknown Name,-122.2334503,37.775501399999996,Alameda,3,Medium Risk
+Chevron,-122.20975190000001,37.82558579999999,Alameda,3,Medium Risk
+Chevron,-122.24412120000001,37.8579312,Alameda,3,Medium Risk
+Unknown Name,-122.2467567,37.84382,Alameda,3,Medium Risk
+Valero,-122.35037,37.581745,San Mateo,1,Low Risk
+Chevron,-122.3341399,37.5803881,San Mateo,1,Low Risk
+Unknown Name,-122.36341770000001,37.5872485,San Mateo,1,Low Risk
+Unknown Name,-122.3623912,37.5876457,San Mateo,1,Low Risk
+Unknown Name,-122.33718470000001,37.578398,San Mateo,1,Low Risk
+Valero,-122.3627774,37.5887203,San Mateo,1,Low Risk
+76,-121.8623645,37.221047399999996,Santa Clara,3,Medium Risk
+Shell,-117.95490500000001,33.7165414,Orange,3,Medium Risk
+Unknown Name,-120.23095500000001,37.83851660000001,Calaveras,1,Low Risk
+Shell,-122.087399,37.3731217,Santa Clara,3,Medium Risk
+Chevron,-117.2158525,32.8670766,San Diego,3,Medium Risk
+World,-117.2041575,32.854825899999994,San Diego,3,Medium Risk
+Shell,-117.204072,32.8543944,San Diego,3,Medium Risk
+Mobil,-117.2049467,32.8542675,San Diego,3,Medium Risk
+Unknown Name,-117.1843763,32.822783199999996,San Diego,3,Medium Risk
+Clairemont Auto Care,-117.19508359999999,32.8342381,San Diego,3,Medium Risk
+Unknown Name,-117.1944828,32.8342381,San Diego,3,Medium Risk
+Unknown Name,-117.19509359999999,32.8348112,San Diego,3,Medium Risk
+Chevron,-121.69642490000001,38.5510626,Yolo,2,Mild Risk
+Chevron Mission Car Wash,-118.0903715,34.0909625,Los Angeles,3,Medium Risk
+Arco,-122.3831517,37.6003825,San Mateo,1,Low Risk
+Patriot,-123.79055320000002,40.009383299999996,Mendocino,2,Mild Risk
+Arco,-122.30565,37.55175300000001,San Mateo,1,Low Risk
+Arco,-117.2255432,34.0635637,San Bernardino,3,Medium Risk
+Shell,-117.22648170000001,34.065524700000005,San Bernardino,3,Medium Risk
+Shell,-117.20920790000001,34.064672200000004,San Bernardino,1,Low Risk
+Touchless Gasoline,-122.26640159999998,37.8684979,Alameda,3,Medium Risk
+Arco,-121.7593854,38.546828999999995,Yolo,2,Mild Risk
+Chevron,-117.1808061,34.0623716,San Bernardino,1,Low Risk
+Chevron,-122.1518909,37.4792248,San Mateo,1,Low Risk
+Unknown Name,-123.20411240000001,39.2662359,Lake,1,Low Risk
+Shell,-122.4243389,37.764585,San Francisco,2,Mild Risk
+Unknown Name,-118.1429756,33.8798779,Los Angeles,3,Medium Risk
+Chevron,-118.0875412,33.831782000000004,Long Beach,3,Medium Risk
+Unknown Name,-118.09908600000001,33.7423831,Long Beach,3,Medium Risk
+Unknown Name,-118.10593600000001,33.7467724,Long Beach,3,Medium Risk
+Unknown Name,-122.00968700000001,37.3382722,Santa Clara,3,Medium Risk
+Unknown Name,-118.10544099999998,33.887245,Los Angeles,3,Medium Risk
+Unknown Name,-118.12495030000001,33.8890904,Los Angeles,3,Medium Risk
+Costco Gasoline,-122.4015096,37.64050020000001,San Mateo,1,Low Risk
+Unknown Name,-122.26685630000001,37.855455299999996,Alameda,3,Medium Risk
+Arco,-122.260754,37.8503278,Alameda,3,Medium Risk
+Arco,-122.244179,37.7621609,Alameda,3,Medium Risk
+76,-122.24120900000001,37.76652650000001,Alameda,3,Medium Risk
+Cal Gas,-121.87525929999998,37.3268208,Santa Clara,3,Medium Risk
+Arco,-121.87958400000001,37.3411416,Santa Clara,3,Medium Risk
+Unknown Name,-122.0887173,37.354056799999995,Santa Clara,3,Medium Risk
+Chevron,-123.20843020000001,39.1913805,Lake,1,Low Risk
+Shell,-123.1993253,39.151165,Lake,1,Low Risk
+Rotten Robbie #31,-121.56941770000002,37.021009899999996,Santa Cruz,2,Mild Risk
+Chevron,-117.95400190000001,33.715840299999996,Orange,3,Medium Risk
+Mobil,-117.9549989,33.7158375,Orange,3,Medium Risk
+Unknown Name,-122.03188600000001,37.35245070000001,Santa Clara,3,Medium Risk
+Chevron,-121.56538,37.0008405,Santa Cruz,2,Mild Risk
+7-Eleven,-121.8806386,37.3406041,Santa Clara,3,Medium Risk
+Chevron,-122.11775359999999,37.3775792,Santa Clara,3,Medium Risk
+Chevron,-121.557907,36.984475,Santa Cruz,2,Mild Risk
+Unknown Name,-121.5561206,36.984848299999996,Santa Cruz,2,Mild Risk
+Unknown Name,-122.39805559999999,37.77980170000001,San Francisco,2,Mild Risk
+76,-121.1694652,38.8352662,Nevada,0,
+Valero,-121.16804040000001,38.8359883,Nevada,0,
+Unknown Name,-114.5956965,34.8261727,Imperial,0,
+Chevron,-122.2745283,37.8852816,Alameda,3,Medium Risk
+Chevron,-122.4729103,37.7181761,San Francisco,2,Mild Risk
+Shell,-122.4427831,37.71778670000001,San Francisco,2,Mild Risk
+VP,-121.57496450000001,37.0191388,Santa Cruz,2,Mild Risk
+Jesse's,-121.40236599999999,36.8491189,Monterey,3,Medium Risk
+Golden Eagle,-121.6501727,37.1248933,Santa Cruz,2,Mild Risk
+Quest Mart,-123.2085626,39.159431899999994,Lake,1,Low Risk
+Shell,-120.80198290000001,38.37833120000001,Amador,1,Low Risk
+Chevron,-121.637068,37.1306932,Santa Cruz,2,Mild Risk
+Chevron,-118.073949,34.1030456,Los Angeles,3,Medium Risk
+Mobil,-118.07309099999999,34.1034245,Los Angeles,3,Medium Risk
+76,-118.07328000000001,34.1225451,Los Angeles,3,Medium Risk
+Arco,-118.07297959999998,34.1499462,Los Angeles,3,Medium Risk
+76,-121.6099513,37.083717,Santa Cruz,2,Mild Risk
+76 Gas Station,-121.62414469999999,37.100976,Santa Cruz,2,Mild Risk
+Unknown Name,-121.66512150000001,37.1445217,Santa Cruz,2,Mild Risk
+76,-122.36066940000002,37.58864370000001,San Mateo,1,Low Risk
+Valero,-122.30024409999999,37.99210720000001,Contra Costa,2,Mild Risk
+Shell,-122.31159280000001,37.988408299999996,Contra Costa,2,Mild Risk
+Unknown Name,-122.29566270000001,37.9791807,Contra Costa,2,Mild Risk
+Golden Gate Petroleum,-122.28332879999999,37.9605327,Contra Costa,2,Mild Risk
+Unknown Name,-122.31784990000001,37.9644305,Contra Costa,2,Mild Risk
+Unknown Name,-121.5819534,37.013221200000004,Santa Cruz,2,Mild Risk
+Chevron,-122.31771699999999,37.98661170000001,Contra Costa,2,Mild Risk
+Unknown Name,-122.33200169999999,37.9786311,Contra Costa,2,Mild Risk
+Unknown Name,-122.3250443,37.9630804,Contra Costa,2,Mild Risk
+Unknown Name,-122.31300139999999,37.976607,Contra Costa,2,Mild Risk
+Shell,-122.36511399999999,37.5963082,San Mateo,1,Low Risk
+Ranier's Service Station,-122.12959009999999,37.4544367,San Mateo,1,Low Risk
+Arco,-122.02277050000001,37.566539,Alameda,3,Medium Risk
+76,-122.02615220000001,37.5681989,Alameda,3,Medium Risk
+Mobil,-119.1131946,37.9472716,Mono,1,Low Risk
+76,-122.27894609999998,37.8911539,Alameda,3,Medium Risk
+76,-122.3043584,37.90218820000001,Contra Costa,2,Mild Risk
+R&R,-122.298693,37.9016186,Contra Costa,2,Mild Risk
+Unknown Name,-122.309519,37.90094970000001,Contra Costa,2,Mild Risk
+Shell,-118.3182378,34.177839299999995,Los Angeles,3,Medium Risk
+Shell,-122.28261850000001,37.8023325,Alameda,3,Medium Risk
+Chevron,-122.2754621,37.8088829,Alameda,3,Medium Risk
+Mission 76,-118.0912003,34.091421399999994,Los Angeles,3,Medium Risk
+USA Gasoline,-118.9173442,34.395886600000004,Ventura,0,
+Chevron,-118.9180341,34.3958016,Ventura,0,
+Circle K,-118.9115281,34.39731010000001,Ventura,0,
+7 - Eleven,-118.92295220000001,34.3958653,Ventura,0,
+Shell,-118.927553,34.395178,Ventura,0,
+Chevron,-122.71408740000001,38.386672,Sonoma,2,Mild Risk
+Rotten Robbie,-122.71543490000002,38.38744570000001,Sonoma,2,Mild Risk
+Nyack Shell,-120.67877859999999,39.291968,Nevada,0,
+Shell,-121.07592450000001,38.9038182,Nevada,0,
+Shell,-122.42360959999999,37.740370299999995,San Francisco,2,Mild Risk
+Shell,-121.05986029999998,38.91836970000001,Nevada,0,
+Valero,-117.1909435,34.0631935,San Bernardino,1,Low Risk
+Arco,-118.1168861,33.8732434,Los Angeles,3,Medium Risk
+Unknown Name,-117.88200810000001,33.6662881,Orange,3,Medium Risk
+Unknown Name,-117.9074196,33.680450799999996,Orange,3,Medium Risk
+Unknown Name,-117.9073767,33.6798795,Orange,3,Medium Risk
+Unknown Name,-117.9081749,33.67978660000001,Orange,3,Medium Risk
+Chevron,-117.88533570000001,33.682168100000005,Orange,3,Medium Risk
+Unknown Name,-117.8859959,33.682687,Orange,3,Medium Risk
+Chevron,-117.88602240000002,33.6798397,Orange,3,Medium Risk
+Chevron,-122.2506126,37.429409299999996,San Mateo,1,Low Risk
+Shell,-117.711324,33.5268906,Orange,3,Medium Risk
+76,-117.71221299999999,33.5265253,Orange,3,Medium Risk
+7-Eleven,-117.152859,32.832383,San Diego,3,Medium Risk
+USA Gasoline,-118.07750159999998,34.1032054,Los Angeles,3,Medium Risk
+Shell,-118.07283100000001,34.1300433,Los Angeles,3,Medium Risk
+Unknown Name,-122.0682149,37.3216867,Santa Clara,3,Medium Risk
+76,-118.0993656,34.103132099999996,Los Angeles,3,Medium Risk
+76,-118.0737443,34.1499369,Los Angeles,3,Medium Risk
+Unknown Name,-121.0162696,38.887266499999996,El Dorado,2,Mild Risk
+Shell,-117.083441,34.851858899999996,San Bernardino,1,Low Risk
+Chevron,-118.4219203,34.245562899999996,Los Angeles,3,Medium Risk
+Chevron,-119.025986,35.2672774,Kern,3,Medium Risk
+76,-122.36637209999999,37.5844628,San Mateo,1,Low Risk
+Unknown Name,-118.099333,33.8325235,Los Angeles,3,Medium Risk
+#1 Gas,-122.27337800000001,37.873092299999996,Alameda,3,Medium Risk
+Shell,-122.0751723,37.3781204,Santa Clara,3,Medium Risk
+Hilltop,-121.7597078,36.8741542,Santa Cruz,2,Mild Risk
+Valero,-121.95678640000001,36.9843969,Santa Cruz,2,Mild Risk
+Chevron,-121.95650249999998,36.9825909,Santa Cruz,2,Mild Risk
+Unknown Name,-121.75382759999998,36.9071679,Santa Cruz,2,Mild Risk
+Unknown Name,-121.75334699999999,36.90667379999999,Santa Cruz,2,Mild Risk
+Quickstop,-121.7499138,36.9043403,Santa Cruz,2,Mild Risk
+Shell,-117.18071210000001,34.0575158,San Bernardino,1,Low Risk
+Shell,-122.4518447,37.7815425,San Francisco,2,Mild Risk
+Unknown Name,-121.73415859999999,38.5488231,Yolo,2,Mild Risk
+Shell,-122.0216947,36.9797568,Santa Cruz,2,Mild Risk
+Rod & Ros,-122.01109469999999,36.9812589,Santa Cruz,2,Mild Risk
+76,-121.96511159999999,36.980857799999995,Santa Cruz,2,Mild Risk
+Arco,-121.887701,36.9745011,Santa Cruz,2,Mild Risk
+76,-122.03577250000001,36.972288899999995,Santa Cruz,2,Mild Risk
+76 (Om's Market),-122.03220759999999,36.9760263,Santa Cruz,2,Mild Risk
+Rotten Robbie,-122.04318880000001,36.9636595,Santa Cruz,2,Mild Risk
+Valero,-122.04527900000001,36.962206099999996,Santa Cruz,2,Mild Risk
+Chevron,-120.8422758,37.056689399999996,Merced,3,Medium Risk
+Kwick Serve,-120.4775555,37.0829258,Merced,3,Medium Risk
+Pilot,-120.1326253,37.01874779999999,Madera,3,Medium Risk
+Chevron,-119.8846331,36.8084557,Fresno,1,Low Risk
+76,-119.86344150000001,36.8087031,Fresno,1,Low Risk
+Chevron,-119.8621969,36.807933399999996,Fresno,1,Low Risk
+Shell Gas Station,-120.07448329999998,36.9761583,Madera,3,Medium Risk
+Chevron,-120.83995890000001,37.0571945,Merced,3,Medium Risk
+Unknown Name,-122.14455829999999,38.73624760000001,Yolo,2,Mild Risk
+Sav On Gasoline,-122.0234614,36.9843708,Santa Cruz,2,Mild Risk
+Valero,-122.02314479999998,36.9835434,Santa Cruz,2,Mild Risk
+Valero,-122.0043858,36.98125020000001,Santa Cruz,2,Mild Risk
+Costco Gasoline,-122.03596029999999,36.984720700000004,Santa Cruz,2,Mild Risk
+76 Gas,-122.49845570000001,37.7792862,San Francisco,2,Mild Risk
+APCO Gasoline,-122.0417144,36.96469260000001,Santa Cruz,2,Mild Risk
+Gas & Shop,-122.04313559999999,36.9630144,Santa Cruz,2,Mild Risk
+Valero,-122.71462009999999,38.331753000000006,Sonoma,2,Mild Risk
+Unknown Name,-116.97258490000002,33.8029936,Riverside,2,Mild Risk
+Exxon,-117.00711170000001,33.7478896,Riverside,2,Mild Risk
+Unknown Name,-116.977713,33.7477511,Riverside,2,Mild Risk
+Beacon,-121.9761895,37.2942537,Santa Clara,3,Medium Risk
+USA Gasoline,-121.9657264,37.294548299999995,Santa Clara,3,Medium Risk
+Unknown Name,-122.28970690000001,37.8396119,Alameda,3,Medium Risk
+76,-122.0892764,37.6313191,Alameda,3,Medium Risk
+Unknown Name,-122.3084439,37.911542499999996,Contra Costa,2,Mild Risk
+Unknown Name,-122.31902690000001,37.925673700000004,Contra Costa,2,Mild Risk
+Unknown Name,-122.31938729999999,37.92624910000001,Contra Costa,2,Mild Risk
+Chevron,-121.80330829999998,37.2374172,Santa Clara,3,Medium Risk
+76,-121.8033942,37.2366382,Santa Clara,3,Medium Risk
+USA Gasoline,-121.86163049999999,36.604059899999996,Monterey,3,Medium Risk
+Unknown Name,-121.7501547,36.760286799999996,Monterey,3,Medium Risk
+Chevron,-121.73173590000002,38.5401828,Yolo,2,Mild Risk
+Shell,-121.7380166,38.5408685,Yolo,2,Mild Risk
+Chevron,-122.458522,37.7809712,San Francisco,2,Mild Risk
+Shell,-122.46766299999999,37.7806252,San Francisco,2,Mild Risk
+Devco Oil,-122.03178559999999,36.9863649,Santa Cruz,2,Mild Risk
+Shell,-121.9895087,36.9851604,Santa Cruz,2,Mild Risk
+Z Ma Self Service Gasoline,-121.9912244,36.9792673,Santa Cruz,2,Mild Risk
+USA,-121.99001200000001,36.98499260000001,Santa Cruz,2,Mild Risk
+Unknown Name,-121.7237447,37.7130588,Alameda,3,Medium Risk
+Gas & Shop,-121.72516670000002,37.711389000000004,Alameda,3,Medium Risk
+Unknown Name,-121.7237294,37.7174032,Alameda,3,Medium Risk
+SP,-122.29444860000001,37.8753686,Alameda,3,Medium Risk
+EconoGas,-122.29512450000001,37.8682313,Alameda,3,Medium Risk
+Unknown Name,-122.50330770000001,37.5958635,San Mateo,1,Low Risk
+Chevron,-122.48641809999998,37.6139846,San Mateo,1,Low Risk
+Shell,-122.19586170000001,37.4239446,San Mateo,1,Low Risk
+Unknown Name,-122.3792687,37.6045821,San Mateo,1,Low Risk
+7-Eleven,-122.4775503,37.6597649,San Mateo,1,Low Risk
+Unknown Name,-121.7590362,38.5603759,Yolo,2,Mild Risk
+Chevron,-121.4056348,38.409488399999994,Sacramento,3,Medium Risk
+Shell,-122.6453578,38.23421679999999,Sonoma,2,Mild Risk
+Arco,-121.6665263,36.7919869,Monterey,3,Medium Risk
+Chevron,-121.6684403,36.791464500000004,Monterey,3,Medium Risk
+Golden Gate Gasoline,-121.7499189,36.9048143,Santa Cruz,2,Mild Risk
+Shell,-122.02546299999999,37.0427054,Santa Cruz,2,Mild Risk
+Shell,-122.02466770000001,37.04308020000001,Santa Cruz,2,Mild Risk
+Arco,-121.3134594,38.7720282,Sacramento,3,Medium Risk
+Shell,-122.20821229999999,39.7520979,Butte,3,Medium Risk
+Unknown Name,-119.22060649999999,34.19716470000001,Ventura,3,Medium Risk
+Unknown Name,-119.2205828,34.19802,Ventura,3,Medium Risk
+Chevron,-121.4285517,38.2257428,Sacramento,3,Medium Risk
+Shell,-121.394186,38.1150084,Contra Costa,2,Mild Risk
+76,-121.3939446,38.113974299999995,Contra Costa,2,Mild Risk
+76,-121.2813162,37.89638520000001,San Joaquin,3,Medium Risk
+Unknown Name,-121.27676770000001,37.854446,San Joaquin,3,Medium Risk
+Chevron,-121.28764650000001,37.82599520000001,San Joaquin,3,Medium Risk
+Chevron,-121.26576809999999,37.54037720000001,San Joaquin,3,Medium Risk
+Shell,-121.93991709999999,37.293803999999994,Santa Clara,3,Medium Risk
+Unknown Name,-117.24046000000001,32.7975026,San Diego,3,Medium Risk
+Unknown Name,-117.24058020000001,32.7981591,San Diego,3,Medium Risk
+Unknown Name,-121.9964963,37.3871918,Santa Clara,3,Medium Risk
+Mobil,-118.31766329999999,34.098392100000005,Los Angeles,3,Medium Risk
+Unknown Name,-117.1227178,33.1309165,San Diego,3,Medium Risk
+Safeway,-121.90856129999999,36.9794556,Santa Cruz,2,Mild Risk
+Chevron,-121.90798240000001,36.9798223,Santa Cruz,2,Mild Risk
+Chevron,-121.9360122,36.9893427,Santa Cruz,2,Mild Risk
+76,-121.91221100000001,36.9754955,Santa Cruz,2,Mild Risk
+Mega Fuel,-117.1633923,32.8322424,San Diego,3,Medium Risk
+Chevron,-117.1641906,32.832992499999996,San Diego,3,Medium Risk
+Chevron,-116.7804301,32.8416212,San Diego,3,Medium Risk
+Shell,-122.193075,37.402933399999995,San Mateo,1,Low Risk
+Unknown Name,-117.05644140000001,33.9929959,San Bernardino,1,Low Risk
+Unknown Name,-117.05758290000001,33.993615000000005,San Bernardino,1,Low Risk
+Shell,-117.0569284,33.9935429,San Bernardino,1,Low Risk
+Fastrip,-117.0626914,34.0043308,San Bernardino,1,Low Risk
+Shell,-121.8737261,37.373937299999994,Santa Clara,3,Medium Risk
+Chevron,-121.87305659999998,37.3745785,Santa Clara,3,Medium Risk
+Chevron,-121.84306809999998,37.3695588,Santa Clara,3,Medium Risk
+76,-121.8437814,37.3702295,Santa Clara,3,Medium Risk
+Chevron,-121.8263274,37.35088820000001,Santa Clara,3,Medium Risk
+Arco,-121.8581834,37.66908239999999,Alameda,3,Medium Risk
+Arco,-117.0315412,32.660822499999995,San Diego,3,Medium Risk
+Unknown Name,-117.01984750000001,32.6718866,San Diego,3,Medium Risk
+AM/PM,-121.8906817,37.2595325,Santa Clara,3,Medium Risk
+Chevron,-121.897737,37.25526970000001,Santa Clara,3,Medium Risk
+76,-117.185999,32.8772278,San Diego,3,Medium Risk
+Shell,-118.26104209999998,34.043034399999996,Los Angeles,3,Medium Risk
+Mash Gas and Food,-122.2074539,37.823071999999996,Alameda,3,Medium Risk
+Unknown Name,-121.8824231,39.7423375,Butte,3,Medium Risk
+Unknown Name,-121.8316199,39.7243165,Butte,3,Medium Risk
+Unknown Name,-121.8223158,39.7347461,Butte,3,Medium Risk
+Shell,-121.7728477,36.9350467,Santa Cruz,2,Mild Risk
+Unknown Name,-121.77399129999999,36.934766499999995,Santa Cruz,2,Mild Risk
+Valero,-121.7701646,36.9318736,Santa Cruz,2,Mild Risk
+76,-122.0322961,37.259503,Santa Clara,3,Medium Risk
+Unknown Name,-121.8964878,37.657928999999996,Alameda,3,Medium Risk
+Unknown Name,-122.20140420000001,37.4314894,San Mateo,1,Low Risk
+Shell,-118.8759938,34.17880039999999,Ventura,3,Medium Risk
+Alliance,-118.8756578,34.1809404,Ventura,3,Medium Risk
+Arco,-118.8745876,34.1868,Ventura,3,Medium Risk
+Shell,-121.9854845,37.526043,Alameda,3,Medium Risk
+76,-122.240702,37.7362794,Alameda,3,Medium Risk
+76,-122.0064486,37.5270075,Alameda,3,Medium Risk
+Unknown Name,-118.3299088,34.1611268,Los Angeles,3,Medium Risk
+Unknown Name,-121.95020929999998,37.297537,Santa Clara,3,Medium Risk
+Unknown Name,-121.95059520000001,37.3012149,Santa Clara,3,Medium Risk
+76,-118.13480020000002,34.0791597,Los Angeles,3,Medium Risk
+Unknown Name,-121.32089760000001,38.0106491,San Joaquin,3,Medium Risk
+Scotts Valley Gas & Mart,-122.0259645,37.043669,Santa Cruz,2,Mild Risk
+Kensington Service Station,-122.278244,37.903172999999995,Alameda,3,Medium Risk
+Shell,-122.00605,37.062937299999994,Santa Cruz,2,Mild Risk
+Chevron,-122.00509939999999,37.0627785,Santa Cruz,2,Mild Risk
+Valero,-122.06918329999999,37.0514394,Santa Cruz,2,Mild Risk
+76,-121.97707949999999,37.2862899,Santa Clara,3,Medium Risk
+Shell,-121.9770709,37.2857163,Santa Clara,3,Medium Risk
+Mobil,-117.57504820000001,34.110954799999995,San Bernardino,3,Medium Risk
+Haven 76 Tire & Service Center,-117.57537450000001,34.1375491,San Bernardino,3,Medium Risk
+Haven Mobil,-117.57638999999999,34.139594200000005,San Bernardino,3,Medium Risk
+Shell,-122.0658412,37.59788270000001,Alameda,3,Medium Risk
+Patriot Gasoline,-124.08907169999999,40.8714601,Del Norte,2,Mild Risk
+76,-124.0915993,40.8823701,Del Norte,2,Mild Risk
+Arco,-117.2643781,33.0683306,San Diego,3,Medium Risk
+Shell,-117.26461509999999,33.0672432,San Diego,3,Medium Risk
+Unknown Name,-121.7276129,36.5782687,Monterey,3,Medium Risk
+Beacon,-121.6647894,36.6453806,Monterey,3,Medium Risk
+Chevron,-121.66662859999998,36.7008158,Monterey,3,Medium Risk
+AMPM,-121.6647317,36.7215405,Monterey,3,Medium Risk
+Chevron,-122.4909243,37.645911299999995,San Mateo,1,Low Risk
+Unknown Name,-120.1281314,34.5991685,Santa Barbara,2,Mild Risk
+Brown's Corner Fuel,-123.3451834,39.3880889,Lake,1,Low Risk
+Chevron,-123.48039309999999,39.6861691,Mendocino,2,Mild Risk
+Chevron,-122.07360359999998,37.05330220000001,Santa Cruz,2,Mild Risk
+Corner Stone,-122.0731142,37.0531605,Santa Cruz,2,Mild Risk
+Chevron,-118.0188739,34.15096079999999,Los Angeles,3,Medium Risk
+Unknown Name,-118.9667338,37.6483438,Mono,1,Low Risk
+Mobil,-122.41619399999999,37.748534,San Francisco,2,Mild Risk
+Chevron,-123.80579270000001,39.4305121,Mendocino,2,Mild Risk
+Unknown Name,-121.170948,39.2020385,Nevada,0,
+Shell,-118.3675892,34.2212475,Los Angeles,3,Medium Risk
+76,-118.158332,34.0159862,Los Angeles,3,Medium Risk
+Unknown Name,-117.3610794,34.192142600000004,San Bernardino,1,Low Risk
+Unknown Name,-118.06398529999998,33.9894323,Los Angeles,3,Medium Risk
+Unknown Name,-118.0671935,33.991730700000005,Los Angeles,3,Medium Risk
+Quik Stop,-122.0094977,37.059123799999995,Santa Cruz,2,Mild Risk
+Valero,-122.01005520000001,37.0593911,Santa Cruz,2,Mild Risk
+Ralph's Gas,-117.23374150000001,33.571271,Riverside,3,Medium Risk
+Chevron,-117.20784270000001,33.563282799999996,Riverside,3,Medium Risk
+Chevron,-117.98859809999999,33.942150299999994,Los Angeles,3,Medium Risk
+Unknown Name,-117.9326775,33.938810100000005,Los Angeles,3,Medium Risk
+76,-124.17665840000001,40.793909899999996,Del Norte,2,Mild Risk
+Chevron,-124.1839825,40.7829689,Del Norte,2,Mild Risk
+Patriot Gasoline,-124.1533504,40.8050278,Del Norte,2,Mild Risk
+Unknown Name,-117.58525829999999,34.0987791,San Bernardino,3,Medium Risk
+Unknown Name,-121.99620060000001,37.3963856,Santa Clara,3,Medium Risk
+Gas 4 Less,-124.0877294,40.8900821,Del Norte,2,Mild Risk
+Patriot Gasoline,-124.08328519999999,40.904852399999996,Del Norte,2,Mild Risk
+Unknown Name,-121.7858993,38.5603732,Yolo,2,Mild Risk
+Unknown Name,-118.0380973,34.0358721,Los Angeles,3,Medium Risk
+Unknown Name,-118.0381327,34.0366255,Los Angeles,3,Medium Risk
+Chevron,-122.0005615,37.5329294,Alameda,3,Medium Risk
+Valero,-121.99868020000001,37.5369734,Alameda,3,Medium Risk
+Chevron,-118.455284,35.7076899,Kern,0,
+Unknown Name,-117.4034719,34.2238888,San Bernardino,1,Low Risk
+Unknown Name,-117.402612,34.2240862,San Bernardino,1,Low Risk
+7-Eleven,-117.3604452,34.1916076,San Bernardino,1,Low Risk
+Chevron,-122.06432240000002,39.0243402,Napa,0,
+Texaco,-118.45475400000001,35.70836,Kern,0,
+Unknown Name,-121.9599259,37.360669200000004,Santa Clara,3,Medium Risk
+Unknown Name,-121.96207,37.3618545,Santa Clara,3,Medium Risk
+Arco,-121.9592038,37.355987400000004,Santa Clara,3,Medium Risk
+Unknown Name,-117.2025748,34.046303,San Bernardino,3,Medium Risk
+Flyers,-122.170651,37.7093073,Alameda,3,Medium Risk
+Shell,-124.10115259999998,40.93434420000001,Del Norte,2,Mild Risk
+Unknown Name,-118.12326809999999,34.078277899999996,Los Angeles,3,Medium Risk
+Mobil,-118.1086787,34.0796039,Los Angeles,3,Medium Risk
+Unknown Name,-122.0133697,37.5437281,Alameda,3,Medium Risk
+Arco,-118.09991709999998,34.07949050000001,Los Angeles,3,Medium Risk
+Mobil,-118.07348130000001,34.0805516,Los Angeles,3,Medium Risk
+Unknown Name,-118.0468226,34.0770355,Los Angeles,3,Medium Risk
+Chevron,-118.1527138,34.1160705,Los Angeles,3,Medium Risk
+Arco,-118.16086010000001,34.116040500000004,Los Angeles,3,Medium Risk
+Unknown Name,-118.00003149999999,34.0514289,Los Angeles,3,Medium Risk
+Unknown Name,-117.99907879999999,34.0514917,Los Angeles,3,Medium Risk
+Unknown Name,-117.97527050000001,34.0348258,Los Angeles,3,Medium Risk
+Chevron,-118.218093,33.824025,Los Angeles,3,Medium Risk
+76,-118.1498499,34.111867700000005,Los Angeles,3,Medium Risk
+Arco,-118.17046,34.0190321,Los Angeles,3,Medium Risk
+Unknown Name,-118.17392120000001,34.0444264,Los Angeles,3,Medium Risk
+Unknown Name,-118.1727227,34.059994399999994,Los Angeles,3,Medium Risk
+ARCO,-122.27355390000001,37.5233044,San Mateo,1,Low Risk
+Shell,-121.9321669,37.286698,Santa Clara,3,Medium Risk
+Shell,-121.83827920000002,38.0025562,Contra Costa,2,Mild Risk
+Chevron,-122.2853781,37.995905900000004,Contra Costa,2,Mild Risk
+76,-122.26210420000001,38.02162979999999,Contra Costa,2,Mild Risk
+Unknown Name,-117.64123590000001,34.095864399999996,San Bernardino,3,Medium Risk
+Unknown Name,-117.5929986,34.1219656,San Bernardino,3,Medium Risk
+Sam's Club,-117.5587626,34.0741953,San Bernardino,3,Medium Risk
+Unknown Name,-117.55072140000001,34.0765628,San Bernardino,3,Medium Risk
+Costco Gasoline,-117.54852930000001,34.0776464,San Bernardino,3,Medium Risk
+Unknown Name,-117.5458822,34.076772600000005,San Bernardino,3,Medium Risk
+Unknown Name,-118.1469155,34.127818,Los Angeles,3,Medium Risk
+Ralphs Gas Station,-118.131872,34.169269,Los Angeles,3,Medium Risk
+76,-118.132893,34.1574938,Los Angeles,3,Medium Risk
+Unknown Name,-118.12109099999999,34.149778000000005,Los Angeles,3,Medium Risk
+Chevron,-118.14698,34.135474,Los Angeles,3,Medium Risk
+76 Gas Station,-122.4070736,37.7643035,San Francisco,2,Mild Risk
+Shell,-122.4077362,37.7647445,San Francisco,2,Mild Risk
+Arco,-118.2843133,34.035402399999995,Los Angeles,3,Medium Risk
+Shell,-121.7840801,37.99463239999999,Contra Costa,2,Mild Risk
+Unknown Name,-117.54853829999999,34.1069467,San Bernardino,3,Medium Risk
+Chevron,-118.18094640000001,34.1145924,Los Angeles,3,Medium Risk
+Unknown Name,-117.07156699999999,32.621010999999996,San Diego,3,Medium Risk
+Unknown Name,-117.02695800000001,32.775003999999996,San Diego,3,Medium Risk
+76,-117.0432544,32.742952,San Diego,3,Medium Risk
+St. Clair Valero,-117.039396,32.551763,San Diego,3,Medium Risk
+Go Gasoline,-116.995368,32.839026000000004,San Diego,3,Medium Risk
+Shell,-117.07598899999999,32.985316999999995,San Diego,3,Medium Risk
+Mobil,-117.110955,32.583582,San Diego,3,Medium Risk
+Unknown Name,-117.20229099999999,33.01925,San Diego,3,Medium Risk
+Arco,-117.3379136,33.1519427,San Diego,3,Medium Risk
+Arco,-117.365031,33.204415999999995,San Diego,3,Medium Risk
+76,-116.765454,32.835777,San Diego,3,Medium Risk
+Unknown Name,-117.1524215,32.9571173,San Diego,3,Medium Risk
+Arco,-117.35375420000001,33.1952912,San Diego,3,Medium Risk
+Unknown Name,-117.072048,32.62022,San Diego,3,Medium Risk
+Unknown Name,-117.091245,32.603967,San Diego,3,Medium Risk
+Arco,-116.95058600000002,32.80805,San Diego,3,Medium Risk
+Unknown Name,-117.258633,32.9957215,San Diego,3,Medium Risk
+Shell,-117.12118999999998,32.917637,San Diego,3,Medium Risk
+Chevron,-116.9180982,32.81240089999999,San Diego,3,Medium Risk
+Chevron,-117.25040700000001,32.979255,San Diego,3,Medium Risk
+Unknown Name,-117.11287,32.937727,San Diego,3,Medium Risk
+Chevron,-117.23364,32.951921,San Diego,3,Medium Risk
+USA Gasoline,-116.9833278,32.8383276,San Diego,3,Medium Risk
+Emerald Oil,-117.03356799999999,32.781268,San Diego,3,Medium Risk
+Top Fuel,-117.066189,32.60718,San Diego,3,Medium Risk
+Chevron,-117.0425133,32.7422368,San Diego,3,Medium Risk
+Unknown Name,-117.099057,32.64020900000001,San Diego,3,Medium Risk
+Unknown Name,-117.04150800000001,32.658108,San Diego,3,Medium Risk
+USA Gasoline,-117.10117930000001,32.7534255,San Diego,3,Medium Risk
+Unknown Name,-117.100501,32.754676,San Diego,3,Medium Risk
+Shell,-117.04624799999999,32.628799,San Diego,3,Medium Risk
+Arco,-117.1933743,33.1328524,San Diego,3,Medium Risk
+Unknown Name,-117.149813,32.713993,San Diego,3,Medium Risk
+Costco Gasoline,-117.12729399999999,32.782955,San Diego,3,Medium Risk
+Arco,-116.959978,32.807334999999995,San Diego,3,Medium Risk
+Revco,-116.93302450000002,32.7924539,San Diego,3,Medium Risk
+Arco,-117.19755690000001,33.150965,San Diego,3,Medium Risk
+Shell,-117.077427,32.980427,San Diego,3,Medium Risk
+Arco,-117.0956258,33.116879700000005,San Diego,3,Medium Risk
+Unknown Name,-117.098098,32.790141,San Diego,3,Medium Risk
+Mobil,-117.38815990000002,33.2086198,San Diego,3,Medium Risk
+Shell,-117.126258,32.763587,San Diego,3,Medium Risk
+USA Gasoline,-117.12348300000001,32.748218,San Diego,3,Medium Risk
+XCEL,-116.383379,33.256133,San Diego,1,Low Risk
+Unknown Name,-117.099452,32.75482,San Diego,3,Medium Risk
+Arco,-117.2377781,32.9349214,San Diego,3,Medium Risk
+Valero,-117.28502659999998,33.0479604,San Diego,3,Medium Risk
+Shell,-116.765482,32.835189,San Diego,3,Medium Risk
+4S Ranch Gas Station and Car Wash,-117.11143799999999,33.014927,San Diego,3,Medium Risk
+Unknown Name,-117.5441554,33.8482269,Riverside,3,Medium Risk
+76,-117.1299037,32.711918,San Diego,3,Medium Risk
+Chevron,-117.024499,32.614694,San Diego,3,Medium Risk
+Unknown Name,-117.108249,32.936757,San Diego,3,Medium Risk
+Encinitas Chevron,-117.2839392,33.0485375,San Diego,3,Medium Risk
+76,-117.06274950000001,32.9521417,San Diego,3,Medium Risk
+Sky Fuel,-116.91828500000001,32.811851000000004,San Diego,3,Medium Risk
+Unknown Name,-116.95257420000002,32.5692121,San Diego,3,Medium Risk
+Kwik Serv,-121.55116609999999,39.1005241,Yuba,3,Medium Risk
+Arco,-121.27395120000001,38.744369799999994,Sacramento,3,Medium Risk
+Mobil,-118.15236599999999,34.095561,Los Angeles,3,Medium Risk
+Unknown Name,-117.19846940000001,34.06976220000001,San Bernardino,1,Low Risk
+Speed Stop,-121.90376189999999,37.5618131,Alameda,3,Medium Risk
+Shell,-122.2329639,38.0774963,Contra Costa,2,Mild Risk
+Unknown Name,-122.23386229999998,38.0841895,Contra Costa,2,Mild Risk
+Unknown Name,-116.26967490000001,33.7068235,Riverside,2,Mild Risk
+Arco,-121.29100030000001,38.729724299999994,Sacramento,3,Medium Risk
+Chevron,-121.28999089999999,38.7297885,Sacramento,3,Medium Risk
+76,-121.2747612,38.744244200000004,Sacramento,3,Medium Risk
+Unknown Name,-121.6181506,39.140904,Yuba,3,Medium Risk
+Shell Gas,-117.17777029999999,33.5559616,Riverside,3,Medium Risk
+76,-122.14641929999999,39.1564464,Lake,1,Low Risk
+Unknown Name,-122.1458185,39.1555438,Lake,1,Low Risk
+Unknown Name,-122.1612465,39.1602026,Lake,1,Low Risk
+Unknown Name,-118.15343940000001,34.0316582,Los Angeles,3,Medium Risk
+Unknown Name,-118.1541477,34.031921000000004,Los Angeles,3,Medium Risk
+Unknown Name,-118.21619059999999,34.042928100000005,Los Angeles,3,Medium Risk
+Valero,-118.21217140000002,34.0403747,Los Angeles,3,Medium Risk
+Unknown Name,-118.2919862,34.069252500000005,Los Angeles,3,Medium Risk
+Unknown Name,-122.263522,37.5180292,San Mateo,1,Low Risk
+Unknown Name,-118.2987425,34.0692174,Los Angeles,3,Medium Risk
+Chevron,-118.2698071,34.0667917,Los Angeles,3,Medium Risk
+Shell,-118.26751909999999,34.0704341,Los Angeles,3,Medium Risk
+Unknown Name,-118.26276200000001,34.0780532,Los Angeles,3,Medium Risk
+Unknown Name,-118.2604912,34.0819143,Los Angeles,3,Medium Risk
+7-Eleven,-118.1603155,34.00020720000001,Los Angeles,3,Medium Risk
+Mobil,-118.23909209999998,34.0202517,Los Angeles,3,Medium Risk
+Shell,-118.229574,34.0259251,Los Angeles,3,Medium Risk
+Unknown Name,-118.22003600000001,34.0729235,Los Angeles,3,Medium Risk
+USA Gas,-118.2171757,34.07337879999999,Los Angeles,3,Medium Risk
+Unknown Name,-118.212097,34.0740022,Los Angeles,3,Medium Risk
+Unknown Name,-118.208118,34.0735207,Los Angeles,3,Medium Risk
+Unknown Name,-118.207495,34.0735162,Los Angeles,3,Medium Risk
+Unknown Name,-118.1879442,34.0859145,Los Angeles,3,Medium Risk
+Arco; AM/PM,-121.2940664,38.7607875,Sacramento,3,Medium Risk
+Unknown Name,-121.30450549999999,38.7742053,Sacramento,3,Medium Risk
+Texas Gasoline,-121.4016757,36.8565064,Monterey,3,Medium Risk
+Alliiance Mini Mart,-121.3220692,36.79054620000001,Monterey,3,Medium Risk
+76,-122.4529257,37.72298710000001,San Francisco,2,Mild Risk
+Shell,-118.19980100000001,34.106293,Los Angeles,3,Medium Risk
+Unknown Name,-118.130579,34.100907,Los Angeles,3,Medium Risk
+Chevron,-118.396476,33.916032,Los Angeles,3,Medium Risk
+Unknown Name,-118.55581540000001,34.0388953,Los Angeles,3,Medium Risk
+76,-118.55475320000001,34.0389131,Los Angeles,3,Medium Risk
+Shell,-121.25889409999999,38.758861100000004,Sacramento,3,Medium Risk
+Chevron,-121.25049250000001,38.751625399999995,Sacramento,3,Medium Risk
+76 Roseville Station ,-121.25521599999999,38.76157979999999,Sacramento,3,Medium Risk
+76,-121.2663673,38.7726779,Sacramento,3,Medium Risk
+Unknown Name,-121.2648449,38.7730292,Sacramento,3,Medium Risk
+Unknown Name,-121.9928352,37.965329499999996,Contra Costa,2,Mild Risk
+Unknown Name,-118.470846,34.025451600000004,Los Angeles,3,Medium Risk
+Unknown Name,-118.47030149999999,34.0250746,Los Angeles,3,Medium Risk
+Unknown Name,-118.46961670000002,34.02531079999999,Los Angeles,3,Medium Risk
+Unknown Name,-121.27195400000001,38.80450250000001,Sacramento,3,Medium Risk
+7-Eleven,-121.2829778,38.8109777,Sacramento,3,Medium Risk
+Chevron,-121.28133629999999,38.7888409,Sacramento,3,Medium Risk
+Unknown Name,-118.15177309999999,33.9236609,Los Angeles,3,Medium Risk
+Unknown Name,-118.152402,33.9239715,Los Angeles,3,Medium Risk
+Unknown Name,-118.1521619,33.9245078,Los Angeles,3,Medium Risk
+Unknown Name,-118.143823,33.935196399999995,Los Angeles,3,Medium Risk
+Unknown Name,-118.1373564,33.94281470000001,Los Angeles,3,Medium Risk
+Unknown Name,-118.1279737,33.9797975,Los Angeles,3,Medium Risk
+Unknown Name,-118.1164445,33.9672019,Los Angeles,3,Medium Risk
+Unknown Name,-118.1236087,33.9755145,Los Angeles,3,Medium Risk
+Unknown Name,-118.16054209999999,33.910874799999995,Los Angeles,3,Medium Risk
+Unknown Name,-118.16829380000001,33.8894853,Los Angeles,3,Medium Risk
+Unknown Name,-118.20679840000001,33.8889994,Los Angeles,3,Medium Risk
+Arco - Gas Station,-118.1933586,33.888391,Los Angeles,3,Medium Risk
+Alameda Fuel,-118.2196673,33.888908,Los Angeles,3,Medium Risk
+Unknown Name,-118.25049969999999,33.888613299999996,Los Angeles,3,Medium Risk
+Valero,-122.46482890000001,37.74050020000001,San Francisco,2,Mild Risk
+Alpine Mobil,-118.289607,33.8416923,Los Angeles,3,Medium Risk
+Unknown Name,-118.29148789999999,33.87328660000001,Los Angeles,3,Medium Risk
+Unknown Name,-118.2906301,33.8318934,Los Angeles,3,Medium Risk
+Unknown Name,-118.28990549999999,33.8312533,Los Angeles,3,Medium Risk
+Unknown Name,-118.29071200000001,33.8099169,Los Angeles,3,Medium Risk
+Unknown Name,-121.3131507,38.7958924,Sacramento,3,Medium Risk
+Chevron,-121.31467509999999,38.7958529,Sacramento,3,Medium Risk
+Fastbreak Express,-122.29218590000002,37.55437420000001,San Mateo,1,Low Risk
+Fuel Depot,-119.7888565,34.4441534,Santa Barbara,2,Mild Risk
+Conserv Fuel,-119.7508228,34.438269299999995,Santa Barbara,2,Mild Risk
+Unknown Name,-119.90009309999999,34.433088399999995,Santa Barbara,2,Mild Risk
+Unknown Name,-119.758481,34.440157899999996,Santa Barbara,2,Mild Risk
+Unknown Name,-119.73978629999999,34.4402129,Santa Barbara,2,Mild Risk
+Specialty Solid Waste CNG Station,-121.9574586,37.381530700000006,Santa Clara,3,Medium Risk
+Unknown Name,-121.93268970000001,37.3725036,Santa Clara,3,Medium Risk
+Unknown Name,-117.8293158,34.11365670000001,Los Angeles,3,Medium Risk
+Unknown Name,-117.8294153,34.1289011,Los Angeles,3,Medium Risk
+Unknown Name,-117.8294023,34.1282691,Los Angeles,3,Medium Risk
+Unknown Name,-121.2885672,38.7850861,Sacramento,3,Medium Risk
+Unknown Name,-117.7946254,34.12286470000001,Los Angeles,3,Medium Risk
+United Oil,-117.206523,32.8280005,San Diego,3,Medium Risk
+Unknown Name,-122.0232071,37.3348357,Santa Clara,3,Medium Risk
+Shell,-121.9658959,37.53708020000001,Alameda,3,Medium Risk
+C&R,-117.17523940000001,32.8340941,San Diego,3,Medium Risk
+Arco,-117.122514,32.755645,San Diego,3,Medium Risk
+76,-117.12605829999998,32.7556171,San Diego,3,Medium Risk
+Shell,-122.2442463,37.8192124,Alameda,3,Medium Risk
+76,-122.2908563,37.8513679,Alameda,3,Medium Risk
+Chevron,-122.27793700000001,37.8259274,Alameda,3,Medium Risk
+Unknown Name,-122.29529109999999,37.8386541,Alameda,3,Medium Risk
+Chevron,-121.2702017,38.7489257,Sacramento,3,Medium Risk
+Unknown Name,-119.00931820000001,34.21145670000001,Ventura,3,Medium Risk
+Unknown Name,-119.00557920000001,34.2166159,Ventura,3,Medium Risk
+Chevron,-121.9610205,37.263389399999994,Santa Clara,3,Medium Risk
+Superior Car Wash & Detail Center,-117.93241259999999,33.6279324,Orange,3,Medium Risk
+Unknown Name,-119.0186672,34.231182000000004,Ventura,3,Medium Risk
+Unknown Name,-117.93057479999999,33.6173713,Orange,3,Medium Risk
+Circle K,-118.06283130000001,33.7119792,Orange,3,Medium Risk
+Unknown Name,-118.121994,33.7751055,Long Beach,3,Medium Risk
+Alliance Gas,-121.8630164,36.5963438,Monterey,3,Medium Risk
+Unknown Name,-118.20317250000001,33.8745344,Los Angeles,3,Medium Risk
+Unknown Name,-118.18615020000001,33.8809862,Los Angeles,3,Medium Risk
+Chevron,-121.32734199999999,38.649438,Sacramento,3,Medium Risk
+Unknown Name,-118.1982942,33.775566299999994,Long Beach,3,Medium Risk
+Chevron,-121.7923679,36.6837821,Monterey,3,Medium Risk
+Unknown Name,-118.1933586,33.790155,Long Beach,3,Medium Risk
+Unknown Name,-118.1889372,33.7895803,Long Beach,3,Medium Risk
+Unknown Name,-118.1978433,33.7901403,Long Beach,3,Medium Risk
+Unknown Name,-121.330233,38.648165999999996,Sacramento,3,Medium Risk
+Shell,-121.2688449,38.6150645,Sacramento,3,Medium Risk
+Chevron,-121.26945359999999,38.615804,Sacramento,3,Medium Risk
+Chevron,-122.46451359999999,37.6637126,San Mateo,1,Low Risk
+Unknown Name,-122.0348847,37.61872260000001,Alameda,3,Medium Risk
+Berri Brothers,-118.07415630000001,33.7206475,Orange,3,Medium Risk
+Unknown Name,-117.78498789999999,33.5428122,Orange,3,Medium Risk
+Unknown Name,-124.11473090000001,40.956544799999996,Del Norte,2,Mild Risk
+Chevron,-121.889072,40.4923951,Shasta,2,Mild Risk
+Unknown Name,-118.08124679999999,34.0110129,Los Angeles,3,Medium Risk
+Chevron,-118.13081570000001,34.0369958,Los Angeles,3,Medium Risk
+Unknown Name,-118.13380729999999,34.0219969,Los Angeles,3,Medium Risk
+Unknown Name,-118.1336001,34.022556200000004,Los Angeles,3,Medium Risk
+Chevron,-117.6670813,33.682505400000004,Orange,3,Medium Risk
+Shell,-122.2275375,38.1238178,Napa,0,
+Unknown Name,-118.1226438,34.06951160000001,Los Angeles,3,Medium Risk
+Unknown Name,-118.1228341,34.085850799999996,Los Angeles,3,Medium Risk
+Mobil,-118.0820987,34.0404232,Los Angeles,3,Medium Risk
+Unknown Name,-118.0639483,34.0520505,Los Angeles,3,Medium Risk
+Unknown Name,-118.06469340000001,34.0515189,Los Angeles,3,Medium Risk
+Unknown Name,-118.07310149999999,34.0986689,Los Angeles,3,Medium Risk
+Unknown Name,-118.06514840000001,34.0629899,Los Angeles,3,Medium Risk
+Unknown Name,-119.0191135,35.4216109,Kern,3,Medium Risk
+Unknown Name,-122.2539886,37.8201843,Alameda,3,Medium Risk
+Unknown Name,-122.2535419,37.8194483,Alameda,3,Medium Risk
+Arco,-117.5752466,34.0341814,San Bernardino,3,Medium Risk
+Unknown Name,-117.5752129,34.0328191,San Bernardino,3,Medium Risk
+Unknown Name,-118.1255289,33.87817570000001,Los Angeles,3,Medium Risk
+Unknown Name,-118.12498980000001,33.8781913,Los Angeles,3,Medium Risk
+Costco Gasoline,-121.1081642,38.64433070000001,El Dorado,2,Mild Risk
+Chevron,-123.3516143,39.404429,Lake,1,Low Risk
+ARCO,-123.3518111,39.4038309,Lake,1,Low Risk
+Unknown Name,-123.3548055,39.415107899999995,Lake,1,Low Risk
+Unknown Name,-123.35502009999999,39.4185394,Lake,1,Low Risk
+Unknown Name,-117.1036781,32.8297697,San Diego,3,Medium Risk
+Mobil,-118.27955349999999,34.078332399999994,Los Angeles,3,Medium Risk
+Arco,-121.9952515,37.3457515,Santa Clara,3,Medium Risk
+Valero,-122.3099753,37.90088770000001,Contra Costa,2,Mild Risk
+Chevron,-122.0146902,37.351838799999996,Santa Clara,3,Medium Risk
+Unknown Name,-117.6997168,33.4671857,Orange,3,Medium Risk
+Mobil,-117.64627920000001,33.563518200000004,Orange,3,Medium Risk
+Unknown Name,-117.63148020000001,33.5831561,Orange,3,Medium Risk
+AMPM Gas & Minimart,-117.12330220000001,32.7483149,San Diego,3,Medium Risk
+Econo,-122.44115749999999,37.618553799999994,San Mateo,1,Low Risk
+Chevron,-117.8753187,33.6614957,Orange,3,Medium Risk
+Shell,-117.75182020000001,34.0732679,Los Angeles,3,Medium Risk
+Chevron,-117.7526633,34.072927,Los Angeles,3,Medium Risk
+76 Union,-121.7516186,36.760715999999995,Monterey,3,Medium Risk
+Chevron,-121.056527,38.9229658,Nevada,0,
+Unknown Name,-121.05628829999999,38.923589899999996,Nevada,0,
+Unknown Name,-118.00818419999999,34.031120200000004,Los Angeles,3,Medium Risk
+Laguna Hills Car Wash,-117.6916949,33.6023925,Orange,3,Medium Risk
+Unknown Name,-117.7170088,33.527280600000005,Orange,3,Medium Risk
+Unknown Name,-117.7237153,33.5582926,Orange,3,Medium Risk
+Unknown Name,-117.7245455,33.6100157,Orange,3,Medium Risk
+Chevron,-117.0664807,33.068004200000004,San Diego,3,Medium Risk
+Unknown Name,-118.09982820000002,34.075125799999995,Los Angeles,3,Medium Risk
+Shell,-117.23099840000002,32.9373868,San Diego,3,Medium Risk
+Unknown Name,-117.45282069999999,33.746399600000004,Riverside,3,Medium Risk
+Alliance,-122.360277,37.16562929999999,San Mateo,1,Low Risk
+Unknown Name,-117.83775,33.855871,Orange,3,Medium Risk
+Unknown Name,-117.8154952,33.8531494,Orange,3,Medium Risk
+Unknown Name,-117.522421,33.8360035,Riverside,3,Medium Risk
+Shell,-117.48677250000001,33.77863660000001,Riverside,3,Medium Risk
+Mobil,-114.62471540000001,34.8511774,San Bernardino,0,
+Quik-Stop,-121.4215533,36.8533105,Monterey,3,Medium Risk
+Unknown Name,-122.51546270000001,37.9389489,Marin,1,Low Risk
+Unknown Name,-117.5398146,33.8677808,Riverside,3,Medium Risk
+USA Gasoline,-117.247565,32.7450916,San Diego,3,Medium Risk
+Arco,-117.3666472,33.684039299999995,Riverside,3,Medium Risk
+Chevron,-117.66296609999999,33.49775089999999,Orange,3,Medium Risk
+Shelter Cove General Store Gas,-124.0520752,40.036551,Mendocino,2,Mild Risk
+Unknown Name,-119.13425330000001,36.136868799999995,Tulare,2,Mild Risk
+Shell,-119.0535163,35.8940378,Tulare,2,Mild Risk
+Shell,-118.47482439999999,35.62643950000001,Kern,0,
+Chevron,-117.54108500000001,34.992464299999995,San Bernardino,1,Low Risk
+Arco,-117.5374287,34.9916674,San Bernardino,1,Low Risk
+Unknown Name,-117.4087682,34.572340399999995,San Bernardino,1,Low Risk
+Unknown Name,-117.39828659999999,34.5354214,San Bernardino,1,Low Risk
+Arco,-117.39966670000001,34.4104997,San Bernardino,1,Low Risk
+Chevron,-115.72010890000001,33.660835799999994,Riverside,2,Mild Risk
+Shell,-117.178173,33.5738112,Riverside,3,Medium Risk
+Shell,-114.60591480000001,33.6081592,Imperial,0,
+Unknown Name,-118.40726229999999,33.749136299999996,Los Angeles,3,Medium Risk
+7-Eleven,-117.09300520000001,33.4819424,Riverside,3,Medium Risk
+76,-116.88648710000001,34.9040694,San Bernardino,1,Low Risk
+Arco,-119.0384916,35.36824199999999,Kern,3,Medium Risk
+Chevron,-119.26628529999999,35.873898499999996,Tulare,2,Mild Risk
+Shell,-119.38277509999999,36.296585,Tulare,2,Mild Risk
+Shell,-119.48415890000001,36.4457037,Tulare,2,Mild Risk
+Valero,-119.5165055,36.489402899999995,Tulare,2,Mild Risk
+Arco,-121.294133,37.812242299999994,San Joaquin,3,Medium Risk
+American Gas - Mini Mart,-118.0507293,34.09883320000001,Los Angeles,3,Medium Risk
+Baldwin Gas & Food Mart,-118.0485115,34.0904634,Los Angeles,3,Medium Risk
+Unknown Name,-118.0534304,34.0745997,Los Angeles,3,Medium Risk
+Unknown Name,-118.04200159999998,34.068038,Los Angeles,3,Medium Risk
+Unknown Name,-118.04949640000001,34.0408761,Los Angeles,3,Medium Risk
+Unknown Name,-118.0785747,34.016654200000005,Los Angeles,3,Medium Risk
+Unknown Name,-118.08421659999999,34.001848100000004,Los Angeles,3,Medium Risk
+Unknown Name,-118.0900256,33.992506,Los Angeles,3,Medium Risk
+Shell,-121.61583710000001,36.64674760000001,Monterey,3,Medium Risk
+Valero,-121.62809809999999,36.66796110000001,Monterey,3,Medium Risk
+Unknown Name,-118.12631699999999,33.9983562,Los Angeles,3,Medium Risk
+Unknown Name,-118.1231668,33.997035100000005,Los Angeles,3,Medium Risk
+Unknown Name,-118.1242362,33.9967604,Los Angeles,3,Medium Risk
+Unknown Name,-118.5180594,34.0276191,Los Angeles,3,Medium Risk
+Shell,-122.4637864,37.66362279999999,San Mateo,1,Low Risk
+Unknown Name,-122.4368182,37.6301352,San Mateo,1,Low Risk
+Unknown Name,-122.43637279999999,37.6303304,San Mateo,1,Low Risk
+Unknown Name,-118.74372199999999,34.0332138,Los Angeles,3,Medium Risk
+Chevron,-118.843764,34.0316858,Los Angeles,3,Medium Risk
+Quick Stop,-121.7435557,36.9363696,Santa Cruz,2,Mild Risk
+Unknown Name,-119.16027609999999,34.1965346,Ventura,3,Medium Risk
+Unknown Name,-119.15963529999999,34.17374,Ventura,3,Medium Risk
+Unknown Name,-121.788044,36.94103970000001,Santa Cruz,2,Mild Risk
+Mobil,-119.15783700000001,34.2224569,Ventura,3,Medium Risk
+7-Eleven,-122.2510011,37.8276464,Alameda,3,Medium Risk
+Unknown Name,-119.26095330000001,34.272788500000004,Ventura,3,Medium Risk
+Chevron,-119.24823899999998,34.2732782,Ventura,3,Medium Risk
+Unknown Name,-119.26678909999998,34.2733888,Ventura,3,Medium Risk
+Shell,-118.2914678,34.1007151,Los Angeles,3,Medium Risk
+Unknown Name,-119.29437779999999,34.2785003,Ventura,3,Medium Risk
+Chevron,-118.0577893,36.5841888,Tulare,1,Low Risk
+Unknown Name,-119.30008970000002,34.400411600000005,Ventura,3,Medium Risk
+Thrifty Gas Station,-119.30002900000001,34.3983342,Ventura,3,Medium Risk
+Unknown Name,-119.2894544,34.4226352,Ventura,3,Medium Risk
+Unknown Name,-122.42878619999999,37.6230403,San Mateo,1,Low Risk
+Mobil,-116.6798033,33.5546865,Riverside,2,Mild Risk
+Pala Gas Station,-117.0871243,33.3642103,San Diego,1,Low Risk
+Unknown Name,-118.16287720000001,34.8639791,Kern,0,
+Costco Gasoline,-117.27566670000002,33.1878613,San Diego,3,Medium Risk
+Arco,-117.4877757,33.7746325,Riverside,3,Medium Risk
+Rotten Robbie,-121.8467905,37.4003521,Santa Clara,3,Medium Risk
+Chevron,-121.7970997,37.32458610000001,Santa Clara,3,Medium Risk
+76,-121.7922078,37.3142808,Santa Clara,3,Medium Risk
+ARCO Fuel Station,-121.9628889,37.509957299999996,Alameda,3,Medium Risk
+Chevron,-121.9627722,37.5083902,Alameda,3,Medium Risk
+Unknown Name,-117.2160868,33.166413899999995,San Diego,3,Medium Risk
+Unknown Name,-117.67029270000002,35.6245014,Kern,0,
+Valero,-117.3488605,34.4699425,San Bernardino,1,Low Risk
+Casa de Fruta Chevron,-121.3811091,36.9904901,Monterey,3,Medium Risk
+Mobil,-118.33902859999999,34.090323100000006,Los Angeles,3,Medium Risk
+Chevron,-118.344445,34.083200700000006,Los Angeles,3,Medium Risk
+76,-118.34429070000002,34.0647105,Los Angeles,3,Medium Risk
+Chevron,-118.3443337,34.0764172,Los Angeles,3,Medium Risk
+Chevron,-118.3437355,34.075939500000004,Los Angeles,3,Medium Risk
+Texaco,-117.63250690000001,35.371712,Kern,0,
+Arco,-118.34623970000001,34.0574629,Los Angeles,3,Medium Risk
+Unknown Name,-114.62406570000002,34.850927899999995,San Bernardino,0,
+Bel-air Aisle 1,-121.53249199999999,38.642370299999996,Yolo,2,Mild Risk
+Unknown Name,-117.30179150000001,34.546229700000005,San Bernardino,1,Low Risk
+Shell,-122.05441940000001,37.5960692,Alameda,3,Medium Risk
+Unknown Name,-118.44950559999998,35.142637799999996,Kern,0,
+Mobil,-118.3968057,34.150104,Los Angeles,3,Medium Risk
+Unknown Name,-118.41363329999999,35.1272922,Kern,0,
+Unknown Name,-118.4346717,35.1302326,Kern,0,
+Unknown Name,-118.44622930000001,35.1316787,Kern,0,
+Circle K,-118.4441017,35.1313789,Kern,0,
+Shell,-118.3938419,34.1439396,Los Angeles,3,Medium Risk
+Love's,-118.40820349999998,35.1255468,Kern,0,
+Mountain Village,-118.4526872,35.1323033,Kern,0,
+Chevron,-117.12123700000001,32.7486859,San Diego,3,Medium Risk
+Unknown Name,-121.2852131,38.8508395,Placer,2,Mild Risk
+Shell,-121.76911270000001,36.2359309,Monterey,3,Medium Risk
+Chevron,-117.24170079999999,33.1456854,San Diego,3,Medium Risk
+Costco Gasoline,-122.1831033,37.7207644,Alameda,3,Medium Risk
+Arco,-118.1749705,35.05782620000001,Kern,0,
+Unknown Name,-118.17291850000001,35.0514223,Kern,0,
+Unknown Name,-118.17166019999999,35.0474725,Kern,0,
+Unknown Name,-118.1777165,35.067182700000004,Kern,0,
+Shell,-118.1737649,35.054454299999996,Kern,0,
+Jawbone Canyon Store,-118.0062137,35.2958928,Kern,0,
+Unknown Name,-122.4160945,37.6287118,San Mateo,1,Low Risk
+Unknown Name,-117.68908700000001,35.5942695,Kern,0,
+Unknown Name,-117.67429720000001,35.6046899,Kern,0,
+Shell,-121.8584765,39.7309196,Butte,3,Medium Risk
+Don's Gas / Market,-118.94505929999998,34.821477,Kern,3,Medium Risk
+Chevron,-118.0466485,34.062522200000004,Los Angeles,3,Medium Risk
+Arco,-118.0421249,34.0625345,Los Angeles,3,Medium Risk
+Valero,-122.44452,37.798587,San Francisco,2,Mild Risk
+Chevron,-122.4309646,37.8007618,San Francisco,2,Mild Risk
+Shell,-122.431458,37.800661,San Francisco,2,Mild Risk
+76,-122.42239769999999,37.742133,San Francisco,2,Mild Risk
+Unknown Name,-116.07516159999999,35.2646088,San Bernardino,0,
+76,-121.27177730000001,38.729760999999996,Sacramento,3,Medium Risk
+Chevron,-121.3085739,38.7442197,Sacramento,3,Medium Risk
+Shell,-118.1186898,34.06232429999999,Los Angeles,3,Medium Risk
+76,-121.2651726,38.78143529999999,Sacramento,3,Medium Risk
+Unknown Name,-116.2089767,35.1326722,San Bernardino,0,
+Unknown Name,-115.7440683,34.55860870000001,San Bernardino,0,
+Unknown Name,-117.1385517,32.7555415,San Diego,3,Medium Risk
+Unknown Name,-117.1391387,32.755562,San Diego,3,Medium Risk
+Arco,-122.0118423,37.561055700000004,Alameda,3,Medium Risk
+76,-122.01242830000001,37.560571100000004,Alameda,3,Medium Risk
+Chevron,-122.011577,37.5601246,Alameda,3,Medium Risk
+Mobil,-118.4429028,33.9565385,Los Angeles,3,Medium Risk
+76,-121.3648969,36.4502893,Monterey,3,Medium Risk
+Shell,-118.313201,34.0983692,Los Angeles,3,Medium Risk
+Double AA,-122.4719702,37.7162023,San Francisco,2,Mild Risk
+Redmond 76,-121.88493259999998,37.228467200000004,Santa Clara,3,Medium Risk
+76,-122.51836159999999,37.9253994,Marin,1,Low Risk
+Chevron,-122.51635559999998,37.929589799999995,Marin,1,Low Risk
+Kwik-Serv,-122.5228299,37.925658,Marin,1,Low Risk
+Chevron,-122.52095829999999,37.945619,Marin,1,Low Risk
+Shell,-122.520049,37.9452932,Marin,1,Low Risk
+Unknown Name,-120.055866,36.954727500000004,Fresno,1,Low Risk
+76,-122.2452647,37.8100468,Alameda,3,Medium Risk
+San Benito Petroleum,-121.39926609999999,36.853228200000004,Monterey,3,Medium Risk
+Unknown Name,-122.09027549999999,37.0899446,Santa Cruz,2,Mild Risk
+Unknown Name,-121.9566804,37.248405,Santa Clara,3,Medium Risk
+Chevron,-121.9627423,37.2352912,Santa Clara,3,Medium Risk
+76,-122.0643709,37.6069005,Alameda,3,Medium Risk
+Chevron,-122.0658567,37.6084945,Alameda,3,Medium Risk
+76,-122.0446053,37.62818529999999,Alameda,3,Medium Risk
+National Petroleum,-122.0699495,37.5902123,Alameda,3,Medium Risk
+Chevron,-122.0702963,37.5896437,Alameda,3,Medium Risk
+Chevron,-118.145967,33.997257299999994,Los Angeles,3,Medium Risk
+Valero,-118.32701180000001,34.083079299999994,Los Angeles,3,Medium Risk
+USA Gasoline,-117.14049070000002,33.5501123,Riverside,3,Medium Risk
+USA Gasoline,-117.14118799999999,33.551303999999995,Riverside,3,Medium Risk
+76,-121.84640929999999,37.250276799999995,Santa Clara,3,Medium Risk
+Chevron,-117.90798219999999,34.121969299999996,Los Angeles,3,Medium Risk
+Unknown Name,-117.9071523,34.1212716,Los Angeles,3,Medium Risk
+Shell,-117.2133298,33.1678843,San Diego,3,Medium Risk
+Marina,-122.16006329999999,37.7134764,Alameda,3,Medium Risk
+Valero,-122.16207649999998,37.71261060000001,Alameda,3,Medium Risk
+Steve's,-121.23586159999999,38.7904334,Sacramento,3,Medium Risk
+Unknown Name,-117.65989009999998,33.8786029,Riverside,3,Medium Risk
+Unknown Name,-117.659241,33.878729799999995,Riverside,3,Medium Risk
+Shell,-122.078148,37.6312518,Alameda,3,Medium Risk
+76,-122.07619979999998,37.6315518,Alameda,3,Medium Risk
+Chevron,-122.0976015,37.6329027,Alameda,3,Medium Risk
+Valero,-122.0977716,37.6335028,Alameda,3,Medium Risk
+76,-122.1016365,37.6385399,Alameda,3,Medium Risk
+7-Eleven,-121.38245020000001,38.6905512,Sacramento,3,Medium Risk
+76,-121.38238909999998,38.668982299999996,Sacramento,3,Medium Risk
+Shell,-121.38249270000001,38.7037554,Sacramento,3,Medium Risk
+Unknown Name,-117.6802624,34.0188194,San Bernardino,3,Medium Risk
+Shell,-122.198848,37.7334999,Alameda,3,Medium Risk
+Shell,-121.8609491,37.304269899999994,Santa Clara,3,Medium Risk
+Unknown Name,-122.287783,37.530541,San Mateo,1,Low Risk
+DoubleTime,-122.2711024,37.517389200000004,San Mateo,1,Low Risk
+AAFES Express,-121.80646259999999,36.6449389,Monterey,3,Medium Risk
+Shell,-121.77538290000001,36.66471660000001,Monterey,3,Medium Risk
+Unknown Name,-117.59254909999999,34.0187781,Riverside,2,Mild Risk
+Unknown Name,-117.59286680000001,34.0195152,Riverside,2,Mild Risk
+Unknown Name,-122.17996570000001,37.705422399999996,Alameda,3,Medium Risk
+Unknown Name,-117.57658190000001,34.047732700000005,San Bernardino,3,Medium Risk
+Valero,-121.78449509999999,36.680116299999995,Monterey,3,Medium Risk
+Arco,-121.9038571,37.23234229999999,Santa Clara,3,Medium Risk
+76,-122.2769831,37.5192008,San Mateo,1,Low Risk
+Unknown Name,-121.7762363,37.2269391,Santa Clara,3,Medium Risk
+Chevron,-121.9565923,38.53038170000001,Yolo,3,Medium Risk
+Flyers Energy,-122.2711158,37.5182328,San Mateo,1,Low Risk
+Shell,-117.56098300000001,34.107069200000005,San Bernardino,3,Medium Risk
+Unknown Name,-117.54942240000001,34.1058479,San Bernardino,3,Medium Risk
+Unknown Name,-117.5287215,34.1059104,San Bernardino,3,Medium Risk
+Unknown Name,-122.2667706,37.511906700000004,San Mateo,1,Low Risk
+Unknown Name,-117.61132830000001,34.02941129999999,San Bernardino,3,Medium Risk
+Unknown Name,-117.6280527,34.0543378,San Bernardino,3,Medium Risk
+Unknown Name,-117.62892659999999,34.079547399999996,San Bernardino,3,Medium Risk
+Unknown Name,-117.62895259999998,34.0782874,San Bernardino,3,Medium Risk
+Chevron,-121.8712577,37.2297177,Santa Clara,3,Medium Risk
+Old Cambria Wine and Gifts,-121.10212040000002,35.5686945,San Luis Obispo,2,Mild Risk
+Chevron,-116.2705034,35.97496539999999,San Bernardino,0,
+7,-121.7712688,36.83135720000001,Santa Cruz,2,Mild Risk
+Unknown Name,-116.82285159999998,33.9322961,Riverside,2,Mild Risk
+Unknown Name,-116.78028290000002,33.918141999999996,Riverside,2,Mild Risk
+Orcutt 76,-120.4469187,34.8649076,Santa Barbara,2,Mild Risk
+Unknown Name,-116.8857713,33.925668200000004,Riverside,2,Mild Risk
+Unknown Name,-116.87418390000002,33.9213033,Riverside,2,Mild Risk
+Pine Cove Gas & Market,-116.7391586,33.7585781,Riverside,2,Mild Risk
+Unknown Name,-117.15847140000001,33.4135702,San Diego,1,Low Risk
+Unknown Name,-122.2762693,37.7770027,Alameda,3,Medium Risk
+Chevron,-118.17294640000001,34.05908220000001,Los Angeles,3,Medium Risk
+Valero Corner Store,-122.0234531,36.983486600000006,Santa Cruz,2,Mild Risk
+Arco,-117.12761670000002,33.19762539999999,San Diego,1,Low Risk
+Arco,-120.4547561,34.9310885,Santa Barbara,2,Mild Risk
+Arco,-122.13925649999999,37.6861277,Alameda,3,Medium Risk
+Cal Gas,-122.1383321,37.6829921,Alameda,3,Medium Risk
+Home Gas,-122.4024683,37.724165899999996,San Francisco,2,Mild Risk
+76,-122.3882905,37.7426761,San Francisco,2,Mild Risk
+Valero,-122.4018703,37.72422750000001,San Francisco,2,Mild Risk
+Chevron,-122.38807949999999,37.743115,San Francisco,2,Mild Risk
+Chevron,-122.4409983,37.7169401,San Francisco,2,Mild Risk
+76,-118.23868909999999,34.0762089,Los Angeles,3,Medium Risk
+Flying J,-119.1874575,35.5311601,Kern,3,Medium Risk
+Silver Gas & Diesel,-122.4057886,37.732214,San Francisco,2,Mild Risk
+Shell,-122.4061237,37.732538299999995,San Francisco,2,Mild Risk
+Mobil,-117.932597,33.9170657,Orange,3,Medium Risk
+Arco,-117.88103190000001,33.8183495,Orange,3,Medium Risk
+7-Eleven,-117.9085299,33.8182945,Orange,3,Medium Risk
+Unknown Name,-117.9588991,33.858838399999996,Orange,3,Medium Risk
+Unknown Name,-117.9596797,33.858813899999994,Orange,3,Medium Risk
+76 Gas Station,-121.327052,38.6608794,Sacramento,3,Medium Risk
+ARCO Gas Station,-121.32718349999999,38.660282,Sacramento,3,Medium Risk
+Valero,-122.1177969,37.6659992,Alameda,3,Medium Risk
+Shell,-121.9035381,37.6981951,Alameda,3,Medium Risk
+Chevron,-117.1240369,33.5920895,Riverside,3,Medium Risk
+Flyers,-122.1825814,37.7077341,Alameda,3,Medium Risk
+Shell Gas Station,-117.251496,33.3707132,San Diego,1,Low Risk
+Shell,-117.20634579999998,33.5678761,Riverside,3,Medium Risk
+Valero,-120.0247246,36.923222100000004,Fresno,1,Low Risk
+Rapid 14,-118.33492620000001,34.171625899999995,Los Angeles,3,Medium Risk
+Arco,-117.07670729999998,33.7394623,Riverside,2,Mild Risk
+Unknown Name,-117.1042332,33.743222700000004,Riverside,2,Mild Risk
+Chevron,-118.3303791,34.10615429999999,Los Angeles,3,Medium Risk
+Sam's Club,-117.17919909999999,33.553931,Riverside,3,Medium Risk
+Unknown Name,-117.17014180000001,32.786084100000004,San Diego,3,Medium Risk
+USA Gas,-117.89966100000001,33.9160014,Orange,3,Medium Risk
+Sunnyside 76,-117.9095085,33.89977460000001,Orange,3,Medium Risk
+Unknown Name,-117.2466814,33.1670291,San Diego,3,Medium Risk
+Unknown Name,-117.2316409,33.2108899,San Diego,3,Medium Risk
+Unknown Name,-117.2302081,33.2108685,San Diego,3,Medium Risk
+76,-122.2699442,37.798855700000004,Alameda,3,Medium Risk
+Arco,-117.2265353,34.136065,San Bernardino,1,Low Risk
+Chevron,-117.1935993,34.1361476,San Bernardino,1,Low Risk
+Oak Knoll Mobil,-120.4184093,34.864624,Santa Barbara,2,Mild Risk
+Munoz 76,-120.418479,34.8653326,Santa Barbara,2,Mild Risk
+Unknown Name,-117.2181143,33.781981099999996,Riverside,2,Mild Risk
+Chevron,-117.2013544,33.0968648,San Diego,3,Medium Risk
+Chevron,-117.2008129,33.5753689,Riverside,3,Medium Risk
+76,-122.2581936,37.5119518,San Mateo,1,Low Risk
+Holly,-122.25809240000001,37.511536299999996,San Mateo,1,Low Risk
+76,-117.15765619999999,33.5559764,Riverside,3,Medium Risk
+Unknown Name,-117.86941170000001,33.9114198,Orange,3,Medium Risk
+Chevron,-122.0962332,37.390518,Santa Clara,3,Medium Risk
+Shell,-120.6484148,35.4630537,San Luis Obispo,2,Mild Risk
+Unknown Name,-117.24310030000001,33.9024117,Riverside,2,Mild Risk
+ARCO,-117.9240736,33.8794941,Orange,3,Medium Risk
+Arco,-117.3991325,34.5063378,San Bernardino,1,Low Risk
+Shell,-117.2252192,33.845092799999996,Riverside,2,Mild Risk
+Unknown Name,-117.226606,33.845097499999994,Riverside,2,Mild Risk
+Unknown Name,-117.22559869999999,33.8441017,Riverside,2,Mild Risk
+Shell,-122.297849,37.83803320000001,Alameda,3,Medium Risk
+Shell,-122.2672494,37.7947847,Alameda,3,Medium Risk
+Unknown Name,-117.225715,33.8815356,Riverside,2,Mild Risk
+Unknown Name,-117.2257845,33.8887536,Riverside,2,Mild Risk
+Arco,-117.3647104,34.4707035,San Bernardino,1,Low Risk
+Unknown Name,-117.2615582,33.91755429999999,Riverside,2,Mild Risk
+Shell,-117.3239877,33.9158474,Riverside,2,Mild Risk
+Chevron,-117.647398,34.442975399999995,San Bernardino,1,Low Risk
+Circle K,-117.3463896,34.5064218,San Bernardino,1,Low Risk
+Arco,-117.3472025,34.5063136,San Bernardino,1,Low Risk
+Unknown Name,-122.2619058,37.50825820000001,San Mateo,1,Low Risk
+Arco,-121.3126618,37.95390620000001,San Joaquin,3,Medium Risk
+Shell,-117.8995691,33.9322583,Los Angeles,3,Medium Risk
+Unknown Name,-117.3367328,33.9760301,San Bernardino,3,Medium Risk
+Unknown Name,-117.34017479999999,33.975413700000004,San Bernardino,3,Medium Risk
+Arco,-117.5729742,34.4266234,San Bernardino,1,Low Risk
+Unocal,-117.57225,34.426037,San Bernardino,1,Low Risk
+Unknown Name,-117.3674283,34.0374987,San Bernardino,3,Medium Risk
+Chevron,-121.3640365,38.6605893,Sacramento,3,Medium Risk
+Valero,-121.36481940000002,38.6608236,Sacramento,3,Medium Risk
+Unknown Name,-117.3132257,34.0656792,San Bernardino,3,Medium Risk
+Unknown Name,-117.32486909999999,34.0666316,San Bernardino,3,Medium Risk
+7-Eleven,-121.85625359999999,36.5974297,Monterey,3,Medium Risk
+Unknown Name,-117.340305,33.9833054,San Bernardino,3,Medium Risk
+Pacific Pride,-121.5782037,37.0250579,Santa Cruz,2,Mild Risk
+Quick and Easy,-121.00269080000001,37.252994,Merced,3,Medium Risk
+Kwik Serv,-120.99781180000001,37.2536731,Merced,3,Medium Risk
+Unknown Name,-117.1856604,33.7147205,Riverside,3,Medium Risk
+Chevron,-118.76187479999999,34.144851700000004,Los Angeles,3,Medium Risk
+Unknown Name,-117.2158932,33.786923200000004,Riverside,2,Mild Risk
+Arco,-117.3842405,34.427071999999995,San Bernardino,1,Low Risk
+76,-117.385696,34.4271402,San Bernardino,1,Low Risk
+Market at the Ranch,-117.0796846,32.912661699999994,San Diego,3,Medium Risk
+Unknown Name,-117.06055500000001,32.934322200000004,San Diego,3,Medium Risk
+Unknown Name,-117.14569420000001,32.9050395,San Diego,3,Medium Risk
+Unknown Name,-117.322725,34.0335652,San Bernardino,3,Medium Risk
+Circle K,-117.00492859999999,32.7732201,San Diego,3,Medium Risk
+Unknown Name,-121.44589540000001,35.876125099999996,San Luis Obispo,2,Mild Risk
+Unknown Name,-117.2950462,33.1788077,San Diego,3,Medium Risk
+Unknown Name,-121.64350120000002,36.88902279999999,Monterey,3,Medium Risk
+Chevron,-121.91068899999999,37.7188977,Alameda,3,Medium Risk
+Pacific Pride Commercial Fueling,-121.9497088,37.383774700000004,Santa Clara,3,Medium Risk
+Flying J,-117.39863159999999,34.4080881,San Bernardino,1,Low Risk
+Easter Market,-117.1564348,33.917723200000005,Riverside,2,Mild Risk
+Unknown Name,-120.37432709999999,38.8144532,El Dorado,1,Low Risk
+Arco,-117.16753100000001,33.6411088,Riverside,3,Medium Risk
+Chevron,-121.28382620000001,38.8105324,Sacramento,3,Medium Risk
+Unocal,-117.36398390000002,34.470724600000004,San Bernardino,1,Low Risk
+Unknown Name,-117.3720679,34.38341679999999,San Bernardino,1,Low Risk
+Main Street Shell,-120.4161025,34.9527097,Santa Barbara,2,Mild Risk
+Main Street Mobil,-120.4184989,34.9527075,Santa Barbara,2,Mild Risk
+USA Gasoline,-117.18229380000001,34.064290299999996,San Bernardino,1,Low Risk
+7-Eleven,-121.2648503,38.795419700000004,Sacramento,3,Medium Risk
+Unknown Name,-117.24187890000002,32.7511327,San Diego,3,Medium Risk
+Unknown Name,-121.2049253,38.80623350000001,Sacramento,3,Medium Risk
+Unknown Name,-121.20484920000001,38.8068715,Sacramento,3,Medium Risk
+Valero,-119.74560770000001,36.779276,Fresno,1,Low Risk
+Unknown Name,-117.29341540000001,34.5364011,San Bernardino,1,Low Risk
+Unknown Name,-117.78650209999999,33.863017,Orange,3,Medium Risk
+Mobil,-117.881428,33.91042410000001,Orange,3,Medium Risk
+Arco,-117.8805483,33.9105421,Orange,3,Medium Risk
+Chevron,-117.8938485,33.913762899999995,Orange,3,Medium Risk
+Shell,-117.0706452,33.070205300000005,San Diego,3,Medium Risk
+Union 76,-117.18003940000001,34.0575136,San Bernardino,1,Low Risk
+Chevron,-122.2117662,39.5239026,Butte,3,Medium Risk
+Sunrise 7,-121.8230757,37.2799026,Santa Clara,3,Medium Risk
+7-Eleven,-117.3664149,33.8825792,Riverside,2,Mild Risk
+Arco,-122.29748799999999,37.886480999999996,Alameda,3,Medium Risk
+Shell,-122.297626,37.887031,Alameda,3,Medium Risk
+Arco,-117.4536703,33.9348429,Riverside,2,Mild Risk
+76,-117.4544529,33.943081799999995,Riverside,2,Mild Risk
+Exxon,-122.3048361,37.551916299999995,San Mateo,1,Low Risk
+ampm,-121.0122608,37.674391,Stanislaus,2,Mild Risk
+Shell,-120.93875659999999,37.7382281,Stanislaus,2,Mild Risk
+76,-120.93152830000001,37.73789420000001,Stanislaus,2,Mild Risk
+Circle K,-120.864949,37.7590171,Stanislaus,2,Mild Risk
+Valero,-120.8601354,37.7610559,Stanislaus,2,Mild Risk
+Chevron,-120.85585970000001,37.763112,Stanislaus,2,Mild Risk
+Valero,-120.8589635,37.7616437,Stanislaus,2,Mild Risk
+U Gas,-120.91900890000001,37.74064420000001,Stanislaus,2,Mild Risk
+One Stop,-121.1773966,37.5611407,San Joaquin,3,Medium Risk
+Kwik Serve,-121.1278867,37.470314,Stanislaus,3,Medium Risk
+76,-118.28221529999999,33.960719399999995,Los Angeles,3,Medium Risk
+Chevron,-118.26986629999999,33.9598273,Los Angeles,3,Medium Risk
+Valero,-118.26991729999999,33.960381299999995,Los Angeles,3,Medium Risk
+Chevron,-121.94771920000001,37.490145500000004,Alameda,3,Medium Risk
+Unknown Name,-117.07389609999998,32.6820977,San Diego,3,Medium Risk
+Chevron,-117.17168079999999,32.9071879,San Diego,3,Medium Risk
+76,-123.04376940000002,38.329113299999996,Sonoma,2,Mild Risk
+USA Gasoline,-122.70794579999999,38.3287327,Sonoma,2,Mild Risk
+Valero,-118.2378348,34.04124520000001,Los Angeles,3,Medium Risk
+Quik Korner,-117.0820088,33.111342300000004,San Diego,3,Medium Risk
+K,-116.7786377,32.8379923,San Diego,3,Medium Risk
+Chevron,-116.91736780000001,34.2411661,San Bernardino,1,Low Risk
+Valero,-116.91109850000001,34.2434971,San Bernardino,1,Low Risk
+USA Gasoline,-117.20199450000001,32.831421399999996,San Diego,3,Medium Risk
+Performance Fuels,-124.15890309999999,40.8039808,Del Norte,2,Mild Risk
+Unknown Name,-124.1626251,40.8034239,Del Norte,2,Mild Risk
+Unknown Name,-124.15694750000002,40.8029886,Del Norte,2,Mild Risk
+Unknown Name,-118.5970767,34.178802399999995,Los Angeles,3,Medium Risk
+76,-118.60567730000001,34.1934128,Los Angeles,3,Medium Risk
+Shell,-118.331267,33.9886895,Los Angeles,3,Medium Risk
+Arco,-118.3303524,33.9887029,Los Angeles,3,Medium Risk
+Arco,-123.8061895,39.4291343,Mendocino,2,Mild Risk
+Unknown Name,-118.2085652,33.7844489,Long Beach,3,Medium Risk
+Cambria General Store,-121.09868529999999,35.5661688,San Luis Obispo,2,Mild Risk
+Sinclair,-117.46850859999999,33.9462697,Riverside,2,Mild Risk
+Weis Fuel,-117.44515729999999,33.9215245,Riverside,2,Mild Risk
+Fastrip,-117.478076,33.946130100000005,Riverside,2,Mild Risk
+Food 4 Less Gas,-117.45272460000001,33.9264334,Riverside,2,Mild Risk
+USA Gasoline,-117.4408762,33.914112599999996,Riverside,2,Mild Risk
+Mobil,-117.45337930000001,33.945471500000004,Riverside,2,Mild Risk
+Sinclair,-117.4607929,33.9117776,Riverside,2,Mild Risk
+Chevron,-117.44290929999998,33.915136499999996,Riverside,2,Mild Risk
+Chevron,-117.4618186,33.94677720000001,Riverside,2,Mild Risk
+Speedway,-117.454351,33.934601799999996,Riverside,2,Mild Risk
+Speedway,-117.4643,33.9149469,Riverside,2,Mild Risk
+ARCO,-117.4517686,33.9262517,Riverside,2,Mild Risk
+C & J,-118.21196210000001,34.066320000000005,Los Angeles,3,Medium Risk
+Western Gas,-117.49387720000001,33.927534,Riverside,2,Mild Risk
+Alaska Gas,-122.28464869999999,37.8449214,Alameda,3,Medium Risk
+Valero,-117.1390493,32.7612758,San Diego,3,Medium Risk
+Shell,-119.0267117,36.0509225,Tulare,2,Mild Risk
+Kwik Serv,-121.6506269,37.1254591,Santa Cruz,2,Mild Risk
+Unknown Name,-121.60071210000001,37.085237899999996,Santa Cruz,2,Mild Risk
+Live Oak American,-121.9840793,36.9712393,Santa Cruz,2,Mild Risk
+Unknown Name,-118.62299999999999,34.193470700000006,Los Angeles,3,Medium Risk
+Arco,-118.14638479999999,33.7601833,Long Beach,3,Medium Risk
+Unknown Name,-117.82410420000001,34.1070524,Los Angeles,3,Medium Risk
+Unknown Name,-117.81875320000002,34.106077500000005,Los Angeles,3,Medium Risk
+Shell,-119.1588402,34.219555799999995,Ventura,3,Medium Risk
+76,-117.17865800000001,32.82052,San Diego,3,Medium Risk
+Mobil,-122.096833,37.667763,Alameda,3,Medium Risk
+Arco,-116.05968759999999,34.13581,San Bernardino,0,
+Chevron,-116.0597574,34.13526829999999,San Bernardino,0,
+Circle K,-116.053835,34.1503769,San Bernardino,0,
+76,-117.02418600000001,32.977921,San Diego,3,Medium Risk
+Thrifty,-117.73722790000001,34.0904966,Los Angeles,3,Medium Risk
+Arco,-117.7363861,34.0905226,Los Angeles,3,Medium Risk
+Unknown Name,-119.03863999999999,35.3398721,Kern,3,Medium Risk
+Unknown Name,-116.5458639,33.9030401,Riverside,2,Mild Risk
+Shell,-122.08850659999999,37.388470899999994,Santa Clara,3,Medium Risk
+7-Eleven,-117.023578,32.9564814,San Diego,3,Medium Risk
+Rotten Robbie,-122.05974440000001,37.3975505,Santa Clara,3,Medium Risk
+Ultra Fuel,-117.062919,32.951584600000004,San Diego,3,Medium Risk
+USA Pro Gasoline,-122.03500770000001,36.9726239,Santa Cruz,2,Mild Risk
+Chevron,-121.2741172,38.219874600000004,Amador,1,Low Risk
+Unknown Name,-122.4164712,37.629183399999995,San Mateo,1,Low Risk
+76,-121.2637486,38.6524541,Sacramento,3,Medium Risk
+Shell,-121.27164140000001,38.66434829999999,Sacramento,3,Medium Risk
+76,-121.27271709999998,38.6642011,Sacramento,3,Medium Risk
+76,-121.07659620000001,38.904186700000004,Nevada,0,
+Costco Gasoline,-116.2738828,33.7057169,Riverside,2,Mild Risk
+ARCO,-116.2944946,33.716505,Riverside,2,Mild Risk
+Chevron,-122.6244311,38.2503109,Sonoma,2,Mild Risk
+76,-122.62652320000001,38.24916500000001,Sonoma,2,Mild Risk
+Quick Stop,-121.85436340000001,36.597662299999996,Monterey,3,Medium Risk
+Mobil,-116.30328519999999,33.7575097,Riverside,2,Mild Risk
+76,-116.3022561,33.7574245,Riverside,2,Mild Risk
+Chevron,-121.89255690000002,36.5955026,Monterey,3,Medium Risk
+Shell,-122.05003500000001,37.5503224,Alameda,3,Medium Risk
+Unknown Name,-118.9141341,35.26668170000001,Kern,3,Medium Risk
+Fastrip,-118.91401869999999,35.2618198,Kern,3,Medium Risk
+Unknown Name,-117.23548329999998,32.8007814,San Diego,3,Medium Risk
+Unknown Name,-116.4009551,33.8166393,Riverside,2,Mild Risk
+76,-118.2829114,33.79100579999999,Los Angeles,3,Medium Risk
+Mobil,-114.57043190000002,33.6105564,Imperial,0,
+76,-114.5885185,33.6107365,Imperial,0,
+76,-114.72577749999999,33.6110542,Imperial,0,
+Chevron,-117.3018598,34.1357802,San Bernardino,1,Low Risk
+Chevron,-117.43422930000001,34.35937979999999,San Bernardino,1,Low Risk
+Texaco,-118.44802379999999,35.1446872,Kern,0,
+76,-118.2871217,34.1116654,Los Angeles,3,Medium Risk
+Unknown Name,-118.30895220000001,34.1050573,Los Angeles,3,Medium Risk
+76,-122.2461706,37.8138443,Alameda,3,Medium Risk
+Arco,-121.6405781,36.678987799999994,Monterey,3,Medium Risk
+Vons Gas Station,-120.45819099999999,34.647257,Santa Barbara,2,Mild Risk
+Kwik Serv,-120.45801599999999,34.65365300000001,Santa Barbara,2,Mild Risk
+Shell,-122.2123114,39.5239055,Butte,3,Medium Risk
+Main Street Gas,-121.90666750000001,37.4307804,Santa Clara,3,Medium Risk
+Chevron,-121.6902759,38.16110870000001,Contra Costa,2,Mild Risk
+Unknown Name,-119.400155,35.0586941,Kern,3,Medium Risk
+Sam's Club,-121.11806809999999,38.645435799999994,El Dorado,2,Mild Risk
+Unknown Name,-118.52708,34.2352278,Los Angeles,3,Medium Risk
+Arco,-117.88011599999999,33.68039520000001,Orange,3,Medium Risk
+Palo Cedro Chevron,-122.23774409999999,40.559101500000004,Shasta,2,Mild Risk
+76 gas station,-122.2386884,40.5546162,Shasta,2,Mild Risk
+United Oil,-117.2051057,32.854967200000004,San Diego,3,Medium Risk
+Chevron,-121.1141342,38.646027399999994,El Dorado,2,Mild Risk
+76,-119.92032590000001,36.8324395,Fresno,1,Low Risk
+Unknown Name,-118.41730700000001,34.0124266,Los Angeles,3,Medium Risk
+Chevron Gas Station,-121.9321372,37.294866999999996,Santa Clara,3,Medium Risk
+Delta Queen - Classic Car Wash,-121.9327836,37.2948296,Santa Clara,3,Medium Risk
+Hamilton Union Service,-121.9438866,37.294684499999995,Santa Clara,3,Medium Risk
+Unknown Name,-117.4745926,34.1494136,San Bernardino,3,Medium Risk
+Unknown Name,-117.3430892,34.47082,San Bernardino,1,Low Risk
+Costco Gasoline,-122.2177146,37.4786177,San Mateo,1,Low Risk
+Shell,-122.069953,37.896688,Contra Costa,2,Mild Risk
+Shell,-117.15375490000001,32.8324232,San Diego,3,Medium Risk
+Shell,-122.06613899999999,37.9045414,Contra Costa,2,Mild Risk
+Chevron,-117.14852150000002,32.822351899999994,San Diego,3,Medium Risk
+Shell,-117.0980379,32.839654700000004,San Diego,3,Medium Risk
+Chevron,-121.4194821,38.5957675,Sacramento,3,Medium Risk
+Chevron,-122.45562520000001,37.7117689,San Francisco,2,Mild Risk
+Unknown Name,-123.7952006,40.1001921,Mendocino,2,Mild Risk
+Shell,-119.82533810000001,36.74977670000001,Fresno,1,Low Risk
+Unknown Name,-116.92764340000001,32.785537899999994,San Diego,3,Medium Risk
+Unknown Name,-118.43995770000001,34.674576,Los Angeles,2,Mild Risk
+Mobil,-117.0748072,33.0232,San Diego,3,Medium Risk
+Shell,-117.06039229999999,33.018507799999995,San Diego,3,Medium Risk
+Shell,-117.0825014,33.0235908,San Diego,3,Medium Risk
+Unknown Name,-124.18625449999999,41.752642,Del Norte,2,Mild Risk
+Larkspur Gas,-122.53424609999999,37.9378688,Marin,1,Low Risk
+Shell,-122.71394850000001,38.3873515,Sonoma,2,Mild Risk
+Unknown Name,-121.1704175,38.705587,Sacramento,3,Medium Risk
+Buck Meadows Gas Station,-120.0629213,37.8156026,Calaveras,1,Low Risk
+Steve's 76,-121.98462509999999,36.987807600000004,Santa Cruz,2,Mild Risk
+Circle K Gas,-116.29725479999999,33.7163745,Riverside,2,Mild Risk
+Shoggys,-120.46493229999999,36.865759499999996,Fresno,3,Medium Risk
+Chevron,-120.45571090000001,36.8570553,Fresno,3,Medium Risk
+ARCO 42933,-118.1315997,34.1781615,Los Angeles,3,Medium Risk
+Panther Petrol,-118.1213632,34.1688045,Los Angeles,3,Medium Risk
+Shell,-118.28286509999998,34.0034482,Los Angeles,3,Medium Risk
+76,-118.282967,34.0039907,Los Angeles,3,Medium Risk
+Chevron,-118.2822428,34.0106834,Los Angeles,3,Medium Risk
+Hi Sahara Oasis,-115.1831504,34.817272700000004,San Bernardino,0,
+ampm,-120.94872240000002,37.5943162,Stanislaus,2,Mild Risk
+Chevron,-120.9381625,37.5797441,Stanislaus,2,Mild Risk
+Circle K,-120.8354741,37.07401160000001,Merced,3,Medium Risk
+Chevron,-119.6575798,37.5371407,Fresno,1,Low Risk
+Unknown Name,-119.95852909999999,34.577178,Santa Barbara,2,Mild Risk
+Richmond Gas 1,-122.35157749999999,37.92536670000001,Contra Costa,2,Mild Risk
+Stop and Save Gasoline,-122.3479565,37.925404799999995,Contra Costa,2,Mild Risk
+Valero,-122.33397179999999,37.9256208,Contra Costa,2,Mild Risk
+Arco,-118.0866497,34.1459191,Los Angeles,3,Medium Risk
+Shell,-116.69258549999999,34.828854,San Bernardino,1,Low Risk
+Unknown Name,-119.0386017,34.223892799999994,Ventura,3,Medium Risk
+Unknown Name,-121.8652655,37.2653047,Santa Clara,3,Medium Risk
+Gas & Go,-120.8398354,38.905194200000004,El Dorado,1,Low Risk
+Unknown Name,-118.26590870000001,34.0467457,Los Angeles,3,Medium Risk
+Shell,-121.34789939999999,38.66050870000001,Sacramento,3,Medium Risk
+Arco,-121.29161599999999,38.6643184,Sacramento,3,Medium Risk
+Chevron,-121.2725793,38.6635784,Sacramento,3,Medium Risk
+76,-121.070425,38.65398010000001,El Dorado,2,Mild Risk
+Mobil,-120.71043770000001,38.7360814,El Dorado,1,Low Risk
+Chevron,-120.53048009999999,38.7602159,El Dorado,1,Low Risk
+Valero,-120.6178665,38.749665500000006,El Dorado,1,Low Risk
+Unknown Name,-114.6105584,34.839927200000005,San Bernardino,0,
+76,-116.16286370000002,34.727084000000005,San Bernardino,0,
+Chevron,-116.6958438,34.83136079999999,San Bernardino,1,Low Risk
+Unknown Name,-117.8067672,34.1033153,Los Angeles,3,Medium Risk
+Unknown Name,-117.80676129999999,34.1027325,Los Angeles,3,Medium Risk
+Clark's Travel Center,-116.2306767,33.727695000000004,Riverside,2,Mild Risk
+Unknown Name,-122.24473940000001,37.858337,Alameda,3,Medium Risk
+Mobil,-120.4355727,34.9163297,Santa Barbara,2,Mild Risk
+Shell,-120.4355898,34.921128,Santa Barbara,2,Mild Risk
+76,-120.4365976,34.918378000000004,Santa Barbara,2,Mild Risk
+Anita's Spirit,-120.43641229999999,34.9310513,Santa Barbara,2,Mild Risk
+Foods Co,-120.436426,34.9347239,Santa Barbara,2,Mild Risk
+Easy Serv,-120.4364729,34.926560200000004,Santa Barbara,2,Mild Risk
+Peppertree Chevron,-120.43595900000001,34.9680783,Santa Barbara,2,Mild Risk
+Santa Maria Gas,-120.4353623,34.9680991,Santa Barbara,2,Mild Risk
+Alliance,-120.43593770000001,34.9674925,Santa Barbara,2,Mild Risk
+Gasco,-120.4459308,34.953495700000005,Santa Barbara,2,Mild Risk
+USA,-120.45326299999999,34.9528779,Santa Barbara,2,Mild Risk
+Gasco,-120.42520209999999,34.967436299999996,Santa Barbara,2,Mild Risk
+Chevron,-120.42512579999999,34.9679361,Santa Barbara,2,Mild Risk
+USA,-120.4198189,34.9386527,Santa Barbara,2,Mild Risk
+Betteravia Mobil,-120.4166263,34.9232922,Santa Barbara,2,Mild Risk
+Fuel Connection,-120.4166263,34.923869,Santa Barbara,2,Mild Risk
+Unknown Name,-122.24689109999998,37.469705499999996,San Mateo,1,Low Risk
+Chevron,-118.4856191,34.0141243,Los Angeles,3,Medium Risk
+Kwik Serve Gas,-120.7204847,37.3901255,Merced,2,Mild Risk
+Unknown Name,-121.4094503,38.4957791,Sacramento,3,Medium Risk
+Valero,-120.5453197,39.308730499999996,Nevada,0,
+Unknown Name,-124.1900761,40.7750686,Del Norte,2,Mild Risk
+76,-121.0219091,39.2509076,Nevada,0,
+Chevron,-121.097676,38.942438,Nevada,0,
+Shell,-121.2268406,38.744335299999996,Sacramento,3,Medium Risk
+ampm,-121.22526880000001,38.664243,Sacramento,3,Medium Risk
+Arco,-121.41481259999999,38.6105864,Sacramento,3,Medium Risk
+ampm,-121.2023628,38.6722093,Sacramento,3,Medium Risk
+ampm,-121.183008,38.6573649,Sacramento,3,Medium Risk
+Al's Gas,-120.9962672,37.724649600000006,Stanislaus,2,Mild Risk
+Chevron,-121.0183311,37.6464261,Stanislaus,2,Mild Risk
+Arco,-120.84947460000001,37.4724348,Merced,2,Mild Risk
+76,-120.8495021,37.411337599999996,Merced,2,Mild Risk
+Kwik Serve,-120.85154059999999,37.327230799999995,Merced,2,Mild Risk
+76 Gas,-117.7920608,34.0617512,Los Angeles,3,Medium Risk
+Unknown Name,-117.0713128,33.0938632,San Diego,3,Medium Risk
+Shell,-121.38645279999999,38.6675438,Sacramento,3,Medium Risk
+Chevron,-121.9645666,36.9734414,Santa Cruz,2,Mild Risk
+1-Stop,-117.67018600000002,35.648305,Kern,0,
+Portola Valley Fuel,-122.2088625,37.37200960000001,San Mateo,1,Low Risk
+Chevron,-120.6809057,35.6146138,San Luis Obispo,2,Mild Risk
+Arco,-120.6808176,35.6154566,San Luis Obispo,2,Mild Risk
+Unknown Name,-120.6734413,35.6275221,San Luis Obispo,2,Mild Risk
+Shell,-116.23402659999998,33.73643,Riverside,2,Mild Risk
+Shell,-116.54291509999999,33.908355900000004,Riverside,2,Mild Risk
+76,-116.8676473,33.92517,Riverside,2,Mild Risk
+Shell,-116.9004281,33.925228499999996,Riverside,2,Mild Risk
+Rocky Gas,-117.1138716,34.0240228,San Bernardino,1,Low Risk
+Shell,-120.85467340000002,38.466182,Amador,1,Low Risk
+Chevron,-120.8027619,38.37759570000001,Amador,1,Low Risk
+Thrifty Gas,-117.09306550000001,32.5843272,San Diego,3,Medium Risk
+Joes Travel Plaza,-121.291155,37.820584000000004,San Joaquin,3,Medium Risk
+Shell,-117.0670402,33.0682285,San Diego,3,Medium Risk
+Unknown Name,-119.6589381,35.6166416,Kern,3,Medium Risk
+Pilot,-119.65883600000001,35.615811,Kern,3,Medium Risk
+Unknown Name,-119.65707900000001,35.61657370000001,Kern,3,Medium Risk
+Unknown Name,-119.65798590000001,35.6158412,Kern,3,Medium Risk
+Unknown Name,-119.6571196,35.6156931,Kern,3,Medium Risk
+Shell,-117.16197609999999,32.7501157,San Diego,3,Medium Risk
+Pilot,-121.6298723,36.665615,Monterey,3,Medium Risk
+Shell,-120.9081308,38.809474200000004,El Dorado,2,Mild Risk
+Chevron,-121.7312986,36.4790528,Monterey,3,Medium Risk
+Valero,-117.18647320000001,34.1088162,San Bernardino,1,Low Risk
+Arco,-121.65465520000001,36.680754799999995,Monterey,3,Medium Risk
+Shell,-121.65302220000001,36.68450120000001,Monterey,3,Medium Risk
+76,-122.0141905,37.393096,Santa Clara,3,Medium Risk
+Unknown Name,-118.37943829999999,33.970187700000004,Los Angeles,3,Medium Risk
+Unknown Name,-120.83226440000001,39.1871971,Nevada,0,
+Shell,-117.17575420000001,32.8199409,San Diego,3,Medium Risk
+76,-121.9016123,36.582815999999994,Monterey,3,Medium Risk
+Golden Bear,-121.94329479999999,40.7935804,Shasta,2,Mild Risk
+Quik Stop,-121.9570883,36.990585100000004,Santa Cruz,2,Mild Risk
+Timber Mountain Store,-121.2905919,41.6479145,Plumas,1,Low Risk
+Unknown Name,-121.6331524,39.026085200000004,Yuba,3,Medium Risk
+Chevron,-121.6325355,39.0666891,Yuba,3,Medium Risk
+Arco,-121.6348743,39.0978281,Yuba,3,Medium Risk
+Quickstop,-121.6337156,39.0985711,Yuba,3,Medium Risk
+PowerMarket,-121.66033390000001,39.2737183,Yuba,3,Medium Risk
+Arco,-121.66156770000002,39.2763261,Yuba,3,Medium Risk
+Gridley Grill,-121.67872720000001,39.3226898,Butte,3,Medium Risk
+Unknown Name,-122.12378740000001,40.130787899999994,Butte,3,Medium Risk
+Sunshine Gas,-122.1892977,40.1866684,Shasta,2,Mild Risk
+76,-122.1979558,40.1868323,Shasta,2,Mild Risk
+Chevron,-122.2834469,40.3697962,Shasta,2,Mild Risk
+Chevron,-122.2874987,40.38974520000001,Shasta,2,Mild Risk
+Chevron,-122.3654759,40.6224139,Shasta,2,Mild Risk
+Unknown Name,-122.3848361,40.88800870000001,Shasta,2,Mild Risk
+Pollard Flat,-122.41839590000001,40.994516299999994,Shasta,2,Mild Risk
+Chevron,-122.27624469999999,41.2225727,Shasta,2,Mild Risk
+Chevron,-122.1373057,41.2507659,Shasta,2,Mild Risk
+Spirit,-122.3166007,41.3108239,Shasta,2,Mild Risk
+Chevron,-122.1936058,39.49395850000001,Butte,3,Medium Risk
+Flyers,-122.06441540000002,39.026521100000004,Napa,0,
+Arco,-121.78353519999999,38.70000039999999,Yolo,2,Mild Risk
+Chevron,-122.31735649999999,41.1483386,Shasta,2,Mild Risk
+Chevron,-118.4761747,34.015671999999995,Los Angeles,3,Medium Risk
+Chevron,-120.95891670000002,37.689447200000004,Stanislaus,2,Mild Risk
+USA Gasoline,-120.9583063,37.677236900000004,Stanislaus,2,Mild Risk
+Unknown Name,-118.4703992,34.39226179999999,Los Angeles,3,Medium Risk
+AM/PM,-122.3302315,37.947036600000004,Contra Costa,2,Mild Risk
+Valero,-122.32869199999999,37.9436565,Contra Costa,2,Mild Risk
+Unknown Name,-118.54035619999999,34.4229172,Los Angeles,3,Medium Risk
+Unknown Name,-118.47452009999999,34.235301899999996,Los Angeles,3,Medium Risk
+Shell,-122.2205634,37.7674874,Alameda,3,Medium Risk
+Valero,-121.95745649999999,37.9525007,Contra Costa,2,Mild Risk
+Shell,-121.9566894,37.9521665,Contra Costa,2,Mild Risk
+7-Eleven,-121.99359879999999,37.978201,Contra Costa,2,Mild Risk
+Unknown Name,-122.0554535,37.63661010000001,Alameda,3,Medium Risk
+Unknown Name,-122.05411240000001,37.6367737,Alameda,3,Medium Risk
+Unknown Name,-118.53639869999999,34.242424299999996,Los Angeles,3,Medium Risk
+Rotten Robbie,-121.90637679999999,37.270903600000004,Santa Clara,3,Medium Risk
+Foxworthy Gas,-121.9054592,37.271168599999996,Santa Clara,3,Medium Risk
+76,-121.9286,37.4892206,Alameda,3,Medium Risk
+Madera Shell Gas & Food ,-120.0564497,36.93857620000001,Fresno,1,Low Risk
+Parkwood Mini Mart,-120.0557304,36.93807879999999,Fresno,1,Low Risk
+Kirkwood Station,-120.07328840000001,38.702884600000004,Calaveras,0,
+Valero,-118.90445590000002,34.3992968,Ventura,0,
+Unknown Name,-117.14644299999999,36.6070013,Inyo,0,
+7-Eleven,-117.09286979999999,33.1357013,San Diego,3,Medium Risk
+Chevron,-120.17239850000001,38.0746054,Calaveras,1,Low Risk
+Unknown Name,-120.999152,37.798345,Stanislaus,2,Mild Risk
+Unknown Name,-121.9168685,37.2632103,Santa Clara,3,Medium Risk
+Chevron,-120.07798400000001,36.9749646,Madera,3,Medium Risk
+Valero Gas Station,-120.08646759999999,36.9821217,Madera,3,Medium Risk
+Shell Gas,-120.07211240000001,36.9530023,Fresno,1,Low Risk
+Unknown Name,-118.53579909999999,34.2575446,Los Angeles,3,Medium Risk
+76,-118.3787588,34.150208899999996,Los Angeles,3,Medium Risk
+Unknown Name,-118.4410192,34.2348151,Los Angeles,3,Medium Risk
+Arco,-118.55609550000001,34.3785645,Los Angeles,3,Medium Risk
+Chevron,-120.05576119999999,36.9457849,Fresno,1,Low Risk
+Unknown Name,-118.5270354,34.2081891,Los Angeles,3,Medium Risk
+Unknown Name,-118.5365892,34.2575124,Los Angeles,3,Medium Risk
+Redhill 76 Circle K,-122.56661969999999,37.98117110000001,Marin,1,Low Risk
+Shell,-119.86838,35.6146169,Kern,3,Medium Risk
+Shell,-118.2899588,37.165840100000004,Fresno,1,Low Risk
+Shell Gas Station,-120.05125840000001,36.95231079999999,Fresno,1,Low Risk
+76 Gas Station,-120.0525619,36.9532282,Fresno,1,Low Risk
+76,-122.20153470000001,39.7493976,Butte,3,Medium Risk
+Valero,-121.9545226,37.271956,Santa Clara,3,Medium Risk
+Valero,-122.08859679999999,37.6611805,Alameda,3,Medium Risk
+Chevron,-118.43780509999999,34.049944,Los Angeles,3,Medium Risk
+Exxon,-121.95622900000001,37.26963370000001,Santa Clara,3,Medium Risk
+A Tool Shed Equipment Rental,-121.65338329999999,37.131800299999995,Santa Cruz,2,Mild Risk
+Unknown Name,-118.44783980000001,34.067528499999995,Los Angeles,3,Medium Risk
+Arco,-119.03855630000001,34.223105700000005,Ventura,3,Medium Risk
+Arco,-117.90732779999999,34.121966,Los Angeles,3,Medium Risk
+Mobil,-117.90783470000001,34.1232227,Los Angeles,3,Medium Risk
+Unknown Name,-118.51893270000001,34.2014193,Los Angeles,3,Medium Risk
+Unknown Name,-118.51900249999998,34.200878,Los Angeles,3,Medium Risk
+Unknown Name,-118.48393689999999,34.201409000000005,Los Angeles,3,Medium Risk
+Unknown Name,-118.4841032,34.2009276,Los Angeles,3,Medium Risk
+Unknown Name,-116.88744409999998,34.900541499999996,San Bernardino,1,Low Risk
+Arco,-116.887235,34.9014511,San Bernardino,1,Low Risk
+Shell,-116.8871102,34.903823200000005,San Bernardino,1,Low Risk
+USA Gasoline,-116.40227420000001,33.7283424,Riverside,2,Mild Risk
+Chevron,-118.16544479999999,34.7037073,Los Angeles,2,Mild Risk
+Unknown Name,-118.50963290000001,34.22135720000001,Los Angeles,3,Medium Risk
+Chevron,-118.2018982,34.0567718,Los Angeles,3,Medium Risk
+Mobil,-118.1320544,34.13760120000001,Los Angeles,3,Medium Risk
+7-Eleven,-117.17903840000001,33.1378225,San Diego,3,Medium Risk
+Chevron,-120.64987240000002,35.26173520000001,San Luis Obispo,2,Mild Risk
+Crane Flat Chevron,-119.79695559999999,37.753231400000004,Calaveras,0,
+Berri Brothers,-117.3737894,33.974428700000004,San Bernardino,3,Medium Risk
+Conserv Fuel,-120.6652886,35.289035,San Luis Obispo,2,Mild Risk
+Arco,-122.3356486,37.9905745,Contra Costa,2,Mild Risk
+Mobil,-118.17427830000001,34.6898537,Los Angeles,2,Mild Risk
+76,-122.4209216,37.7523094,San Francisco,2,Mild Risk
+Conserv Fuel,-120.191433,34.612831,Santa Barbara,2,Mild Risk
+Shell,-120.191588,34.612372,Santa Barbara,2,Mild Risk
+Chevron,-118.17288500000001,34.697074,Los Angeles,2,Mild Risk
+Pioneer Food Mart,-120.6917992,35.6263874,San Luis Obispo,2,Mild Risk
+Chevron,-121.4508197,38.4957366,Sacramento,3,Medium Risk
+76,-121.45084109999999,38.4964924,Sacramento,3,Medium Risk
+Valero,-121.95230790000001,37.5573506,Alameda,3,Medium Risk
+Arco,-121.9508996,37.5565408,Alameda,3,Medium Risk
+Shell,-122.43133799999998,37.729044200000004,San Francisco,2,Mild Risk
+76,-122.4296241,37.7301389,San Francisco,2,Mild Risk
+USA Gasoline,-117.8722317,34.0996849,Los Angeles,3,Medium Risk
+7-Eleven,-117.87303870000001,34.0990945,Los Angeles,3,Medium Risk
+ARCO Grand Carwash,-117.87291029999999,34.0742524,Los Angeles,3,Medium Risk
+Chevron,-121.92312890000001,37.2430849,Santa Clara,3,Medium Risk
+76,-122.4377294,37.7238458,San Francisco,2,Mild Risk
+Arco,-122.4527203,37.709078399999996,San Francisco,2,Mild Risk
+Valero,-122.464366,37.6960079,San Francisco,2,Mild Risk
+arco,-121.47645349999999,38.6301356,Sacramento,3,Medium Risk
+Shell,-121.47513390000002,38.6298904,Sacramento,3,Medium Risk
+Valero,-121.4758998,38.6273125,Sacramento,3,Medium Risk
+Mobil,-121.4752564,38.62014129999999,Sacramento,3,Medium Risk
+Arco,-121.56868300000001,37.0212848,Santa Cruz,2,Mild Risk
+Shell,-121.509248,38.656487299999995,Sacramento,3,Medium Risk
+Unknown Name,-117.04493300000001,32.5504761,San Diego,3,Medium Risk
+Unknown Name,-117.0443268,32.5520056,San Diego,3,Medium Risk
+Unknown Name,-117.0448136,32.552149199999995,San Diego,3,Medium Risk
+Bonfare,-121.4753118,38.6222528,Sacramento,3,Medium Risk
+Chevron,-121.5117791,38.495907700000004,Sacramento,3,Medium Risk
+Unknown Name,-121.52690159999999,38.580354299999996,Yolo,2,Mild Risk
+Chevron,-121.4011798,38.61096989999999,Sacramento,3,Medium Risk
+Valero,-121.38348540000001,38.6108,Sacramento,3,Medium Risk
+Arco,-121.503656,38.4959274,Sacramento,3,Medium Risk
+Shell,-121.49747009999999,38.613141999999996,Sacramento,3,Medium Risk
+Shell,-121.5047353,38.6372595,Sacramento,3,Medium Risk
+Unknown Name,-121.77580520000001,37.6793476,Alameda,3,Medium Risk
+Unknown Name,-121.7666163,37.681096999999994,Alameda,3,Medium Risk
+Beacon,-120.8485149,37.5044384,Stanislaus,2,Mild Risk
+Quick Stop,-120.848547,37.504710700000004,Stanislaus,2,Mild Risk
+Quick Stop,-120.87619790000001,37.52142910000001,Stanislaus,2,Mild Risk
+Valero,-121.45640929999999,38.64436679999999,Sacramento,3,Medium Risk
+Unknown Name,-121.47864440000001,38.6547383,Sacramento,3,Medium Risk
+Chevron,-121.507823,38.6409917,Sacramento,3,Medium Risk
+Qwik Korner,-117.0011662,32.8382871,San Diego,3,Medium Risk
+Valero,-120.4872106,37.31953970000001,Merced,2,Mild Risk
+76,-117.107891,32.950683000000005,San Diego,3,Medium Risk
+Valero,-121.99936100000001,37.284420000000004,Santa Clara,3,Medium Risk
+Tupacks Liquor,-118.0789682,34.704189,Los Angeles,2,Mild Risk
+Unknown Name,-117.0789618,32.7483428,San Diego,3,Medium Risk
+Chevron,-121.19755009999999,37.797171399999996,San Joaquin,3,Medium Risk
+Arco AM PM,-121.1894723,37.797770299999996,San Joaquin,3,Medium Risk
+Quicki Kleen Car wash,-121.207647,37.7975817,San Joaquin,3,Medium Risk
+Unknown Name,-121.20280290000001,37.797778799999996,San Joaquin,3,Medium Risk
+Arco,-120.85017260000001,37.4761182,Merced,2,Mild Risk
+Chevron,-120.84854720000001,37.474917700000006,Merced,2,Mild Risk
+Unknown Name,-119.6921182,34.9488436,Kern,3,Medium Risk
+Mobil,-120.189279,34.611348,Santa Barbara,2,Mild Risk
+Dogpatch Biofuels,-122.39279920000001,37.7564805,San Francisco,2,Mild Risk
+Fastrip,-120.57406780000001,34.9674546,San Luis Obispo,2,Mild Risk
+Unknown Name,-120.57153249999999,34.9724467,San Luis Obispo,2,Mild Risk
+Costco Gasoline,-117.2237162,32.8199865,San Diego,3,Medium Risk
+Chevron,-121.9921068,37.2911622,Santa Clara,3,Medium Risk
+Unknown Name,-119.31249440000002,36.0642734,Tulare,2,Mild Risk
+Unknown Name,-119.312848,36.0650526,Tulare,2,Mild Risk
+Arco,-116.88296159999999,34.2561353,San Bernardino,1,Low Risk
+Park Gas & Food Station,-122.29338440000001,37.8046769,Alameda,3,Medium Risk
+Unknown Name,-120.27581509999999,34.7441941,Santa Barbara,2,Mild Risk
+Collins Market,-120.2817935,34.74400479999999,Santa Barbara,2,Mild Risk
+Unknown Name,-117.88521609999998,33.8893097,Orange,3,Medium Risk
+Unknown Name,-117.1075749,32.952306,San Diego,3,Medium Risk
+Unknown Name,-119.87086210000001,36.7714954,Fresno,1,Low Risk
+Flyers,-121.0934409,38.93468729999999,Nevada,0,
+Chevron,-121.05809679999999,39.200828,Nevada,0,
+Unknown Name,-119.32244850000001,36.19637,Tulare,2,Mild Risk
+Unknown Name,-119.32180159999999,36.2114823,Tulare,2,Mild Risk
+Unknown Name,-119.34329040000001,36.2086652,Tulare,2,Mild Risk
+Unknown Name,-119.35416599999999,36.2039708,Tulare,2,Mild Risk
+Unknown Name,-122.03894469999999,37.956754,Contra Costa,2,Mild Risk
+Unknown Name,-122.03367140000002,37.9596682,Contra Costa,2,Mild Risk
+Shell,-122.0248953,37.939059,Contra Costa,2,Mild Risk
+Shell,-117.2888866,33.0490424,San Diego,3,Medium Risk
+Unknown Name,-120.8328144,35.3114677,San Luis Obispo,2,Mild Risk
+Unknown Name,-124.1351625,40.7936218,Del Norte,2,Mild Risk
+Unknown Name,-124.1912689,40.768214,Del Norte,2,Mild Risk
+Unknown Name,-124.177874,40.7918064,Del Norte,2,Mild Risk
+Mobil,-119.03866289999999,35.35437,Kern,3,Medium Risk
+Shell,-122.62178300000001,38.235614700000006,Sonoma,2,Mild Risk
+Chevron,-121.56909850000001,37.0218756,Santa Cruz,2,Mild Risk
+Shell,-120.6647966,35.28876229999999,San Luis Obispo,2,Mild Risk
+Unknown Name,-119.038731,36.0872309,Tulare,2,Mild Risk
+Chevron,-119.7003916,36.7354544,Fresno,1,Low Risk
+Shell,-119.69972109999999,36.736137899999996,Fresno,1,Low Risk
+Valero Gas,-119.6997479,36.738158500000004,Fresno,1,Low Risk
+Shell,-121.0707926,38.6547834,El Dorado,2,Mild Risk
+Unknown Name,-121.0677617,38.6505899,El Dorado,2,Mild Risk
+Shell,-121.69403840000001,38.550276600000004,Yolo,2,Mild Risk
+Chevron,-121.9716327,37.548241499999996,Alameda,3,Medium Risk
+Shell,-121.01595459999999,37.0547501,Merced,3,Medium Risk
+Unknown Name,-118.16926699999999,33.8968243,Los Angeles,3,Medium Risk
+Marsh Road Valero,-122.18855520000001,37.4740755,San Mateo,1,Low Risk
+Chevron Marsh Road,-122.1836195,37.4808325,San Mateo,1,Low Risk
+Unknown Name,-123.97588490000001,41.845708,Del Norte,1,Low Risk
+Valero,-121.32235370000001,36.41855870000001,Monterey,3,Medium Risk
+Unknown Name,-117.2463067,33.0531637,San Diego,3,Medium Risk
+Unknown Name,-116.923983,32.874005100000005,San Diego,3,Medium Risk
+Unknown Name,-122.43006480000001,37.65008510000001,San Mateo,1,Low Risk
+Shell,-122.4305072,37.650653399999996,San Mateo,1,Low Risk
+Hazard Center Auto Mall,-117.15799399999999,32.7726343,San Diego,3,Medium Risk
+Alianza,-122.40846599999999,37.748191,San Francisco,2,Mild Risk
+Allstars,-122.40638700000001,37.748692999999996,San Francisco,2,Mild Risk
+Unknown Name,-121.83158999999999,37.266413299999996,Santa Clara,3,Medium Risk
+Unknown Name,-122.0974801,37.9021749,Contra Costa,2,Mild Risk
+Unknown Name,-122.1534818,37.7519652,Alameda,3,Medium Risk
+Chevron,-117.1731132,32.878352500000005,San Diego,3,Medium Risk
+Shell,-117.2600592,33.0457099,San Diego,3,Medium Risk
+Unknown Name,-122.33490309999999,40.5050244,Shasta,2,Mild Risk
+Spirit,-118.419141,35.75813,Kern,0,
+Fastrip,-118.41996599999999,35.758266,Kern,0,
+Shell,-117.871971,35.798538,Kern,0,
+Mobil,-118.002455,36.27367,Kern,0,
+Channel's Shell and AAA Towing,-119.11917290000001,37.956944899999996,Mono,1,Low Risk
+Chevron,-120.09844640000001,37.4313512,Merced,2,Mild Risk
+The Oasis,-120.09793119999999,37.43267150000001,Merced,2,Mild Risk
+Unknown Name,-118.29122379999998,34.052099,Los Angeles,3,Medium Risk
+Valero,-119.6004939,36.328487,Fresno,3,Medium Risk
+Chevron,-119.3131489,36.3260344,Tulare,2,Mild Risk
+Shell,-119.1354311,36.3266481,Tulare,2,Mild Risk
+Texaco,-119.08929170000002,36.3249625,Tulare,2,Mild Risk
+Unknown Name,-118.316469,34.1862528,Los Angeles,3,Medium Risk
+Chevron,-118.9037722,36.44273270000001,Tulare,2,Mild Risk
+Shell,-122.33851429999999,40.7068116,Shasta,2,Mild Risk
+United Gas,-121.5711075,37.0203466,Santa Cruz,2,Mild Risk
+Valero,-122.1979012,39.928464700000006,Butte,3,Medium Risk
+Chevron,-122.1979719,39.92764860000001,Butte,3,Medium Risk
+Shell,-120.64330600000001,35.247811999999996,San Luis Obispo,2,Mild Risk
+Neighborhood Gas,-122.5160563,37.5416917,San Mateo,1,Low Risk
+Unknown Name,-124.2034811,41.9573519,Del Norte,1,Low Risk
+Chevron,-121.96718429999999,37.759035499999996,Contra Costa,2,Mild Risk
+Unknown Name,-121.2315905,37.9969972,San Joaquin,3,Medium Risk
+76,-121.17421570000002,38.1157185,Calaveras,2,Mild Risk
+Shell,-121.1460847,38.166448700000004,Amador,1,Low Risk
+Chevron,-117.2060041,32.7493228,San Diego,3,Medium Risk
+Chevron,-119.7502858,34.4385132,Santa Barbara,2,Mild Risk
+Unknown Name,-120.5125352,38.4919505,Amador,1,Low Risk
+76,-120.52803859999999,38.4520787,Amador,1,Low Risk
+Chevron,-122.3380004,37.5197319,San Mateo,1,Low Risk
+Best Truck Stop,-119.2930825,35.97386510000001,Tulare,2,Mild Risk
+Bob's Truck Stop,-119.2914952,35.97178800000001,Tulare,2,Mild Risk
+Valero,-121.93438459999999,37.7058214,Alameda,3,Medium Risk
+Shell,-121.8875287,37.7049114,Alameda,3,Medium Risk
+Chevron,-121.90975619999999,37.7044468,Alameda,3,Medium Risk
+76,-121.91033519999999,37.7048559,Alameda,3,Medium Risk
+Shell,-121.9095656,37.705482399999994,Alameda,3,Medium Risk
+Chevron,-120.6963243,38.7403341,El Dorado,1,Low Risk
+Circle K,-120.44075120000001,34.6392229,Santa Barbara,2,Mild Risk
+Star 1 Gas,-121.619221,36.672429,Monterey,3,Medium Risk
+Dublin Auto Wash,-121.92406270000001,37.705623700000004,Alameda,3,Medium Risk
+Valero,-119.659935,35.616812,Kern,3,Medium Risk
+Mobil,-119.66072,35.6158,Kern,3,Medium Risk
+Rod & Ros,-121.84129180000001,36.6166816,Monterey,3,Medium Risk
+Alliance Gasoline,-122.3831524,37.25178070000001,San Mateo,1,Low Risk
+Unknown Name,-121.0674947,38.64999210000001,El Dorado,2,Mild Risk
+Shell,-122.19714429999999,39.9282857,Butte,3,Medium Risk
+Costco Gasoline,-121.97450400000001,37.502409,Alameda,3,Medium Risk
+Valero,-123.1162601,38.9709926,Sonoma,2,Mild Risk
+76,-123.116747,38.9697104,Sonoma,2,Mild Risk
+Self Serve Gasoline,-121.9196547,37.530878,Alameda,3,Medium Risk
+Shell,-123.3475622,39.3930118,Lake,1,Low Risk
+76,-121.93269609999999,37.272908799999996,Santa Clara,3,Medium Risk
+Unknown Name,-121.69776920000001,37.1774415,Santa Clara,3,Medium Risk
+Chevron,-120.99415900000001,37.49279620000001,Stanislaus,3,Medium Risk
+Chevron,-120.8394492,37.7569406,Stanislaus,2,Mild Risk
+76,-120.9392703,37.5950473,Stanislaus,2,Mild Risk
+Shell,-116.935372,32.8023965,San Diego,3,Medium Risk
+7-Eleven,-117.15463659999999,32.8214987,San Diego,3,Medium Risk
+76,-121.26513390000001,37.5394131,San Joaquin,3,Medium Risk
+Quik Stop,-122.0732303,37.0476431,Santa Cruz,2,Mild Risk
+Valero,-119.9601557,35.9901005,Kings,3,Medium Risk
+Valero,-119.96145590000002,35.9919841,Kings,3,Medium Risk
+Kettleman City 76,-119.96005790000001,35.988546299999996,Kings,3,Medium Risk
+Unknown Name,-121.7984123,38.677258,Yolo,2,Mild Risk
+76,-119.96005790000001,35.988546299999996,Kings,3,Medium Risk
+CFN,-119.961851,35.9882547,Kings,3,Medium Risk
+Unknown Name,-119.22801489999999,35.2674795,Kern,3,Medium Risk
+Chevron,-116.91221850000001,33.9254842,Riverside,2,Mild Risk
+76,-121.8919815,40.4915343,Shasta,2,Mild Risk
+Arco,-121.92664930000001,37.710593599999996,Alameda,3,Medium Risk
+Arco,-121.548252,38.577194,Yolo,2,Mild Risk
+76,-121.54794540000002,38.576647799999996,Yolo,2,Mild Risk
+Valero,-121.53707539999999,38.590869899999994,Yolo,2,Mild Risk
+Arco,-121.4205405,38.5968105,Sacramento,3,Medium Risk
+Chevron,-121.57628740000001,38.575698700000004,Yolo,2,Mild Risk
+Arco,-121.5755003,38.5759214,Yolo,2,Mild Risk
+Arco,-122.03202890000001,38.294644,Solano,3,Medium Risk
+Chevron,-121.41420330000001,37.761852399999995,San Joaquin,3,Medium Risk
+Chevron,-121.8183178,37.70351270000001,Alameda,3,Medium Risk
+Shell,-121.4284517,38.599769099999996,Sacramento,3,Medium Risk
+Unknown Name,-122.06548980000001,38.2585469,Solano,3,Medium Risk
+Chevron,-122.0647088,38.2586777,Solano,3,Medium Risk
+Costco Gasoline,-122.1453389,38.2136652,Napa,0,
+Arco,-122.13888100000001,38.212850599999996,Napa,0,
+Arco,-121.9543673,38.370048,Solano,3,Medium Risk
+Chevron,-121.95563,38.3698152,Solano,3,Medium Risk
+76,-121.9333413,38.3859126,Yolo,3,Medium Risk
+Unknown Name,-118.4534932,34.0327167,Los Angeles,3,Medium Risk
+Unknown Name,-118.4531064,34.032249799999995,Los Angeles,3,Medium Risk
+Hillside Chevron,-118.35156869999999,33.7990766,Los Angeles,3,Medium Risk
+Shell,-124.2033008,41.957272100000004,Del Norte,1,Low Risk
+Valero,-121.0751247,36.1876234,San Luis Obispo,1,Low Risk
+Valero,-121.99710959999999,37.3964312,Santa Clara,3,Medium Risk
+Valero,-119.3999632,35.39951389999999,Kern,3,Medium Risk
+Speedy Fuel,-119.3973673,35.40261870000001,Kern,3,Medium Risk
+Mobil,-119.3965846,35.4007153,Kern,3,Medium Risk
+Travel Centers of America,-119.3967128,35.4012127,Kern,3,Medium Risk
+Shell,-121.7578399,36.7651243,Monterey,3,Medium Risk
+7-Eleven,-121.80303559999999,36.683480100000004,Monterey,3,Medium Risk
+76,-121.8050357,36.681469,Monterey,3,Medium Risk
+Shell,-121.83100900000001,37.2371936,Santa Clara,3,Medium Risk
+Unknown Name,-116.6094919,34.8186662,San Bernardino,1,Low Risk
+Chevron,-120.6987865,35.748686299999996,San Luis Obispo,2,Mild Risk
+Valero,-121.0753056,36.1884278,San Luis Obispo,1,Low Risk
+76,-118.39665590000001,33.923903100000004,Los Angeles,3,Medium Risk
+Chevron,-117.86554050000001,34.020098299999994,Los Angeles,3,Medium Risk
+Arco,-120.9590989,37.7323206,Stanislaus,2,Mild Risk
+Shell,-121.5053021,38.596170799999996,Sacramento,3,Medium Risk
+Unknown Name,-117.43447320000001,34.359925200000006,San Bernardino,1,Low Risk
+Shell,-121.45993020000002,38.4956165,Sacramento,3,Medium Risk
+76,-121.42745020000001,38.548645799999996,Sacramento,3,Medium Risk
+Chevron,-121.42827040000002,38.5514805,Sacramento,3,Medium Risk
+Chevron,-121.80143659999999,36.264697399999996,Monterey,3,Medium Risk
+76,-122.26117430000001,37.8477109,Alameda,3,Medium Risk
+Unknown Name,-118.4858032,34.0237068,Los Angeles,3,Medium Risk
+Costco Gasoline,-122.2153551,38.132408500000004,Napa,0,
+Unknown Name,-121.22941409999999,40.3091541,Plumas,1,Low Risk
+Unknown Name,-118.338029,34.184819,Los Angeles,3,Medium Risk
+Arco,-118.3473148,34.1680476,Los Angeles,3,Medium Risk
+Unknown Name,-118.33751940000002,34.1974474,Los Angeles,3,Medium Risk
+Unknown Name,-118.32536359999999,34.1968174,Los Angeles,3,Medium Risk
+Unknown Name,-118.3498361,34.1745852,Los Angeles,3,Medium Risk
+Unknown Name,-118.349364,34.18454379999999,Los Angeles,3,Medium Risk
+Unknown Name,-116.96686740000001,32.650268100000005,San Diego,3,Medium Risk
+Unknown Name,-116.9685465,32.646252600000004,San Diego,3,Medium Risk
+76,-124.15400759999999,40.5778128,Mendocino,2,Mild Risk
+Fastrip,-120.35825659999999,36.1413537,Fresno,3,Medium Risk
+Vallero,-120.3538513,36.1474215,Fresno,3,Medium Risk
+Unknown Name,-124.0734844,41.2849706,Del Norte,2,Mild Risk
+76,-117.9290943,33.895185600000005,Orange,3,Medium Risk
+Stawberry Park Shell,-121.9767618,37.3156093,Santa Clara,3,Medium Risk
+Valero,-121.9763072,37.316386,Santa Clara,3,Medium Risk
+76,-121.97514309999998,37.3161759,Santa Clara,3,Medium Risk
+Unknown Name,-120.13316780000001,37.0194773,Madera,3,Medium Risk
+Pilot,-121.9502687,38.86200039999999,Yolo,2,Mild Risk
+Pilot (Truck Stop),-121.95100359999998,38.86252460000001,Yolo,2,Mild Risk
+Pilot Travel Center,-121.6298617,36.6649289,Monterey,3,Medium Risk
+Unknown Name,-116.9532048,32.5683647,San Diego,3,Medium Risk
+USA Gas,-118.10841809999998,34.0627817,Los Angeles,3,Medium Risk
+Unknown Name,-121.74681729999999,37.9610631,Contra Costa,2,Mild Risk
+Unknown Name,-116.54649950000001,33.903018599999996,Riverside,2,Mild Risk
+Unknown Name,-121.76053770000001,37.9622592,Contra Costa,2,Mild Risk
+Unknown Name,-114.6018777,34.837483399999996,San Bernardino,0,
+Chevron,-114.6223867,34.8489205,San Bernardino,0,
+Unknown Name,-117.04186670000001,32.6289407,San Diego,3,Medium Risk
+Mobil,-114.6052882,33.6077552,Imperial,0,
+Moonridge Fuel,-116.88373419999999,34.244443200000006,San Bernardino,1,Low Risk
+Alliance,-120.54221979999998,41.4948269,Plumas,1,Low Risk
+Chevron,-120.54217690000002,41.4940956,Plumas,1,Low Risk
+7-Eleven,-119.722796,34.4013135,Santa Barbara,2,Mild Risk
+Shell,-121.4671409,38.57608010000001,Sacramento,3,Medium Risk
+Arco,-117.2120134,32.744312300000004,San Diego,3,Medium Risk
+Shell,-117.2046909,32.7543034,San Diego,3,Medium Risk
+Arco,-117.1952507,32.8347558,San Diego,3,Medium Risk
+Unknown Name,-116.8545869,34.2600039,San Bernardino,1,Low Risk
+Unknown Name,-116.845883,34.261396500000004,San Bernardino,1,Low Risk
+Unknown Name,-121.47639790000001,41.953185299999994,Shasta,1,Low Risk
+Arco,-118.795148,34.405186,Ventura,0,
+Arco,-119.27098600000001,35.49954010000001,Kern,3,Medium Risk
+Chevron,-119.27135390000001,35.5000654,Kern,3,Medium Risk
+Shell,-119.26379979999999,35.5002142,Kern,3,Medium Risk
+Chevron,-117.8970678,34.5060691,Los Angeles,2,Mild Risk
+Valero,-119.39915729999998,35.39928970000001,Kern,3,Medium Risk
+County Vehicles Only,-122.0209203,36.9776204,Santa Cruz,2,Mild Risk
+Shell,-119.273292,34.267596999999995,Ventura,3,Medium Risk
+Arco,-122.0145663,37.33799570000001,Santa Clara,3,Medium Risk
+76,-122.013589,37.3532523,Santa Clara,3,Medium Risk
+Mobil,-118.55311,34.1863042,Los Angeles,3,Medium Risk
+Unknown Name,-118.2913562,34.0906457,Los Angeles,3,Medium Risk
+Arco,-118.37044309999999,33.94573629999999,Los Angeles,3,Medium Risk
+Crestline Valero,-117.2853108,34.2420617,San Bernardino,1,Low Risk
+Shell,-119.808897,36.342717,Fresno,3,Medium Risk
+Five Points General Store Shell,-117.2201937,34.2398206,San Bernardino,1,Low Risk
+Bonneau's 76,-122.46153500000001,38.235664,Marin,1,Low Risk
+Unknown Name,-120.67807890000002,35.3017876,San Luis Obispo,2,Mild Risk
+Unknown Name,-120.98368400000001,39.6829351,Plumas,1,Low Risk
+Unknown Name,-122.15040590000001,37.753607099999996,Alameda,3,Medium Risk
+Unknown Name,-122.1530511,37.7537086,Alameda,3,Medium Risk
+Arco,-117.19949380000001,34.120716200000004,San Bernardino,1,Low Risk
+Valero,-117.1985906,34.1208526,San Bernardino,1,Low Risk
+7-Eleven,-117.2091916,34.1360125,San Bernardino,1,Low Risk
+Unknown Name,-123.7887981,39.2707425,Mendocino,2,Mild Risk
+Unknown Name,-118.39045300000001,34.032745399999996,Los Angeles,3,Medium Risk
+Chevron,-119.68250049999999,36.750925099999996,Fresno,1,Low Risk
+U&A Mini Mart,-119.55567179999998,36.735467799999995,Fresno,1,Low Risk
+Shell,-122.5035912,37.869155400000004,Marin,1,Low Risk
+Arco,-117.95389070000002,33.708635,Orange,3,Medium Risk
+Arco,-117.9548358,33.7093146,Orange,3,Medium Risk
+Shell,-117.5168846,33.8856355,Riverside,3,Medium Risk
+Costco Gasoline,-117.26425929999999,34.0674876,San Bernardino,3,Medium Risk
+Costco Gasoline,-117.441088,34.1370844,San Bernardino,3,Medium Risk
+Chevron,-120.99421000000001,37.4926752,Stanislaus,3,Medium Risk
+Chevron,-121.99961929999999,38.0147496,Contra Costa,2,Mild Risk
+BioFuel Oasis,-122.279393,37.8534585,Alameda,3,Medium Risk
+Sutter Food and Gas,-121.75441799999999,39.142757,Yuba,3,Medium Risk
+Arco,-118.37567079999998,33.959668900000004,Los Angeles,3,Medium Risk
+Unknown Name,-121.7290088,38.670944399999996,Yolo,2,Mild Risk
+Arco,-121.7289653,38.6758681,Yolo,2,Mild Risk
+Quik Stop,-121.7834969,38.691737599999996,Yolo,2,Mild Risk
+Unknown Name,-116.9379533,32.5559247,San Diego,3,Medium Risk
+Quik Stop,-121.97035759999999,38.2793545,Solano,3,Medium Risk
+AmeriGas,-120.4890618,37.274221999999995,Merced,2,Mild Risk
+Chevron,-118.46838429999998,34.0013569,Los Angeles,3,Medium Risk
+Unknown Name,-120.6158959,35.120982700000006,San Luis Obispo,2,Mild Risk
+Unknown Name,-117.97646840000002,33.846545299999995,Orange,3,Medium Risk
+Unknown Name,-117.9766362,33.8471737,Orange,3,Medium Risk
+Unknown Name,-117.9758888,33.8471815,Orange,3,Medium Risk
+Chevron,-122.19722490000001,37.737538,Alameda,3,Medium Risk
+Chevron,-118.295098,34.063806,Los Angeles,3,Medium Risk
+Chevron,-122.2902663,37.541479700000004,San Mateo,1,Low Risk
+Hillsdale car care,-122.29083759999999,37.5411266,San Mateo,1,Low Risk
+Shell,-118.425048,35.753358,Kern,0,
+Valero,-120.04235849999999,36.973409499999995,Fresno,1,Low Risk
+76,-120.0431562,36.9741346,Fresno,1,Low Risk
+Chevron,-120.07311580000001,36.9533579,Fresno,1,Low Risk
+AM PM,-120.8786233,37.0578432,Merced,3,Medium Risk
+Mobil,-118.029876,33.9174813,Los Angeles,3,Medium Risk
+Safeway Fuel Station,-121.92644159999999,37.7055,Alameda,3,Medium Risk
+Unknown Name,-120.8481107,37.6382591,Stanislaus,2,Mild Risk
+CFN,-120.8399,37.0588073,Merced,3,Medium Risk
+Valero,-120.45690420000001,36.8572124,Fresno,3,Medium Risk
+Valero,-120.374055,36.750282899999995,Fresno,3,Medium Risk
+Valero,-119.6236784,36.9705709,Fresno,1,Low Risk
+Shell,-119.71098789999999,36.990602700000004,Fresno,1,Low Risk
+Kwik Serve,-120.0567585,36.97416060000001,Fresno,1,Low Risk
+Country Club 26,-120.07388329999999,36.9966244,Madera,3,Medium Risk
+Valero,-120.07379909999999,36.996025,Madera,3,Medium Risk
+Mann's Gasoline,-120.0628841,36.9741664,Madera,3,Medium Risk
+76,-122.33949109999999,37.5208616,San Mateo,1,Low Risk
+Valero,-121.28543300000001,37.9357052,San Joaquin,3,Medium Risk
+Chevron,-121.25654779999999,37.9651731,San Joaquin,3,Medium Risk
+Valero,-121.2922348,37.9600094,San Joaquin,3,Medium Risk
+Beason,-121.26124180000001,37.9770352,San Joaquin,3,Medium Risk
+Shell,-121.26013770000002,38.0208315,San Joaquin,3,Medium Risk
+Sinclair,-121.31460700000001,38.0214597,San Joaquin,3,Medium Risk
+Tehachapi Fastrip,-118.46728159999999,35.1245434,Kern,0,
+Wild Rose Texaco,-118.494331,35.12465529999999,Kern,0,
+76,-122.3149618,37.55261160000001,San Mateo,1,Low Risk
+Unknown Name,-118.52718970000001,34.048261,Los Angeles,3,Medium Risk
+Shell,-121.2660101,38.590393799999994,Sacramento,3,Medium Risk
+Chevron,-121.0987047,38.4960179,Amador,1,Low Risk
+Tower,-121.14535459999999,38.1663537,Amador,1,Low Risk
+Shell,-122.40722930000001,37.6480514,San Mateo,1,Low Risk
+Shell,-121.4116686,38.5739204,Sacramento,3,Medium Risk
+Unknown Name,-121.61293049999999,39.770104499999995,Butte,3,Medium Risk
+Unknown Name,-118.3781636,33.9457481,Los Angeles,3,Medium Risk
+ARCO AM/PM,-120.88871129999998,37.5362722,Stanislaus,2,Mild Risk
+Unknown Name,-118.18528909999998,33.804691,Long Beach,3,Medium Risk
+Chevron,-121.2164538,38.6291946,Sacramento,3,Medium Risk
+76,-121.17946770000002,38.6846239,Sacramento,3,Medium Risk
+Chevron,-121.17856570000001,38.684379299999996,Sacramento,3,Medium Risk
+Chevron,-120.02528590000001,39.2373006,Nevada,0,
+Shell,-117.4517632,34.4268227,San Bernardino,1,Low Risk
+Unknown Name,-117.17507240000002,32.773751000000004,San Diego,3,Medium Risk
+76,-117.15951770000001,32.8213401,San Diego,3,Medium Risk
+7-Eleven,-117.68836340000001,33.9718597,San Bernardino,3,Medium Risk
+AMPM,-117.68938840000001,33.972028200000004,San Bernardino,3,Medium Risk
+Costco Gasoline,-117.7434767,34.0140026,San Bernardino,3,Medium Risk
+76,-117.6628374,33.9303626,Riverside,3,Medium Risk
+76,-120.95050220000002,39.095618200000004,Nevada,0,
+Costco Gasoline,-121.298773,38.6906489,Sacramento,3,Medium Risk
+Flyers,-119.31348659999999,36.3132149,Tulare,2,Mild Risk
+Norco Texaco,-118.9772004,37.649233100000004,Mono,1,Low Risk
+Unknown Name,-119.5716564,37.3136055,Fresno,1,Low Risk
+Unknown Name,-121.4356028,37.76369879999999,San Joaquin,3,Medium Risk
+Maidu Market,-121.0795582,38.879258899999996,Nevada,0,
+Shell,-121.4781834,38.4079833,Sacramento,3,Medium Risk
+Arco,-118.79674990000001,34.272118799999994,Ventura,0,
+Unknown Name,-122.03421909999999,37.9591159,Contra Costa,2,Mild Risk
+Unknown Name,-119.650301,35.6155975,Kern,3,Medium Risk
+Unknown Name,-119.6501706,35.6158584,Kern,3,Medium Risk
+Chevron,-121.9584304,38.026492499999996,Contra Costa,2,Mild Risk
+Arco,-121.42964769999999,38.6477087,Sacramento,3,Medium Risk
+Shell,-121.87156019999999,37.699743700000006,Alameda,3,Medium Risk
+Exxon,-122.1296,37.7049368,Alameda,3,Medium Risk
+76,-122.1286955,37.705804799999996,Alameda,3,Medium Risk
+Chevron,-118.7532727,35.2948624,Kern,0,
+Unknown Name,-119.07053590000001,34.216306599999996,Ventura,3,Medium Risk
+Unknown Name,-119.0688649,34.21706810000001,Ventura,3,Medium Risk
+7-Eleven,-118.1641791,34.0904278,Los Angeles,3,Medium Risk
+Valero,-121.4149856,38.588628899999996,Sacramento,3,Medium Risk
+76,-121.96502749999999,37.3296615,Santa Clara,3,Medium Risk
+Unknown Name,-121.56240679999999,40.5307464,Nevada,0,
+Valero,-121.9828212,36.97596179999999,Santa Cruz,2,Mild Risk
+Harbor Way Mart,-122.35963570000001,37.9248192,Contra Costa,2,Mild Risk
+Arco,-122.32235039999999,37.9256973,Contra Costa,2,Mild Risk
+Mobil,-118.39429209999999,33.983541100000004,Los Angeles,3,Medium Risk
+Arco,-120.88851880000001,37.5357306,Stanislaus,2,Mild Risk
+The Chairs - BMWOCSD,-116.67227659999999,33.109286,San Diego,1,Low Risk
+USA Gas,-117.03357530000001,32.7604324,San Diego,3,Medium Risk
+Unknown Name,-121.00071840000001,37.9303102,Stanislaus,2,Mild Risk
+Indian Trading Center,-119.2479402,36.74058400000001,Fresno,1,Low Risk
+Rotten Robbie,-121.94325570000001,37.2940251,Santa Clara,3,Medium Risk
+76,-120.103113,36.07528,Kings,3,Medium Risk
+Unknown Name,-118.23728159999999,34.0584589,Los Angeles,3,Medium Risk
+Chevron,-118.79487900000001,34.281270500000005,Ventura,0,
+Unknown Name,-120.6576226,35.6455507,San Luis Obispo,2,Mild Risk
+Unknown Name,-120.6575072,35.6450718,San Luis Obispo,2,Mild Risk
+Mobile,-119.2153973,35.270353,Kern,3,Medium Risk
+Shell,-121.9229994,37.53907870000001,Alameda,3,Medium Risk
+Mobile,-119.02722040000002,35.2670996,Kern,3,Medium Risk
+Shell,-119.0270041,35.2670321,Kern,3,Medium Risk
+76,-119.7716351,36.7077636,Fresno,1,Low Risk
+College Chevron,-122.442555,38.5725357,Napa,0,
+Fathom Marine,-122.3781763,37.664141,San Francisco,2,Mild Risk
+76,-118.3586635,34.076365700000004,Los Angeles,3,Medium Risk
+Shell,-121.972495,37.505692700000004,Alameda,3,Medium Risk
+Shell,-121.9532973,37.3877557,Santa Clara,3,Medium Risk
+Valero,-116.5844077,34.0437831,San Bernardino,1,Low Risk
+K,-116.5832744,34.044803200000004,San Bernardino,1,Low Risk
+Valero,-116.4486605,34.1190717,San Bernardino,1,Low Risk
+Valero,-116.3155348,34.1352872,San Bernardino,1,Low Risk
+Unknown Name,-120.8452817,38.481505,Amador,1,Low Risk
+Chevron,-121.42963229999998,38.6445718,Sacramento,3,Medium Risk
+Costco Gasoline,-117.07717190000001,32.9861207,San Diego,3,Medium Risk
+76,-118.37819259999999,33.94514229999999,Los Angeles,3,Medium Risk
+76,-116.3127678,34.1351662,San Bernardino,1,Low Risk
+Bassett's Station,-120.59187050000001,39.617636299999994,Nevada,0,
+Unknown Name,-121.9320174,37.3049101,Santa Clara,3,Medium Risk
+Unknown Name,-116.9975889,32.714680300000005,San Diego,3,Medium Risk
+Shop N Save,-121.4239588,36.8530355,Monterey,3,Medium Risk
+Unknown Name,-115.4656946,32.6935704,Imperial,2,Mild Risk
+76,-121.90983,37.4278417,Santa Clara,3,Medium Risk
+Valero,-119.79001799999999,36.82989439999999,Fresno,1,Low Risk
+Unknown Name,-121.078682,38.89636760000001,Nevada,0,
+Unknown Name,-118.91160079999999,34.1827323,Ventura,3,Medium Risk
+Unknown Name,-120.9495535,39.9379588,Plumas,1,Low Risk
+Chevron,-120.95072820000001,39.9382778,Plumas,1,Low Risk
+ARCO,-116.9627452,32.8187155,San Diego,3,Medium Risk
+USA Gasoline,-116.96204240000002,32.818839399999995,San Diego,3,Medium Risk
+Eddie's 76,-122.49128870000001,37.649507799999995,San Mateo,1,Low Risk
+Unknown Name,-120.03004109999999,39.2375669,Nevada,0,
+Mobil,-118.37079720000001,33.9631675,Los Angeles,3,Medium Risk
+76,-118.375867,34.0592789,Los Angeles,3,Medium Risk
+76,-118.6056125,34.249762200000006,Los Angeles,3,Medium Risk
+Arco,-118.33475630000001,34.0252954,Los Angeles,3,Medium Risk
+Chevron,-118.33548429999999,34.0258355,Los Angeles,3,Medium Risk
+76,-118.30868500000001,34.0180089,Los Angeles,3,Medium Risk
+Markleeville Gas Station,-119.78064040000001,38.695556700000004,Calaveras,0,
+Unknown Name,-117.29449299999999,34.0914268,San Bernardino,3,Medium Risk
+Unknown Name,-118.2612512,34.0684546,Los Angeles,3,Medium Risk
+Arco,-117.2082874,34.1075369,San Bernardino,1,Low Risk
+Chevron,-117.19433810000001,34.1078532,San Bernardino,1,Low Risk
+Circle K,-117.12192179999998,34.0701391,San Bernardino,1,Low Risk
+Valero,-117.13353980000001,34.0702438,San Bernardino,1,Low Risk
+Chevron,-121.80435120000001,37.651141700000004,Alameda,3,Medium Risk
+Arco,-117.13653229999998,34.070337200000004,San Bernardino,1,Low Risk
+76,-117.1385727,34.069903499999995,San Bernardino,1,Low Risk
+Shell,-122.49113190000001,37.651356,San Mateo,1,Low Risk
+Unknown Name,-116.86921129999999,32.9342126,San Diego,3,Medium Risk
+Shell,-117.21273570000001,32.7503678,San Diego,3,Medium Risk
+Unknown Name,-121.1418567,37.7392402,San Joaquin,3,Medium Risk
+Unknown Name,-122.3178956,37.8672778,Alameda,3,Medium Risk
+Unknown Name,-117.9072529,33.696090500000004,Orange,3,Medium Risk
+Unknown Name,-117.90816229999999,33.696129299999996,Orange,3,Medium Risk
+QwikStop,-120.9931665,37.6091441,Stanislaus,2,Mild Risk
+Mobile,-120.99308590000001,37.6051972,Stanislaus,2,Mild Risk
+Valero,-120.95380490000001,37.589849799999996,Stanislaus,2,Mild Risk
+Valero,-121.12701770000001,37.4732872,Stanislaus,3,Medium Risk
+Valero,-116.4406426,34.2313836,San Bernardino,1,Low Risk
+Olsen Gas & Liquor,-120.9941369,37.60830170000001,Stanislaus,2,Mild Risk
+Arco,-120.9941932,37.5980677,Stanislaus,2,Mild Risk
+Spirit,-116.4402288,34.2473145,San Bernardino,1,Low Risk
+Chevron,-119.8286328,36.75714620000001,Fresno,1,Low Risk
+Best Gas 4 Less,-120.9932726,37.612012799999995,Stanislaus,2,Mild Risk
+Chevron,-121.00330420000002,37.6350052,Stanislaus,2,Mild Risk
+Valero,-120.9943284,37.5663285,Stanislaus,3,Medium Risk
+Shell,-121.5218164,38.5695556,Yolo,2,Mild Risk
+Chevron,-121.5550093,38.5914516,Yolo,2,Mild Risk
+Unknown Name,-121.59045309999999,38.1504389,Contra Costa,2,Mild Risk
+Unknown Name,-120.4850987,35.0361637,San Luis Obispo,2,Mild Risk
+76,-117.2080648,34.0707881,San Bernardino,1,Low Risk
+Shell,-117.55986609999998,34.0645435,San Bernardino,3,Medium Risk
+Mobil,-117.52169479999999,33.821521399999995,Riverside,3,Medium Risk
+Unknown Name,-119.7367334,36.7654363,Fresno,1,Low Risk
+Arco,-117.41728970000001,34.137854,San Bernardino,3,Medium Risk
+Arco,-117.3709888,34.1344239,San Bernardino,3,Medium Risk
+Circle K,-117.25270520000001,34.1410861,San Bernardino,1,Low Risk
+Shell,-117.2527305,34.1436467,San Bernardino,1,Low Risk
+Valero,-117.2521864,34.1410484,San Bernardino,1,Low Risk
+76,-117.2526787,34.141648100000005,San Bernardino,1,Low Risk
+Arco,-117.435349,34.120906299999994,San Bernardino,3,Medium Risk
+Chevron,-117.2790465,34.164645799999995,San Bernardino,1,Low Risk
+Mobil,-117.2789545,34.144359,San Bernardino,1,Low Risk
+Valero,-117.22262520000001,34.229609499999995,San Bernardino,1,Low Risk
+Mobil,-122.63385490000002,41.740124200000004,Shasta,2,Mild Risk
+Mobil,-122.22840719999999,40.1789559,Shasta,2,Mild Risk
+Mobil,-119.2190622,35.2672905,Kern,3,Medium Risk
+Mobil,-118.56737820000001,34.3789219,Los Angeles,3,Medium Risk
+Mobil,-118.4783414,34.3038635,Los Angeles,3,Medium Risk
+Shell,-117.2029116,32.790645399999995,San Diego,3,Medium Risk
+Shell,-120.68757109999999,35.1632422,San Luis Obispo,2,Mild Risk
+Arco,-121.89713929999999,37.3502919,Santa Clara,3,Medium Risk
+Spartan,-121.8907943,37.353350299999995,Santa Clara,3,Medium Risk
+Penny Wise,-119.79295079999999,36.7501716,Fresno,1,Low Risk
+Unknown Name,-119.8162653,38.75721160000001,Calaveras,0,
+Shell,-118.904852,36.439549799999995,Tulare,2,Mild Risk
+Flyers CFN,-121.8490134,37.3101367,Santa Clara,3,Medium Risk
+Howard's Fast Trip,-117.6873496,35.6148619,Kern,0,
+Sage Mart,-117.6880519,35.63677970000001,Kern,0,
+PG&E San Jose Service Center,-121.90797920000001,37.33720510000001,Santa Clara,3,Medium Risk
+Shall Gas,-118.25017659999999,34.024586,Los Angeles,3,Medium Risk
+Unknown Name,-121.84500520000002,37.2879344,Santa Clara,3,Medium Risk
+Shell,-121.869722,37.66277570000001,Alameda,3,Medium Risk
+76,-121.86998340000001,37.663446,Alameda,3,Medium Risk
+Pleasanton Gas Station,-121.87506680000001,37.6627459,Alameda,3,Medium Risk
+Unknown Name,-119.72786059999999,36.7938367,Fresno,1,Low Risk
+Arco,-118.35817879999999,33.988868,Los Angeles,3,Medium Risk
+Unknown Name,-119.35010259999999,36.3241428,Tulare,2,Mild Risk
+Mobil,-117.95392199999999,33.7021297,Orange,3,Medium Risk
+Unknown Name,-117.9539202,33.702311200000004,Orange,3,Medium Risk
+Sly Park Resort,-120.57012579999999,38.7250291,El Dorado,1,Low Risk
+Unknown Name,-121.9386939,37.338637299999995,Santa Clara,3,Medium Risk
+Mobil,-117.75859640000002,33.9950154,Los Angeles,3,Medium Risk
+76,-121.9005705,37.324254700000004,Santa Clara,3,Medium Risk
+Mobil,-117.17143190000002,32.725068699999994,San Diego,3,Medium Risk
+Unknown Name,-117.3178936,34.5167723,San Bernardino,1,Low Risk
+SAP Vehicles Network Demo - Gas Station,-122.14536559999999,37.3980324,Santa Clara,3,Medium Risk
+Valero,-121.84481129999999,37.3384449,Santa Clara,3,Medium Risk
+Unknown Name,-122.4064628,37.6310679,San Mateo,1,Low Risk
+Unknown Name,-114.60142979999999,33.6174026,Imperial,0,
+Arco,-117.9860361,34.139241600000005,Los Angeles,3,Medium Risk
+Unknown Name,-118.16928429999999,33.903446100000004,Los Angeles,3,Medium Risk
+Gastrak of Calexico,-115.38913500000001,32.6821482,Imperial,2,Mild Risk
+Arco,-121.83603090000001,37.3151126,Santa Clara,3,Medium Risk
+Grizzly Gas,-119.96580729999998,37.48509110000001,Madera,3,Medium Risk
+Unknown Name,-121.9419216,37.513517799999995,Alameda,3,Medium Risk
+76,-117.54113100000001,34.992065000000004,San Bernardino,1,Low Risk
+Mobil,-117.97143009999999,33.7155045,Orange,3,Medium Risk
+Chevron,-117.972298,33.7154956,Orange,3,Medium Risk
+Fastrip Food Store,-117.67047590000001,35.6173228,Kern,0,
+Arco,-116.93107479999999,32.800007199999996,San Diego,3,Medium Risk
+Costco Gasoline,-116.3889626,33.8025076,Riverside,2,Mild Risk
+Shell,-124.1488659,40.8048439,Del Norte,2,Mild Risk
+76,-118.85308590000001,34.7968297,Kern,3,Medium Risk
+Chevron,-121.2941568,37.93710220000001,San Joaquin,3,Medium Risk
+Valero,-121.3345942,37.9649893,San Joaquin,3,Medium Risk
+Shell,-122.0343438,38.2903345,Solano,3,Medium Risk
+Mobile,-121.05732240000002,38.9256982,Nevada,0,
+Silicon Valley Market & Gas,-121.9352497,37.3238951,Santa Clara,3,Medium Risk
+Unknown Name,-120.0421111,38.4619794,Calaveras,0,
+Unknown Name,-120.6536868,35.6452346,San Luis Obispo,2,Mild Risk
+USA Gasoline,-115.3799243,32.6857096,Imperial,2,Mild Risk
+Unknown Name,-114.5748498,34.188618700000006,Imperial,0,
+Shell,-114.57038419999999,33.6112184,Imperial,0,
+Unknown Name,-114.571223,33.610414899999995,Imperial,0,
+Arco,-117.35030640000001,34.0014601,San Bernardino,3,Medium Risk
+7-Eleven,-117.57652,34.0330116,San Bernardino,3,Medium Risk
+Chevron,-118.24047579999998,34.2119439,Los Angeles,3,Medium Risk
+Unknown Name,-119.0113027,35.2109993,Kern,3,Medium Risk
+Chevron,-118.4519728,33.994057500000004,Los Angeles,3,Medium Risk
+Renner Petroleum,-124.10161299999999,40.955855299999996,Del Norte,2,Mild Risk
+76,-124.101304,40.941874799999994,Del Norte,2,Mild Risk
+Chevron,-122.3150613,41.3119722,Shasta,2,Mild Risk
+Shell,-122.313381,41.3122264,Shasta,2,Mild Risk
+Safeway Fuel Center,-122.27783649999999,37.78495039999999,Alameda,3,Medium Risk
+Unknown Name,-118.60631090000001,34.180696999999995,Los Angeles,3,Medium Risk
+Unknown Name,-117.3989213,34.3226574,San Bernardino,1,Low Risk
+Petro,-122.196289,39.9060881,Butte,3,Medium Risk
+Chevron,-116.5012784,33.88329,Riverside,2,Mild Risk
+Arco,-116.38874799999999,33.8086896,Riverside,2,Mild Risk
+Unknown Name,-121.32975640000001,35.781447,San Luis Obispo,2,Mild Risk
+Unknown Name,-121.3298504,35.7814539,San Luis Obispo,2,Mild Risk
+Unknown Name,-115.4984574,32.6695712,Imperial,2,Mild Risk
+Chevron,-118.2620798,34.0336409,Los Angeles,3,Medium Risk
+Pintor's,-120.6075,35.391560999999996,San Luis Obispo,2,Mild Risk
+Unknown Name,-117.17062240000001,32.7862839,San Diego,3,Medium Risk
+Shell:,-121.29635290000002,37.97413820000001,San Joaquin,3,Medium Risk
+Arco,-121.60499420000001,36.6804626,Monterey,3,Medium Risk
+Star 1 Gas,-121.6267952,36.67636270000001,Monterey,3,Medium Risk
+Shell,-121.6398327,36.6770765,Monterey,3,Medium Risk
+Valero,-121.6378909,36.73436470000001,Monterey,3,Medium Risk
+Hardy's Gas & Snacks,-121.29462749999999,37.9671299,San Joaquin,3,Medium Risk
+Valero,-121.88123859999999,37.4032381,Santa Clara,3,Medium Risk
+Shell,-121.29629309999999,37.9271473,San Joaquin,3,Medium Risk
+Arco,-121.2933585,37.937312,San Joaquin,3,Medium Risk
+Shell,-121.295348,37.9368876,San Joaquin,3,Medium Risk
+Chevron,-121.29412930000001,37.9372021,San Joaquin,3,Medium Risk
+Shell,-118.2150633,33.7895849,Long Beach,3,Medium Risk
+Unknown Name,-118.0285916,33.8102154,Orange,3,Medium Risk
+Unknown Name,-122.3478915,37.9355735,Contra Costa,2,Mild Risk
+Unknown Name,-116.98785159999998,32.567533399999995,San Diego,3,Medium Risk
+Unknown Name,-116.99651200000001,32.5677206,San Diego,3,Medium Risk
+C Stop,-121.8348685,37.2787865,Santa Clara,3,Medium Risk
+Shell,-117.06376780000001,34.0041429,San Bernardino,1,Low Risk
+Unknown Name,-117.3688824,33.1835549,San Diego,3,Medium Risk
+Tower Mart,-122.6750797,39.0213754,Lake,1,Low Risk
+Chevron,-122.65983940000001,39.02580579999999,Lake,1,Low Risk
+Lightel's Food & Fuel,-123.20650800000001,39.1930697,Lake,1,Low Risk
+Unknown Name,-123.0990167,39.3220323,Lake,1,Low Risk
+Arco,-122.17003500000001,37.7443947,Alameda,3,Medium Risk
+Valero,-122.2382006,37.7837683,Alameda,3,Medium Risk
+76,-122.2386405,37.7840565,Alameda,3,Medium Risk
+Unknown Name,-121.9076594,36.537788299999995,Monterey,3,Medium Risk
+Unknown Name,-121.08000590000002,38.8969802,Nevada,0,
+Unknown Name,-116.71621540000001,33.748008,Riverside,2,Mild Risk
+Chevron,-120.9359378,38.3537424,Amador,1,Low Risk
+Shell,-120.9356834,38.354589600000004,Amador,1,Low Risk
+Shell,-121.25630249999999,36.3384506,Monterey,3,Medium Risk
+Chevron,-124.1005682,40.935734499999995,Del Norte,2,Mild Risk
+Chevron,-119.1103429,35.38388360000001,Kern,3,Medium Risk
+Unknown Name,-122.2882805,37.8021497,Alameda,3,Medium Risk
+Unknown Name,-117.08453859999999,32.5766953,San Diego,3,Medium Risk
+Mobil,-122.27780700000001,37.825494899999995,Alameda,3,Medium Risk
+Unknown Name,-120.8126183,38.6953736,El Dorado,2,Mild Risk
+Unknown Name,-120.8098966,38.69526,El Dorado,2,Mild Risk
+Unknown Name,-120.81126470000001,38.695305499999996,El Dorado,2,Mild Risk
+Unknown Name,-120.84078559999999,38.71280820000001,El Dorado,2,Mild Risk
+Unknown Name,-120.9365539,38.66127279999999,El Dorado,2,Mild Risk
+Unknown Name,-120.9363715,38.6622027,El Dorado,2,Mild Risk
+Sam's Club,-118.0297223,34.0927515,Los Angeles,3,Medium Risk
+Unknown Name,-118.1320867,34.1481285,Los Angeles,3,Medium Risk
+Unknown Name,-118.2435244,34.034129,Los Angeles,3,Medium Risk
+Unknown Name,-119.7177367,36.793676,Fresno,1,Low Risk
+Unknown Name,-119.675707,36.808931,Fresno,1,Low Risk
+Shell,-121.5322192,37.7228477,Contra Costa,2,Mild Risk
+76,-121.5370686,37.7191094,Contra Costa,2,Mild Risk
+Shell,-122.25339699999999,37.7956759,Alameda,3,Medium Risk
+ARCO,-122.195633,37.7449796,Alameda,3,Medium Risk
+Shell,-122.1956864,37.7442496,Alameda,3,Medium Risk
+Stonyford General Store,-122.5445341,39.3753071,Lake,1,Low Risk
+Shell,-116.45854979999999,33.7998657,Riverside,2,Mild Risk
+Unknown Name,-121.971175,38.881225,Yolo,2,Mild Risk
+Arco,-117.12167099999999,33.1307881,San Diego,3,Medium Risk
+Arco,-117.207274,33.564082299999995,Riverside,3,Medium Risk
+Arco,-117.2750406,33.6272321,Riverside,3,Medium Risk
+Arco,-117.29930900000001,33.66080720000001,Riverside,3,Medium Risk
+Arco,-117.5061315,33.8068515,Riverside,3,Medium Risk
+Arco,-117.55804099999999,33.9369879,Riverside,3,Medium Risk
+Arco,-117.55460649999999,34.048586900000004,San Bernardino,3,Medium Risk
+Arco,-117.17670279999999,33.5992378,Riverside,3,Medium Risk
+Arco,-117.1891398,33.6846292,Riverside,3,Medium Risk
+Arco,-117.153172,33.6854815,Riverside,3,Medium Risk
+Arco,-117.153494,33.7427422,Riverside,2,Mild Risk
+Arco,-116.9762371,33.7297109,Riverside,2,Mild Risk
+AM/PM,-117.00628529999999,33.744169299999996,Riverside,2,Mild Risk
+Arco,-117.23085590000001,33.8013103,Riverside,2,Mild Risk
+Arco,-117.2551343,33.84074329999999,Riverside,2,Mild Risk
+Arco,-117.28566599999999,33.917258399999994,Riverside,2,Mild Risk
+Arco,-117.2349676,32.7987962,San Diego,3,Medium Risk
+USA Gasoline,-116.42285090000001,34.1210237,San Bernardino,1,Low Risk
+76,-117.16508290000002,33.1413505,San Diego,3,Medium Risk
+Shell,-117.20946459999999,33.130848300000004,San Diego,3,Medium Risk
+Arco,-118.1897731,33.8192266,Long Beach,3,Medium Risk
+Arco,-118.48721680000001,34.009316399999996,Los Angeles,3,Medium Risk
+Arco,-118.3389105,34.0941907,Los Angeles,3,Medium Risk
+Arco,-118.32281440000001,34.105074200000004,Los Angeles,3,Medium Risk
+Arco,-118.2685405,34.0701658,Los Angeles,3,Medium Risk
+Arco,-117.8360561,33.7881369,Orange,3,Medium Risk
+Arco,-117.85708829999999,33.851625299999995,Orange,3,Medium Risk
+Arco,-117.87933659999999,33.87420460000001,Orange,3,Medium Risk
+Arco,-117.84613059999998,34.0032897,Los Angeles,3,Medium Risk
+Arco,-117.888171,33.9959066,Los Angeles,3,Medium Risk
+Arco,-117.93220120000001,33.9913374,Los Angeles,3,Medium Risk
+Arco,-117.96534399999999,34.005275899999994,Los Angeles,3,Medium Risk
+Arco,-118.070734,33.99479779999999,Los Angeles,3,Medium Risk
+Arco,-118.0827102,33.966744899999995,Los Angeles,3,Medium Risk
+Arco,-118.4487158,34.2746673,Los Angeles,3,Medium Risk
+Arco,-118.4596779,34.3243071,Los Angeles,3,Medium Risk
+Arco,-118.5413432,34.423014,Los Angeles,3,Medium Risk
+Arco,-118.47364879999999,34.400043,Los Angeles,3,Medium Risk
+Arco,-119.65725520000001,35.6150738,Kern,3,Medium Risk
+Valero,-120.16495990000001,36.136523499999996,Fresno,3,Medium Risk
+Arco,-121.31357820000001,37.9545271,San Joaquin,3,Medium Risk
+Arco,-121.35715159999998,38.020821999999995,San Joaquin,3,Medium Risk
+Arco,-121.59004309999999,38.6780783,Yolo,2,Mild Risk
+Chevron,-121.7272767,38.6767114,Yolo,2,Mild Risk
+Chevron,-121.7473237,38.6768985,Yolo,2,Mild Risk
+Arco,-122.2116258,39.524495200000004,Butte,3,Medium Risk
+Arco,-122.2404506,40.1956332,Shasta,2,Mild Risk
+Shell,-122.3821449,40.8919899,Shasta,2,Mild Risk
+Chevron,-122.33468719999999,40.705228399999996,Shasta,2,Mild Risk
+Sprint,-122.3857913,41.42227800000001,Shasta,2,Mild Risk
+Unknown Name,-122.6094057,41.666297799999995,Shasta,2,Mild Risk
+Valero,-122.6394031,41.7185644,Shasta,2,Mild Risk
+Texaco,-122.63459820000001,41.7310265,Shasta,2,Mild Risk
+Chevron,-122.6353405,41.7306059,Shasta,2,Mild Risk
+Chevron,-122.56324790000001,41.9008381,Shasta,2,Mild Risk
+Valero,-119.3148074,36.35686060000001,Tulare,2,Mild Risk
+Seminary Gas,-122.17415159999999,37.7801835,Alameda,3,Medium Risk
+Arco,-122.15204979999999,37.7428709,Alameda,3,Medium Risk
+Mobile Oil 12746,-118.46411119999999,34.405477000000005,Los Angeles,3,Medium Risk
+Arco,-118.37524259999999,33.7769354,Los Angeles,3,Medium Risk
+Arco,-118.42785049999999,33.996759000000004,Los Angeles,3,Medium Risk
+Shell,-122.1483265,37.727359,Alameda,3,Medium Risk
+Unknown Name,-116.37268229999998,33.2563695,San Diego,1,Low Risk
+Unknown Name,-117.0342895,33.2188863,San Diego,1,Low Risk
+Shell,-116.95418290000002,33.2659265,San Diego,1,Low Risk
+Unknown Name,-121.3649535,38.5959297,Sacramento,3,Medium Risk
+Unknown Name,-121.3648682,38.59531120000001,Sacramento,3,Medium Risk
+Unknown Name,-118.8743415,34.2852376,Ventura,0,
+76,-116.5457821,33.9067001,Riverside,2,Mild Risk
+Arco,-121.48539369999999,38.5595388,Sacramento,3,Medium Risk
+Chevron,-121.96688459999999,38.3641102,Solano,3,Medium Risk
+Chevron,-122.21228219999999,37.7746992,Alameda,3,Medium Risk
+Unknown Name,-118.41388429999999,34.0091619,Los Angeles,3,Medium Risk
+Unknown Name,-117.3625178,33.1752714,San Diego,3,Medium Risk
+Chevron,-117.08317779999999,32.9771994,San Diego,3,Medium Risk
+76,-121.95634609999999,37.2484437,Santa Clara,3,Medium Risk
+Mobil,-117.8686413,35.702534299999996,Kern,0,
+Furnace Creek Gas Station,-116.86572240000001,36.460049100000006,Inyo,0,
+Shell,-117.39461100000001,35.7476532,Kern,0,
+Shell,-121.4753545,38.5409667,Sacramento,3,Medium Risk
+Pomo Pumps,-122.88226090000002,39.1398722,Lake,1,Low Risk
+Chevron,-122.92017549999998,39.1630148,Lake,1,Low Risk
+Rancher's Market,-118.28894709999999,34.6183331,Los Angeles,2,Mild Risk
+ARCO,-117.90511550000001,33.8469415,Orange,3,Medium Risk
+Unknown Name,-121.29654029999999,38.5927097,Sacramento,3,Medium Risk
+76,-121.27163429999999,38.6049253,Sacramento,3,Medium Risk
+Chevron,-119.3277811,35.6011039,Kern,3,Medium Risk
+Chevron Santa Rosa,-122.735887,38.480046200000004,Sonoma,2,Mild Risk
+Chevron,-118.13353590000001,33.874598299999995,Los Angeles,3,Medium Risk
+Panamint Springs Resort Fuel,-117.4675813,36.3392908,Inyo,0,
+ARCO,-118.5363169,34.179620299999996,Los Angeles,3,Medium Risk
+76,-117.1489435,32.711685100000004,San Diego,3,Medium Risk
+Chevron,-116.3940959,33.7211366,Riverside,2,Mild Risk
+Shell,-118.2988625,33.858013899999996,Los Angeles,3,Medium Risk
+Mobil,-118.30879809999999,33.858664000000005,Los Angeles,3,Medium Risk
+76,-118.238772,34.027204600000005,Los Angeles,3,Medium Risk
+Shell,-118.40539799999999,35.6391305,Kern,0,
+Mobil,-121.319985,38.58104270000001,Sacramento,3,Medium Risk
+Shell,-121.3589315,38.561556,Sacramento,3,Medium Risk
+Unknown Name,-121.29113819999999,38.6107749,Sacramento,3,Medium Risk
+Unknown Name,-122.26525490000002,37.386573999999996,San Mateo,1,Low Risk
+76,-121.7849702,37.9943742,Contra Costa,2,Mild Risk
+Stage Stop,-119.96935990000001,37.4884848,Madera,3,Medium Risk
+Eagle Gas,-122.21714899999999,37.770352100000004,Alameda,3,Medium Risk
+Unknown Name,-118.2656838,34.1247061,Los Angeles,3,Medium Risk
+Unknown Name,-118.2664923,34.1248341,Los Angeles,3,Medium Risk
+Unknown Name,-118.26605049999999,34.125119399999996,Los Angeles,3,Medium Risk
+Unknown Name,-118.5276021,34.1658626,Los Angeles,3,Medium Risk
+Unknown Name,-118.5269394,34.16501829999999,Los Angeles,3,Medium Risk
+Unknown Name,-118.5268906,34.1656406,Los Angeles,3,Medium Risk
+QuikStop,-122.22913429999998,37.799235700000004,Alameda,3,Medium Risk
+Unknown Name,-122.7116348,38.3635593,Sonoma,2,Mild Risk
+Chevron,-118.805865,34.146407,Ventura,3,Medium Risk
+Valero,-121.311438,37.9337453,San Joaquin,3,Medium Risk
+Chevron,-120.84880349999999,37.4493357,Merced,2,Mild Risk
+Gas 4 Less,-121.29401740000002,37.9120987,San Joaquin,3,Medium Risk
+76,-118.256979,33.831965999999994,Los Angeles,3,Medium Risk
+Alameda County Fueling Station,-122.26556799999999,37.8010492,Alameda,3,Medium Risk
+Valero,-121.6524918,36.68438,Monterey,3,Medium Risk
+USA Gasoline,-117.9603095,34.0903816,Los Angeles,3,Medium Risk
+Chevron,-117.96035220000002,34.072219700000005,Los Angeles,3,Medium Risk
+Shell,-117.9605862,34.0923756,Los Angeles,3,Medium Risk
+Mobil,-117.9971092,34.0776497,Los Angeles,3,Medium Risk
+Chevron,-118.01258610000001,34.0750672,Los Angeles,3,Medium Risk
+Arco,-118.01335549999999,34.075047600000005,Los Angeles,3,Medium Risk
+Arco,-117.9252165,34.0894405,Los Angeles,3,Medium Risk
+Chevron,-117.9339656,34.0899257,Los Angeles,3,Medium Risk
+Shell,-117.9076077,34.0891634,Los Angeles,3,Medium Risk
+76,-117.90809909999999,34.086582299999996,Los Angeles,3,Medium Risk
+Valero Gas,-117.95237820000001,34.0791314,Los Angeles,3,Medium Risk
+USA Gas,-117.9527719,34.0793131,Los Angeles,3,Medium Risk
+Sierra,-120.423401,37.9559407,Calaveras,1,Low Risk
+Chevron,-120.3495758,38.2563186,Calaveras,1,Low Risk
+Unknown Name,-119.4811111,38.517194399999994,Calaveras,0,
+76,-117.98900890000002,34.07961829999999,Los Angeles,3,Medium Risk
+Chevron,-120.45603829999999,38.13435910000001,Calaveras,1,Low Risk
+Kwik Serv,-120.40572069999999,38.0271105,Calaveras,1,Low Risk
+Shell,-120.5592101,38.0830066,Calaveras,1,Low Risk
+Shell,-120.6512537,37.9735552,Calaveras,1,Low Risk
+Shell,-121.1469311,37.9054096,San Joaquin,3,Medium Risk
+Shell,-120.4562956,38.138262899999994,Calaveras,1,Low Risk
+The Grizzly Bear,-120.35160559999998,38.2552636,Calaveras,1,Low Risk
+Kwik Serv,-120.3547538,38.2532669,Calaveras,1,Low Risk
+Shell,-119.9870769,38.92512120000001,El Dorado,1,Low Risk
+Unknown Name,-117.85058810000001,34.128598,Los Angeles,3,Medium Risk
+USA Gas,-117.92339,34.013027,Los Angeles,3,Medium Risk
+76,-117.91421000000001,34.031477,Los Angeles,3,Medium Risk
+Unknown Name,-117.87227479999999,34.1219896,Los Angeles,3,Medium Risk
+Chevron,-117.9074466,34.1141794,Los Angeles,3,Medium Risk
+Shell,-117.9073931,34.1214922,Los Angeles,3,Medium Risk
+Shell,-117.957939,34.0199541,Los Angeles,3,Medium Risk
+76,-117.95861129999999,34.01980820000001,Los Angeles,3,Medium Risk
+Mobil,-117.96744070000001,33.997195,Los Angeles,3,Medium Risk
+Valero,-117.9683244,33.9962716,Los Angeles,3,Medium Risk
+76,-117.9562608,34.0089489,Los Angeles,3,Medium Risk
+Chevron,-117.88923,33.987365000000004,Los Angeles,3,Medium Risk
+Mobil,-117.96253429999999,34.01098020000001,Los Angeles,3,Medium Risk
+Chevron,-117.88672460000001,34.0099756,Los Angeles,3,Medium Risk
+Mobil,-117.90794,34.070142,Los Angeles,3,Medium Risk
+Chevron,-117.95844779999999,34.0202614,Los Angeles,3,Medium Risk
+Mobil,-117.88951000000002,33.987629,Los Angeles,3,Medium Risk
+Chevron,-117.85007809999999,34.01581229999999,Los Angeles,3,Medium Risk
+Thrifty Gas,-117.91748,34.024508000000004,Los Angeles,3,Medium Risk
+Arco,-117.90743,34.075668,Los Angeles,3,Medium Risk
+Shell,-117.9632412,34.0107845,Los Angeles,3,Medium Risk
+76,-117.89548149999999,34.0274778,Los Angeles,3,Medium Risk
+Shell,-117.9074956,34.0701479,Los Angeles,3,Medium Risk
+Chevron,-115.51559180000001,32.6788029,Imperial,2,Mild Risk
+Arco,-115.5163479,32.6788705,Imperial,2,Mild Risk
+76,-117.8815683,34.0787812,Los Angeles,3,Medium Risk
+Valero,-117.90916170000001,34.006676,Los Angeles,3,Medium Risk
+Mobil,-117.91240239999999,34.0072059,Los Angeles,3,Medium Risk
+76,-117.97380849999999,34.092003399999996,Los Angeles,3,Medium Risk
+Mobil,-117.94965590000001,34.03735020000001,Los Angeles,3,Medium Risk
+Shell,-117.9503055,34.0374239,Los Angeles,3,Medium Risk
+ARCO,-121.2922637,38.6489096,Sacramento,3,Medium Risk
+Covelo Redwood Oil Co Station,-123.2484423,39.791501000000004,Mendocino,2,Mild Risk
+Shell,-122.8900852,41.4623033,Shasta,2,Mild Risk
+76,-122.9016874,41.551159399999996,Shasta,2,Mild Risk
+Seiad Valley Card Lock,-123.19931909999998,41.8435255,Del Norte,1,Low Risk
+76,-117.9273018,34.070136600000005,Los Angeles,3,Medium Risk
+Hoopa Mini-Mart Gas Station,-123.68562179999999,41.0646401,Del Norte,2,Mild Risk
+Patriot Gas,-123.62869029999999,40.938945600000004,Del Norte,2,Mild Risk
+Chevron Willow Creek,-123.6293897,40.939058,Del Norte,2,Mild Risk
+Renner Petroleum,-123.63265049999998,40.9394407,Del Norte,2,Mild Risk
+Kettenpom Store,-123.46101750000001,40.1572623,Mendocino,2,Mild Risk
+Frontier Fuel & Propane Minimart,-123.1726253,40.5543829,Shasta,2,Mild Risk
+Weaverville Gas,-122.93738259999999,40.7279686,Shasta,2,Mild Risk
+Redwoods Gas,-122.9367369,40.7274631,Shasta,2,Mild Risk
+Chevron,-122.92860800000001,40.7375598,Shasta,2,Mild Risk
+Platina Store,-122.89324579999999,40.359641499999995,Shasta,2,Mild Risk
+Connor Cardlock,-123.3736923,41.7993691,Del Norte,1,Low Risk
+Patriot,-123.5375754,41.3025708,Del Norte,1,Low Risk
+Gas Mart,-123.5460637,41.3002196,Del Norte,1,Low Risk
+Trinity Center Fuels,-122.70502979999999,40.98451420000001,Shasta,2,Mild Risk
+76,-121.91051570000002,37.4544895,Santa Clara,3,Medium Risk
+76,-118.4672538,34.001292600000006,Los Angeles,3,Medium Risk
+Arco,-118.4361557,33.9598395,Los Angeles,3,Medium Risk
+Shell,-117.97382979999999,34.106941,Los Angeles,3,Medium Risk
+Arco,-117.9347127,34.1074022,Los Angeles,3,Medium Risk
+Shell,-117.94053159999999,34.1067461,Los Angeles,3,Medium Risk
+Chevron,-117.92599560000001,34.0745018,Los Angeles,3,Medium Risk
+76,-117.9461814,34.074462,Los Angeles,3,Medium Risk
+Chevron,-117.93211559999999,34.0616086,Los Angeles,3,Medium Risk
+ARCO 54678,-118.12982849999999,34.1688658,Los Angeles,3,Medium Risk
+Paskenta General Store,-122.54655,39.8847284,Shasta,2,Mild Risk
+Elk Creek Service Station,-122.53849140000001,39.602214399999994,Lake,1,Low Risk
+Thunderhill Fuel,-122.3321767,39.5367531,Lake,1,Low Risk
+Unknown Name,-118.49422820000001,34.0169539,Los Angeles,3,Medium Risk
+Shell,-117.9381092,34.0685027,Los Angeles,3,Medium Risk
+Chevron,-121.26710279999999,38.603495,Sacramento,3,Medium Risk
+Valero,-122.410142,37.630703999999994,San Mateo,1,Low Risk
+Texaco,-122.63322600000001,38.231275,Sonoma,2,Mild Risk
+Fuel Station,-124.123805,40.243401,Mendocino,2,Mild Risk
+General Store Fuel Station,-124.28758,40.324585,Mendocino,2,Mild Risk
+Renner Petroleum,-124.20186170000001,40.6166232,Mendocino,2,Mild Risk
+Beacon,-122.50432250000001,37.9605653,Marin,1,Low Risk
+Circle K,-122.5050358,37.9608813,Marin,1,Low Risk
+Unknown Name,-121.252004,37.7970943,San Joaquin,3,Medium Risk
+Diamond Mountain,-120.6564933,40.4309407,Plumas,1,Low Risk
+Unknown Name,-120.65763190000001,40.4178081,Plumas,1,Low Risk
+Unknown Name,-121.0570791,38.926502,Nevada,0,
+Express Gas,-116.76982620000001,34.9197604,San Bernardino,1,Low Risk
+Valero,-121.87781609999999,37.6915229,Alameda,3,Medium Risk
+76,-121.87466540000001,37.67709,Alameda,3,Medium Risk
+Chevron,-121.87429579999998,37.6761797,Alameda,3,Medium Risk
+7-Eleven,-121.77304309999998,37.698088500000004,Alameda,3,Medium Risk
+Chevron,-121.7741929,37.6978032,Alameda,3,Medium Risk
+Exxon,-121.7417365,37.7007416,Alameda,3,Medium Risk
+Chevron,-121.7410253,37.7000648,Alameda,3,Medium Risk
+Valero,-121.7403265,37.7008576,Alameda,3,Medium Risk
+Chevron,-121.4810426,38.4256841,Sacramento,3,Medium Risk
+Shell,-121.48132,38.42716179999999,Sacramento,3,Medium Risk
+76,-121.481334,38.428104,Sacramento,3,Medium Risk
+Shell,-121.3850584,38.409445899999994,Sacramento,3,Medium Risk
+Chevron,-121.38428700000001,38.408651,Sacramento,3,Medium Risk
+76,-121.699799,37.7152125,Alameda,3,Medium Risk
+Valero,-121.7227841,37.70567670000001,Alameda,3,Medium Risk
+Shell,-117.8354223,33.77346420000001,Orange,3,Medium Risk
+Arco,-117.68019469999999,33.614330200000005,Orange,3,Medium Risk
+Unknown Name,-117.18825749999999,33.1485292,San Diego,3,Medium Risk
+Safeway Gas,-119.9683886,38.9453045,El Dorado,1,Low Risk
+Unknown Name,-117.82888729999999,33.7595242,Orange,3,Medium Risk
+Arco,-117.835567,33.784355,Orange,3,Medium Risk
+Pilot,-117.54188729999998,34.991868,San Bernardino,1,Low Risk
+Chevron,-117.366699,33.6850729,Riverside,3,Medium Risk
+Unknown Name,-117.83528419999999,33.8020102,Orange,3,Medium Risk
+76,-122.1394933,37.688297999999996,Alameda,3,Medium Risk
+Hometown Gas,-121.4021936,36.8538221,Monterey,3,Medium Risk
+Mobil,-120.6459763,40.4149914,Plumas,1,Low Risk
+Soda Creek,-122.97838490000002,39.4204016,Lake,1,Low Risk
+Fastrack,-122.1003472,40.0309796,Butte,3,Medium Risk
+76,-120.2535338,40.1280687,Plumas,1,Low Risk
+Chevron,-120.5010347,40.2895042,Plumas,1,Low Risk
+Chevron,-122.3784635,41.3970442,Shasta,2,Mild Risk
+Fuel 24:7,-122.5499054,37.951237299999995,Marin,1,Low Risk
+Unknown Name,-123.72875690000001,39.8783924,Mendocino,2,Mild Risk
+Sam's Club,-117.28866509999999,33.937295899999995,Riverside,2,Mild Risk
+Arco,-117.27935359999998,33.937999,Riverside,2,Mild Risk
+Eagle Feather Trading Post,-118.8815281,36.0913467,Tulare,2,Mild Risk
+Shell,-119.34905570000001,35.60172539999999,Kern,3,Medium Risk
+QuikStop,-121.27135590000002,38.6646206,Sacramento,3,Medium Risk
+76,-118.4239987,34.0579416,Los Angeles,3,Medium Risk
+Mobil,-118.43212150000001,34.04393029999999,Los Angeles,3,Medium Risk
+Mobil,-118.3388011,34.083602500000005,Los Angeles,3,Medium Risk
+76,-118.338451,34.083602500000005,Los Angeles,3,Medium Risk
+Limited oil,-118.4177523,33.9945313,Los Angeles,3,Medium Risk
+Unknown Name,-117.2267416,33.8007086,Riverside,2,Mild Risk
+Arco,-119.7890645,36.7431086,Fresno,1,Low Risk
+Unknown Name,-118.5253754,34.0473973,Los Angeles,3,Medium Risk
+Mobil,-117.98966090000002,33.7299122,Orange,3,Medium Risk
+SP Super Petrol,-118.41951270000001,34.0113809,Los Angeles,3,Medium Risk
+G&M,-117.9888247,33.716159399999995,Orange,3,Medium Risk
+Chevron,-117.9891044,33.693544200000005,Orange,3,Medium Risk
+Unknown Name,-117.9884138,33.686925099999996,Orange,3,Medium Risk
+Shell,-118.363998,34.0584358,Los Angeles,3,Medium Risk
+Shell,-122.1862392,37.8805888,Contra Costa,2,Mild Risk
+Unknown Name,-119.93910919999999,37.8159494,Calaveras,0,
+Shell,-117.3079723,33.2317996,San Diego,3,Medium Risk
+Gas & Shop,-122.56251909999999,37.977300899999996,Marin,1,Low Risk
+Unknown Name,-118.1597071,33.888904700000005,Los Angeles,3,Medium Risk
+7-Eleven,-117.2471665,32.949154300000004,San Diego,3,Medium Risk
+Unknown Name,-117.3911539,33.275025199999995,San Diego,3,Medium Risk
+Unknown Name,-117.3087879,33.3144273,San Diego,3,Medium Risk
+Chevron,-122.7523283,38.5017128,Sonoma,2,Mild Risk
+MAG Aviation Fuel,-119.8463092,34.42924620000001,Santa Barbara,2,Mild Risk
+Beacon,-121.80039309999998,36.6864559,Monterey,3,Medium Risk
+7-Eleven,-121.79164540000001,36.6835581,Monterey,3,Medium Risk
+7-Eleven,-121.8015462,36.6945104,Monterey,3,Medium Risk
+Unknown Name,-119.87947779999999,36.83657410000001,Fresno,1,Low Risk
+Fort Independence Travel Plaza,-118.2293613,36.836281299999996,Tulare,1,Low Risk
+Shell,-121.29301799999999,38.8882784,Yuba,3,Medium Risk
+Unknown Name,-121.292984,38.8894277,Yuba,3,Medium Risk
+World Gas Station,-122.03712659999998,37.9580024,Contra Costa,2,Mild Risk
+Valero,-122.0412071,37.9890019,Contra Costa,2,Mild Risk
+Bonfare Market,-122.04105279999999,37.9894467,Contra Costa,2,Mild Risk
+Shell,-122.1176017,38.012975299999994,Contra Costa,2,Mild Risk
+Chevron,-122.0604117,37.9531671,Contra Costa,2,Mild Risk
+Chevron,-122.05905520000002,37.9339304,Contra Costa,2,Mild Risk
+Unknown Name,-121.3544166,38.653565,Sacramento,3,Medium Risk
+Shell,-121.5079625,38.4807477,Sacramento,3,Medium Risk
+76,-122.48214920000001,37.75419760000001,San Francisco,2,Mild Risk
+E-Z Trip Truck Stop,-119.9151259,36.83232720000001,Fresno,1,Low Risk
+Chevron,-119.9159135,36.8344206,Fresno,1,Low Risk
+Shell,-119.42796329999999,36.3497791,Tulare,2,Mild Risk
+Shell,-118.9404294,34.989428600000004,Kern,3,Medium Risk
+7-Eleven,-121.9610361,38.0361672,Contra Costa,2,Mild Risk
+Valero,-121.9423703,38.0264867,Contra Costa,2,Mild Risk
+Chevron,-121.92796159999999,38.0265093,Contra Costa,2,Mild Risk
+Chevron,-121.94224320000001,38.0205895,Contra Costa,2,Mild Risk
+Shell,-121.9413977,38.019931799999995,Contra Costa,2,Mild Risk
+Arco,-121.9666173,38.0197664,Contra Costa,2,Mild Risk
+Arco,-122.27841640000001,37.813995500000004,Alameda,3,Medium Risk
+76,-122.47124840000002,37.6927092,San Francisco,2,Mild Risk
+Leggett Patriot Gas Station,-123.71501880000001,39.864810799999994,Mendocino,2,Mild Risk
+AM PM,-121.9666297,38.0200826,Contra Costa,2,Mild Risk
+USA Gasoline,-117.953842,33.6938112,Orange,3,Medium Risk
+Shell,-117.67196299999999,33.600216100000004,Orange,3,Medium Risk
+Chevron,-122.4358288,37.7888814,San Francisco,2,Mild Risk
+Exxon,-122.4588436,37.7858681,San Francisco,2,Mild Risk
+Chevron,-117.9889491,34.0181856,Los Angeles,3,Medium Risk
+Chevron,-117.84490159999999,33.99995379999999,Los Angeles,3,Medium Risk
+Shell,-122.56450249999999,38.0878494,Marin,1,Low Risk
+76,-117.88983870000001,34.07016160000001,Los Angeles,3,Medium Risk
+Chevron,-117.8897604,34.074994200000006,Los Angeles,3,Medium Risk
+76,-117.87272659999998,34.073691100000005,Los Angeles,3,Medium Risk
+Chevron,-117.8484082,34.043189,Los Angeles,3,Medium Risk
+Arco,-121.69960220000002,38.162333200000006,Contra Costa,2,Mild Risk
+Shell,-121.69226699999999,38.160414,Contra Costa,2,Mild Risk
+Unknown Name,-119.48842140000002,35.8879288,Tulare,2,Mild Risk
+Arco,-121.9556517,38.530752299999996,Yolo,3,Medium Risk
+Shell,-122.0045695,38.3590239,Solano,3,Medium Risk
+Mobil,-121.9958585,38.3492696,Solano,3,Medium Risk
+B,-122.4843047,37.8587134,Marin,1,Low Risk
+Shell,-122.30254129999999,38.3221372,Napa,0,
+Speedway,-122.3007437,38.322964299999995,Napa,0,
+Chevron,-122.28572,38.3251419,Napa,0,
+Chevron,-122.28480390000001,38.309946000000004,Napa,0,
+Northgate Gas / Marin Smog,-122.52846399999999,37.9963889,Marin,1,Low Risk
+Conserv Fuel,-122.29825530000001,38.315883899999996,Napa,0,
+76,-118.314306,34.0528808,Los Angeles,3,Medium Risk
+Unknown Name,-117.2813507,33.0194005,San Diego,3,Medium Risk
+Arco,-119.73236440000001,36.73627370000001,Fresno,1,Low Risk
+Unknown Name,-119.736098,36.7290768,Fresno,1,Low Risk
+Arco,-119.78212959999999,36.707288899999995,Fresno,1,Low Risk
+Chevron,-116.2334703,33.7142639,Riverside,2,Mild Risk
+am pm,-116.22834740000002,33.7152044,Riverside,2,Mild Risk
+California Auto Service & Gas,-122.4622826,37.785181,San Francisco,2,Mild Risk
+Unknown Name,-119.75436940000002,36.728807,Fresno,1,Low Risk
+Unknown Name,-118.3195216,34.182938899999996,Los Angeles,3,Medium Risk
+Patriot Fuel,-123.412025,40.3531471,Mendocino,2,Mild Risk
+Unknown Name,-118.54180120000001,34.415400299999995,Los Angeles,3,Medium Risk
+Unknown Name,-118.54076809999998,34.4223174,Los Angeles,3,Medium Risk
+Unknown Name,-118.5605627,34.413705799999995,Los Angeles,3,Medium Risk
+Chevron,-119.17775479999999,34.226118799999995,Ventura,3,Medium Risk
+76,-118.27475679999999,34.0491807,Los Angeles,3,Medium Risk
+Chevron,-119.53068470000001,34.404884700000004,Ventura,3,Medium Risk
+Unknown Name,-121.57141159999999,39.498404799999996,Butte,3,Medium Risk
+Unknown Name,-121.56888390000002,39.498229200000004,Butte,3,Medium Risk
+Rotten Robbie,-121.9781659,37.30764779999999,Santa Clara,3,Medium Risk
+Chevron,-117.07514029999999,33.01796880000001,San Diego,3,Medium Risk
+Arco,-118.4763645,34.0072555,Los Angeles,3,Medium Risk
+76 and Jack in the Box,-117.30137679999999,33.947009,San Bernardino,3,Medium Risk
+Unknown Name,-118.9137966,36.787405299999996,Tulare,2,Mild Risk
+Chevron,-118.197988,33.7818951,Long Beach,3,Medium Risk
+Shell,-118.19807,33.7819255,Long Beach,3,Medium Risk
+76,-118.16725,33.8077886,Long Beach,3,Medium Risk
+Shell,-122.2281952,37.4553765,San Mateo,1,Low Risk
+Valor Gas Station,-117.65186100000001,34.1509177,Los Angeles,2,Mild Risk
+Costco Gasoline,-117.9957213,33.7326502,Orange,3,Medium Risk
+Unknown Name,-117.99347320000001,33.803183399999995,Orange,3,Medium Risk
+Exxon,-121.9938513,37.3097352,Santa Clara,3,Medium Risk
+Shell,-121.95051219999999,37.308539,Santa Clara,3,Medium Risk
+Unknown Name,-119.4809925,38.5172653,Calaveras,0,
+Quick Serve,-122.0674088,38.25372479999999,Solano,3,Medium Risk
+Unknown Name,-117.61132849999998,34.0638391,San Bernardino,3,Medium Risk
+Circle K,-117.61165159999999,34.063111799999994,San Bernardino,3,Medium Risk
+Valero,-117.65057320000001,34.0566623,San Bernardino,3,Medium Risk
+Unknown Name,-117.65129109999998,34.0422351,San Bernardino,3,Medium Risk
+Chevron,-117.6513947,34.0335433,San Bernardino,3,Medium Risk
+Shell,-117.65142560000001,34.0342033,San Bernardino,3,Medium Risk
+Chevron,-117.8096134,35.64783770000001,Kern,0,
+All Star,-122.045961,37.9708475,Contra Costa,2,Mild Risk
+Pilot,-122.2084737,39.751213,Butte,3,Medium Risk
+ARCO - AM/PM,-117.8654769,33.887693,Orange,3,Medium Risk
+76,-121.8419233,37.2762075,Santa Clara,3,Medium Risk
+Unknown Name,-120.8438815,37.76818239999999,Stanislaus,2,Mild Risk
+Mobil,-120.85324609999999,37.7636815,Stanislaus,2,Mild Risk
+Unknown Name,-120.9219919,37.688776000000004,Stanislaus,2,Mild Risk
+Chevron,-121.65875190000001,40.884997,Shasta,2,Mild Risk
+Shell,-122.3200852,37.5674619,San Mateo,1,Low Risk
+Arco,-117.29059679999999,34.4851887,San Bernardino,1,Low Risk
+Unknown Name,-117.9717568,33.7300854,Orange,3,Medium Risk
+Unknown Name,-121.94103989999999,37.2665734,Santa Clara,3,Medium Risk
+Shell,-122.02652690000001,37.5428261,Alameda,3,Medium Risk
+Chevron,-122.02628359999999,37.5417505,Alameda,3,Medium Risk
+Berry Brothers Gasoline,-117.9586682,33.8175577,Orange,3,Medium Risk
+76,-119.70072160000001,36.7502429,Fresno,1,Low Risk
+Unknown Name,-122.48056340000001,37.5057773,San Mateo,1,Low Risk
+Santa Barbara Gas,-119.70527859999999,34.4181401,Santa Barbara,2,Mild Risk
+Valero,-119.8263108,36.75050820000001,Fresno,1,Low Risk
+Sinclair,-119.8310226,36.7570927,Fresno,1,Low Risk
+Arco,-119.83084209999998,36.756907,Fresno,1,Low Risk
+Kwik Serve,-119.69906780000001,37.2621026,Fresno,1,Low Risk
+CSSS Gasoline,-119.69173059999999,37.2637901,Fresno,1,Low Risk
+Shell,-118.68477479999999,34.0346115,Los Angeles,3,Medium Risk
+Mobil,-118.37283740000001,34.090505900000004,Los Angeles,3,Medium Risk
+76,-118.36391270000001,34.0982465,Los Angeles,3,Medium Risk
+Mobil,-118.3611504,34.098286200000004,Los Angeles,3,Medium Risk
+Arco,-118.57877759999998,34.04050529999999,Los Angeles,3,Medium Risk
+Fuel 24/7,-122.5350318,37.8953225,Marin,1,Low Risk
+Chevron,-122.52299140000001,37.9038605,Marin,1,Low Risk
+Shell,-121.810507,36.523432299999996,Monterey,3,Medium Risk
+76,-120.80684070000001,38.7273932,El Dorado,2,Mild Risk
+Chevron,-120.8312047,38.68893610000001,El Dorado,2,Mild Risk
+Chevron,-118.28983329999998,37.1663452,Fresno,1,Low Risk
+Chevron,-117.37574199999999,34.427064,San Bernardino,1,Low Risk
+Shell,-117.37708549999999,34.427069,San Bernardino,1,Low Risk
+Patriot Gas,-123.6074317,40.4921235,Mendocino,2,Mild Risk
+Shell,-121.936419,37.701513,Alameda,3,Medium Risk
+Chevron,-121.9355496,37.702785999999996,Alameda,3,Medium Risk
+Valero,-121.9621265,37.3842778,Santa Clara,3,Medium Risk
+76,-122.43780600000001,37.773776,San Francisco,2,Mild Risk
+Kwik Serv,-120.2614227,37.822338099999996,Calaveras,1,Low Risk
+Kwik Serv,-120.9838365,37.7940905,Stanislaus,2,Mild Risk
+The Claim Jumper,-120.2573983,37.8240583,Calaveras,1,Low Risk
+Gas Station,-120.2613168,37.822516,Calaveras,1,Low Risk
+Chevron Milpitas,-121.8747101,37.4164009,Santa Clara,3,Medium Risk
+Unknown Name,-121.2658547,38.797627399999996,Sacramento,3,Medium Risk
+Chevron,-118.0789357,33.7593119,Orange,3,Medium Risk
+Mobil,-118.062983,33.7119709,Orange,3,Medium Risk
+Unknown Name,-122.2587547,40.446546399999995,Shasta,2,Mild Risk
+True Zero,-121.91893459999999,37.3731081,Santa Clara,3,Medium Risk
+Unknown Name,-119.60057909999999,34.421558600000004,Santa Barbara,2,Mild Risk
+Chevron,-122.1815797,37.7966187,Alameda,3,Medium Risk
+Unknown Name,-122.3545082,41.4752984,Shasta,2,Mild Risk
+Shell,-118.36161499999999,34.0759256,Los Angeles,3,Medium Risk
+Unknown Name,-119.6544318,37.331602200000006,Fresno,1,Low Risk
+Arco,-118.36680159999999,34.1526125,Los Angeles,3,Medium Risk
+76,-118.3698352,34.1519893,Los Angeles,3,Medium Risk
+Chevron,-118.3403622,34.153084899999996,Los Angeles,3,Medium Risk
+Sunset Oil,-118.3858571,34.090434,Los Angeles,3,Medium Risk
+Unknown Name,-123.16634520000001,39.1333215,Lake,1,Low Risk
+Mobil,-118.37055249999999,34.1501964,Los Angeles,3,Medium Risk
+76,-118.3496278,34.1751953,Los Angeles,3,Medium Risk
+76,-122.67032890000002,38.2697979,Sonoma,2,Mild Risk
+Unknown Name,-121.93530790000001,37.70552429999999,Alameda,3,Medium Risk
+Mobil,-118.13222169999999,34.1524469,Los Angeles,3,Medium Risk
+Chevron Sayd Gas & Deli-Shop,-118.19904740000001,36.80192,Tulare,1,Low Risk
+Ga,-123.44194479999999,39.0659695,Lake,1,Low Risk
+Unknown Name,-117.23207120000001,32.7214125,San Diego,3,Medium Risk
+Conserv Fuel,-120.4214528,34.92306729999999,Santa Barbara,2,Mild Risk
+Unknown Name,-122.19205520000001,39.2788076,Lake,1,Low Risk
+Arco,-119.0428537,35.3841608,Kern,3,Medium Risk
+Valero,-122.22090320000001,40.1527904,Shasta,2,Mild Risk
+Valero,-122.2910605,40.452620399999994,Shasta,2,Mild Risk
+Unknown Name,-121.2317517,40.3061576,Plumas,1,Low Risk
+Shell,-121.23279240000001,40.3058865,Plumas,1,Low Risk
+Unknown Name,-120.6911835,35.62164050000001,San Luis Obispo,2,Mild Risk
+Arco,-122.5168361,37.8961658,Marin,1,Low Risk
+76,-121.4156695,38.6111928,Sacramento,3,Medium Risk
+Beacon,-121.41736809999999,38.6110656,Sacramento,3,Medium Risk
+World Gas,-122.33209369999999,37.9494751,Contra Costa,2,Mild Risk
+76,-121.40190770000001,38.6182907,Sacramento,3,Medium Risk
+Chevron Milpitas,-121.9208686,37.452032,Santa Clara,3,Medium Risk
+Texaco,-121.47521680000001,38.611484399999995,Sacramento,3,Medium Risk
+Chevron,-121.47581890000001,38.6109909,Sacramento,3,Medium Risk
+Union 76,-122.8487169,38.425809,Sonoma,2,Mild Risk
+Unknown Name,-117.9277956,34.919864000000004,Kern,0,
+Mobil,-121.51655259999998,38.6140016,Sacramento,3,Medium Risk
+Shell,-118.1977287,36.8001682,Tulare,1,Low Risk
+Mobil,-120.69179799999999,35.628468100000006,San Luis Obispo,2,Mild Risk
+Chevron,-121.99161090000001,37.5187735,Alameda,3,Medium Risk
+Klem's,-120.66798899999999,35.4878211,San Luis Obispo,2,Mild Risk
+Gas & Shop,-121.69676740000001,38.550303799999995,Yolo,2,Mild Risk
+Unknown Name,-122.06702379999999,37.405095,Santa Clara,3,Medium Risk
+Skywood Gas,-122.2638496,37.3866021,San Mateo,1,Low Risk
+Unknown Name,-121.95435159999998,37.272054499999996,Santa Clara,3,Medium Risk
+Unknown Name,-121.99910220000001,37.2842224,Santa Clara,3,Medium Risk
+Unknown Name,-119.75090549999999,34.4377325,Santa Barbara,2,Mild Risk
+Iwatani,-121.96917679999999,37.7726685,Contra Costa,2,Mild Risk
+True Zero,-120.2384949,36.2528044,Fresno,3,Medium Risk
+Iwatani,-121.522066,38.5693786,Yolo,2,Mild Risk
+Shell,-121.4477131,38.611321600000004,Sacramento,3,Medium Risk
+76,-118.4447088,34.0203128,Los Angeles,3,Medium Risk
+76,-118.43845859999999,34.0105426,Los Angeles,3,Medium Risk
+Shell,-122.4781847,37.6596808,San Mateo,1,Low Risk
+Arco,-118.39296909999999,33.86368710000001,Los Angeles,3,Medium Risk
+Valero,-122.46883390000002,37.6503604,San Mateo,1,Low Risk
+Shell,-117.0083045,33.7868089,Riverside,2,Mild Risk
+Chevron,-122.38330020000001,37.6013059,San Mateo,1,Low Risk
+Arco,-118.3717314,33.901450200000006,Los Angeles,3,Medium Risk
+General Store,-117.4676385,36.339164600000004,Inyo,0,
+QuikStop,-121.75585430000001,38.6770826,Yolo,2,Mild Risk
+Chevron,-121.99633899999999,37.38024220000001,Santa Clara,3,Medium Risk
+Circle K Gas,-120.8342332,37.0742998,Merced,3,Medium Risk
+Arco,-118.3522443,33.880399700000005,Los Angeles,3,Medium Risk
+76,-118.352143,33.8768284,Los Angeles,3,Medium Risk
+Shell,-119.05409640000002,37.8126415,Mono,1,Low Risk
+davis natural gas fueling station,-121.73233770000002,38.54522670000001,Yolo,2,Mild Risk
+City of Davis fuel station,-121.7308426,38.54907410000001,Yolo,2,Mild Risk
+Valero,-117.2266562,34.1288329,San Bernardino,1,Low Risk
+Chevron,-117.23290459999998,34.135556099999995,San Bernardino,1,Low Risk
+Unknown Name,-121.57160640000001,39.5203385,Butte,3,Medium Risk
+Unknown Name,-121.5751818,39.480636499999996,Butte,3,Medium Risk
+Browns Valley One Stop,-121.4134795,39.228532,Yuba,3,Medium Risk
+Victoria Gas,-117.22658759999999,34.1215356,San Bernardino,1,Low Risk
+Circle K,-117.21271440000001,34.1353745,San Bernardino,1,Low Risk
+Unknown Name,-120.23908190000002,37.97129810000001,Calaveras,1,Low Risk
+Chevron,-121.97172090000001,37.3204734,Santa Clara,3,Medium Risk
+Unknown Name,-124.1305572,40.2444192,Mendocino,2,Mild Risk
+Unknown Name,-120.52667009999999,38.046057,Calaveras,1,Low Risk
+Unknown Name,-120.5418406,38.0719395,Calaveras,1,Low Risk
+Unknown Name,-120.5468497,38.07557120000001,Calaveras,1,Low Risk
+Unknown Name,-120.54736869999999,38.07578970000001,Calaveras,1,Low Risk
+Unknown Name,-120.6762636,38.1922906,Calaveras,1,Low Risk
+Unknown Name,-120.6750432,38.1912714,Calaveras,1,Low Risk
+Unknown Name,-120.6827062,38.1965625,Calaveras,1,Low Risk
+Unknown Name,-120.68872649999999,38.199576799999996,Calaveras,1,Low Risk
+Unknown Name,-120.69282620000001,38.19925,Calaveras,1,Low Risk
+Arco,-117.335131,34.1623955,San Bernardino,1,Low Risk
+Canyon Auto Service,-122.2601588,37.472268400000004,San Mateo,1,Low Risk
+Unknown Name,-122.7250894,38.4602792,Sonoma,2,Mild Risk
+Unknown Name,-121.91805659999999,41.9643067,Shasta,1,Low Risk
+Shell,-122.5693567,38.111114799999996,Marin,1,Low Risk
+Unknown Name,-121.2247145,38.7881849,Sacramento,3,Medium Risk
+Shell,-122.2545727,38.1101838,Contra Costa,2,Mild Risk
+Sinclair,-122.2544626,38.109288799999995,Contra Costa,2,Mild Risk
+Valero,-122.25456570000001,38.109795299999995,Contra Costa,2,Mild Risk
+Exxon,-122.254903,38.097306599999996,Contra Costa,2,Mild Risk
+Benton Station,-118.4772269,37.818518299999994,Mono,1,Low Risk
+Shell,-117.53576909999998,34.1355782,San Bernardino,3,Medium Risk
+Chevron,-122.23340619999999,38.078044399999996,Contra Costa,2,Mild Risk
+Shell,-117.8500524,33.7270301,Orange,3,Medium Risk
+Shell,-117.6017217,33.879539799999996,Riverside,3,Medium Risk
+Arco,-121.0044071,37.6359951,Stanislaus,2,Mild Risk
+Shell,-117.8474685,33.9681775,Los Angeles,3,Medium Risk
+Shell,-118.49525590000002,35.12457929999999,Kern,0,
+Shell,-117.2849598,33.917607700000005,Riverside,2,Mild Risk
+Shell,-119.0276332,35.296141799999994,Kern,3,Medium Risk
+Shell,-123.79533909999998,40.099095299999995,Mendocino,2,Mild Risk
+Shell,-120.16479369999999,36.137211,Fresno,3,Medium Risk
+Shell,-118.37055249999999,34.1936399,Los Angeles,3,Medium Risk
+Arco,-122.2852535,37.994445299999995,Contra Costa,2,Mild Risk
+Arco,-120.9381957,37.580573,Stanislaus,2,Mild Risk
+Unknown Name,-121.7329108,36.480126500000004,Monterey,3,Medium Risk
+Shell,-118.41345190000001,34.157787,Los Angeles,3,Medium Risk
+Shell,-121.941805,37.7228722,Alameda,3,Medium Risk
+gas walnut,-117.8865572,33.6917208,Orange,3,Medium Risk
+Sierraville Service and Country Store,-120.36751609999999,39.58758579999999,Nevada,0,
+Shell,-118.50308079999999,34.2209819,Los Angeles,3,Medium Risk
+Shell,-120.88784540000002,37.5215849,Stanislaus,3,Medium Risk
+Shell,-117.621599,34.0779422,San Bernardino,3,Medium Risk
+Shell,-119.31344750000001,36.3061463,Tulare,2,Mild Risk
+Shell,-122.2362149,37.4931439,San Mateo,1,Low Risk
+Shell,-117.32209009999998,33.2449306,San Diego,3,Medium Risk
+Shell,-118.9297635,35.398663299999996,Kern,3,Medium Risk
+Shell,-121.4276515,38.47392670000001,Sacramento,3,Medium Risk
+Arco,-118.8825135,34.2784302,Ventura,3,Medium Risk
+Shell,-117.2792053,33.1895137,San Diego,3,Medium Risk
+Shell,-121.336405,37.9644052,San Joaquin,3,Medium Risk
+Valero,-121.49282209999998,38.5376281,Sacramento,3,Medium Risk
+Chevron,-121.28717759999998,38.593267,Sacramento,3,Medium Risk
+76,-118.12564679999998,33.7941717,Long Beach,3,Medium Risk
+Arco,-118.14294129999999,33.7827701,Long Beach,3,Medium Risk
+Shell,-118.1826242,33.7666243,Long Beach,3,Medium Risk
+Chevron,-118.299931,34.174136100000005,Los Angeles,3,Medium Risk
+Loves',-121.1415517,37.7552399,San Joaquin,3,Medium Risk
+Chevron,-117.92082579999999,33.769565,Orange,3,Medium Risk
+Arco,-117.920722,33.768995000000004,Orange,3,Medium Risk
+Chevron,-117.6701132,35.6503571,Kern,0,
+Unknown Name,-117.72950390000001,33.570105,Orange,3,Medium Risk
+Stony Creek Gas,-118.8411237,36.6640494,Tulare,2,Mild Risk
+Kwik Serv,-117.38218799999999,35.75547070000001,Kern,0,
+Shell,-119.0516865,35.89197470000001,Tulare,2,Mild Risk
+Unknown Name,-119.84385049999999,36.7715715,Fresno,1,Low Risk
+Unknown Name,-119.75478740000001,36.7793294,Fresno,1,Low Risk
+Unknown Name,-117.84140479999999,33.8881118,Orange,3,Medium Risk
+Unknown Name,-119.8699625,36.8220045,Fresno,1,Low Risk
+Fuel Good,-122.0070166,41.8278574,Shasta,1,Low Risk
+76,-121.5034156,38.53712210000001,Sacramento,3,Medium Risk
+Unknown Name,-119.8709723,36.7933375,Fresno,1,Low Risk
+Unknown Name,-119.84669650000001,36.7785088,Fresno,1,Low Risk
+Chevron,-122.0492164,37.549926899999996,Alameda,3,Medium Risk
+Shell,-117.12383559999999,33.5908432,Riverside,3,Medium Risk
+Valero,-122.257364,37.826053200000004,Alameda,3,Medium Risk
+7-Eleven,-122.05157720000001,37.322457,Santa Clara,3,Medium Risk
+Arco,-117.95859309999999,33.8394274,Orange,3,Medium Risk
+Mobil,-117.51940819999999,33.8890984,Riverside,3,Medium Risk
+Unknown Name,-117.52267379999999,33.8861214,Riverside,3,Medium Risk
+Valero,-121.4980068,38.56331760000001,Sacramento,3,Medium Risk
+7-Eleven,-117.168801,33.6411148,Riverside,3,Medium Risk
+Unknown Name,-118.43669409999998,37.361075899999996,Mono,1,Low Risk
+Unknown Name,-122.2200963,37.7751202,Alameda,3,Medium Risk
+Unknown Name,-118.2224783,34.0841565,Los Angeles,3,Medium Risk
+Unknown Name,-118.2224166,34.08357,Los Angeles,3,Medium Risk
+Unknown Name,-118.2220652,34.083851,Los Angeles,3,Medium Risk
+Unknown Name,-118.22283540000001,34.0838972,Los Angeles,3,Medium Risk
+Shell,-122.2000267,37.7933627,Alameda,3,Medium Risk
+76,-121.46846200000002,38.5664737,Sacramento,3,Medium Risk
+Chevron,-119.1779834,34.1730802,Ventura,3,Medium Risk
+Mobil,-121.977253,37.235548200000004,Santa Clara,3,Medium Risk
+Unknown Name,-120.7047861,35.5503198,San Luis Obispo,2,Mild Risk
+Velero,-120.670101,35.26879229999999,San Luis Obispo,2,Mild Risk
+76,-121.4503196,38.510217600000004,Sacramento,3,Medium Risk
+Valero,-121.4485098,38.51066470000001,Sacramento,3,Medium Risk
+Unknown Name,-118.3947122,37.3576434,Mono,1,Low Risk
+Unknown Name,-118.40190859999998,37.36116120000001,Mono,1,Low Risk
+7-Eleven,-121.4382385,38.5468914,Sacramento,3,Medium Risk
+Unknown Name,-121.1217862,37.638233299999996,Stanislaus,3,Medium Risk
+Chevron,-121.4831562,38.4955645,Sacramento,3,Medium Risk
+Valero,-121.47994150000001,38.4955559,Sacramento,3,Medium Risk
+Chevron,-122.51123840000001,37.9024185,Marin,1,Low Risk
+Shell Gas Station,-118.35331090000001,34.041037,Los Angeles,3,Medium Risk
+Chevron,-116.50092,33.9470775,Riverside,2,Mild Risk
+Chevron,-121.46659620000001,38.5721893,Sacramento,3,Medium Risk
+Stop and Shop,-121.46312350000001,38.566479799999996,Sacramento,3,Medium Risk
+Shell,-121.44926299999999,38.53919910000001,Sacramento,3,Medium Risk
+Chevron,-121.44238259999999,38.525241799999996,Sacramento,3,Medium Risk
+Jackson's Service Center,-120.64504170000001,40.41430310000001,Plumas,1,Low Risk
+Renner,-124.07446110000001,41.5782146,Del Norte,2,Mild Risk
+Arco,-118.37669040000002,33.9524102,Los Angeles,3,Medium Risk
+Unknown Name,-118.3773248,33.9528641,Los Angeles,3,Medium Risk
+Shell,-121.46422279999999,38.5252381,Sacramento,3,Medium Risk
+Valero,-121.47147079999999,38.5246224,Sacramento,3,Medium Risk
+El Gallo Petrol,-117.06624359999999,32.6054081,San Diego,3,Medium Risk
+Unknown Name,-117.05173219999999,32.6004941,San Diego,3,Medium Risk
+76,-121.82047920000001,39.76158770000001,Butte,3,Medium Risk
+CNG,-117.4543277,33.9604525,Riverside,2,Mild Risk
+Hydrogen,-117.4120521,33.9239287,Riverside,2,Mild Risk
+CNG,-117.41188899999999,33.9240033,Riverside,2,Mild Risk
+Chevron,-123.34981640000001,39.3986904,Lake,1,Low Risk
+Don Pedro Market,-120.33030459999999,37.684775099999996,Merced,2,Mild Risk
+Unknown Name,-117.9985828,33.8737412,Los Angeles,3,Medium Risk
+Arco,-117.2132854,32.7544749,San Diego,3,Medium Risk
+Chevron,-116.17207930000001,33.7173091,Riverside,2,Mild Risk
+Unknown Name,-116.17063610000001,33.716378999999996,Riverside,2,Mild Risk
+76,-122.501673,37.7566948,San Francisco,2,Mild Risk
+Unknown Name,-117.01852109999999,32.6977267,San Diego,3,Medium Risk
+Chevron,-123.7952663,40.0995111,Mendocino,2,Mild Risk
+Unknown Name,-117.06488449999999,32.6015451,San Diego,3,Medium Risk
+US Super Gas,-117.0390094,32.6050258,San Diego,3,Medium Risk
+Arco,-117.051576,32.6042658,San Diego,3,Medium Risk
+Unknown Name,-118.05975500000001,33.90211370000001,Los Angeles,3,Medium Risk
+Stage Coach Liquor,-120.6772942,35.4939531,San Luis Obispo,2,Mild Risk
+Chevron,-122.56852090000001,38.1109286,Marin,1,Low Risk
+76,-121.4607973,37.753748,Contra Costa,2,Mild Risk
+Chevron,-122.3033095,40.53516810000001,Shasta,2,Mild Risk
+Unknown Name,-120.12069709999999,40.044939,Nevada,0,
+Unknown Name,-120.0822535,39.382801,Nevada,0,
+Cloverdale Gas & Go Food Mart,-123.017499,38.793495799999995,Sonoma,2,Mild Risk
+Fast & Easy Gas Mart,-123.0164979,38.799988899999995,Sonoma,2,Mild Risk
+Quik Stop,-123.0225865,38.81244829999999,Sonoma,2,Mild Risk
+Sinclair,-123.0116517,38.7837594,Sonoma,2,Mild Risk
+Unknown Name,-120.1472038,39.166236700000006,Nevada,0,
+Unknown Name,-120.1468518,39.1665718,Nevada,0,
+Dawson Oil Co.,-121.21880039999999,38.8037086,Sacramento,3,Medium Risk
+Shell,-117.07707169999999,33.7386571,Riverside,2,Mild Risk
+Bridgeway,-122.86611059999998,38.4461802,Sonoma,2,Mild Risk
+Unknown Name,-120.188492,34.6117529,Santa Barbara,2,Mild Risk
+Unknown Name,-117.0776939,33.738470899999996,Riverside,2,Mild Risk
+Unknown Name,-117.0323425,33.7433443,Riverside,2,Mild Risk
+CFO,-117.04593359999998,32.628419300000004,San Diego,3,Medium Risk
+Unknown Name,-120.13179129999999,37.0192515,Madera,3,Medium Risk
+Unknown Name,-117.0071767,33.773415299999996,Riverside,2,Mild Risk
+Oakland Airport CNG Station,-122.21527520000001,37.73508870000001,Alameda,3,Medium Risk
+Chevron,-122.1938842,37.7298726,Alameda,3,Medium Risk
+Unknown Name,-118.2113209,34.209284600000004,Los Angeles,3,Medium Risk
+Arco,-118.3550732,34.09059179999999,Los Angeles,3,Medium Risk
+76,-118.3635181,34.090634,Los Angeles,3,Medium Risk
+Shell,-118.36520520000002,34.0905662,Los Angeles,3,Medium Risk
+United Oil,-118.25398870000001,34.0755597,Los Angeles,3,Medium Risk
+Mobil,-118.43677849999999,34.0500812,Los Angeles,3,Medium Risk
+76,-118.44897730000001,34.0465631,Los Angeles,3,Medium Risk
+Shell,-118.45350729999998,34.0446407,Los Angeles,3,Medium Risk
+76,-118.4614268,34.041170799999996,Los Angeles,3,Medium Risk
+Mobil,-118.4917966,34.0194744,Los Angeles,3,Medium Risk
+Valero,-117.29342690000001,34.535511,San Bernardino,1,Low Risk
+Chevron,-117.31684779999999,34.5199866,San Bernardino,1,Low Risk
+Shell,-117.3158398,34.518396700000004,San Bernardino,1,Low Risk
+Oakland Marinas Fuel Dock,-122.2751429,37.792742600000004,Alameda,3,Medium Risk
+Unknown Name,-120.80515619999998,38.39559970000001,Amador,1,Low Risk
+Unknown Name,-123.54323909999998,39.1524484,Lake,1,Low Risk
+Chevron,-118.04397549999999,33.8027646,Orange,3,Medium Risk
+Circle A - Gas & Food Mart,-121.6964507,37.9613045,Contra Costa,2,Mild Risk
+Chevron,-121.6957409,37.9592094,Contra Costa,2,Mild Risk
+Mobil,-121.69577360000001,37.9585687,Contra Costa,2,Mild Risk
+Unknown Name,-119.7079004,37.2140723,Fresno,1,Low Risk
+Unknown Name,-119.8120622,37.489033,Fresno,1,Low Risk
+Chevron,-116.27716370000002,33.7070109,Riverside,2,Mild Risk
+76,-122.38512240000001,37.596764799999995,San Mateo,1,Low Risk
+76,-122.2558685,38.123457,Napa,0,
+Power Market Gas Station,-121.6897989,37.9251948,Contra Costa,2,Mild Risk
+Chevron,-121.69543829999999,37.9319636,Contra Costa,2,Mild Risk
+Brentwood Petroleum,-121.69595220000001,37.94114879999999,Contra Costa,2,Mild Risk
+Chevron,-121.7356575,37.9258364,Contra Costa,2,Mild Risk
+Arco,-121.73798899999998,37.92490460000001,Contra Costa,2,Mild Risk
+7-Eleven,-121.8360778,38.0056406,Contra Costa,2,Mild Risk
+Shell,-121.8342172,38.0061597,Contra Costa,2,Mild Risk
+Unknown Name,-118.43088829999999,34.201463700000005,Los Angeles,3,Medium Risk
+United,-118.44837460000001,34.201517100000004,Los Angeles,3,Medium Risk
+Valero,-122.37189129999999,40.6252505,Shasta,2,Mild Risk
+Chevron,-120.3625131,36.1370753,Fresno,3,Medium Risk
+Speedway,-122.2755203,38.2923496,Napa,0,
+Valero,-121.6024834,37.9041906,Contra Costa,2,Mild Risk
+Gateway Chevron,-117.1371328,33.4796735,Riverside,3,Medium Risk
+Terpel E.D.S Zona Minera,-72.9450253,7.3473618,Imperial,0,
+Sinclair,-122.1481822,39.1555055,Lake,1,Low Risk
+Shell,-122.1399457,39.158211,Lake,1,Low Risk
+Chevron,-122.2010335,39.8723688,Butte,3,Medium Risk
+Shell,-122.2898105,40.437983700000004,Shasta,2,Mild Risk
+Costco Gasoline,-116.9875722,32.841890299999996,San Diego,3,Medium Risk
+Moe’s Stop,-121.8634885,37.3559314,Santa Clara,3,Medium Risk
+Sinclair Dino Mart,-118.2866155,34.0884785,Los Angeles,3,Medium Risk
+7-Eleven,-117.121998,32.8079523,San Diego,3,Medium Risk
+Circle K,-122.23801840000002,37.4886315,San Mateo,1,Low Risk
+Chevron,-122.26013300000001,37.8563996,Alameda,3,Medium Risk
+Rotten Robbies,-121.7462537,37.6801065,Alameda,3,Medium Risk
+Costco Gasoline,-121.8088753,39.7210826,Butte,3,Medium Risk
+Arco,-122.14025009999999,39.158812899999994,Lake,1,Low Risk
+Arco,-122.2959382,38.30800770000001,Napa,0,
+Unknown Name,-122.61268170000001,38.9098445,Lake,1,Low Risk
+Chevron,-118.28386210000001,34.040125,Los Angeles,3,Medium Risk
+Speedway,-122.19351370000001,39.9278185,Butte,3,Medium Risk
+Shell,-118.2913398,34.059549,Los Angeles,3,Medium Risk
+Propel,-121.90463899999999,37.3555532,Santa Clara,3,Medium Risk
+Unknown Name,-117.39306450000001,34.134114000000004,San Bernardino,3,Medium Risk
+Mobil,-117.59285190000001,34.069821399999995,San Bernardino,3,Medium Risk
+Arco,-117.47093100000001,33.897900799999995,Riverside,3,Medium Risk
+Arco,-121.38343559999998,38.6513418,Sacramento,3,Medium Risk
+Chevron,-119.6733416,36.32839439999999,Kings,3,Medium Risk
+Chevron,-117.6191882,33.5217791,Orange,3,Medium Risk
+Chevron,-119.160908,35.50009620000001,Kern,3,Medium Risk
+Chevron,-121.48274709999998,38.5245643,Sacramento,3,Medium Risk
+76,-121.49787679999999,38.52443020000001,Sacramento,3,Medium Risk
+Chevron,-117.7189346,34.080335999999996,Los Angeles,3,Medium Risk
+Arco,-121.53090279999999,38.613656,Yolo,2,Mild Risk
+Speedway Gas,-117.37972749999999,33.9771312,San Bernardino,3,Medium Risk
+Arco,-121.38272849999998,38.5744205,Sacramento,3,Medium Risk
+Shell,-121.3826376,38.5738817,Sacramento,3,Medium Risk
+76,-121.31303740000001,38.7079393,Sacramento,3,Medium Risk
+Quick Stop,-121.327127,38.704871999999995,Sacramento,3,Medium Risk
+Chevron,-121.32767520000002,38.705833,Sacramento,3,Medium Risk
+Arco,-121.33583999999999,38.5436472,Sacramento,3,Medium Risk
+Chevron,-118.38510079999999,33.8192368,Los Angeles,3,Medium Risk
+76,-121.5157491,38.5167363,Sacramento,3,Medium Risk
+Costco Gasoline,-119.60768840000001,36.3247995,Fresno,3,Medium Risk
+Unknown Name,-117.1390567,32.75569160000001,San Diego,3,Medium Risk
+Sunset Gas and Market,-117.2544348,32.7365653,San Diego,3,Medium Risk
+Mettler Station,-118.9703392,35.0626727,Kern,3,Medium Risk
+Arco,-118.43365320000001,34.257254499999995,Los Angeles,3,Medium Risk
+Arco,-119.6827187,34.424178600000005,Santa Barbara,2,Mild Risk
+Chevron,-119.0383249,36.080132299999995,Tulare,2,Mild Risk
+Valero,-119.03779650000001,36.0798006,Tulare,2,Mild Risk
+Arco,-117.11718300000001,32.8103566,San Diego,3,Medium Risk
+Arco,-121.5752246,39.12597150000001,Yuba,3,Medium Risk
+C Stop,-121.56853079999999,39.1230298,Yuba,3,Medium Risk
+Shell,-121.5555287,39.1098222,Yuba,3,Medium Risk
+7-Eleven,-121.55557409999999,39.1094842,Yuba,3,Medium Risk
+Lally Gas & Food,-121.5518041,39.09768629999999,Yuba,3,Medium Risk
+Oliverhurst Mini Mart,-121.55141529999999,39.095405799999995,Yuba,3,Medium Risk
+Mobil,-118.28924479999999,37.1689398,Fresno,1,Low Risk
+76,-118.2632772,34.077727100000004,Los Angeles,3,Medium Risk
+Mobil,-117.37583190000001,34.4262683,San Bernardino,1,Low Risk
+7 Eleven,-117.3522155,34.0025367,San Bernardino,3,Medium Risk
+Valero,-117.3922232,33.9607302,San Bernardino,3,Medium Risk
+76,-117.34177209999999,33.983203100000004,San Bernardino,3,Medium Risk
+76,-117.43432,33.9457291,Riverside,2,Mild Risk
+Chevron,-117.37405530000001,33.973890999999995,San Bernardino,3,Medium Risk
+Kimi,-117.36258740000001,33.9760097,San Bernardino,3,Medium Risk
+ARCO,-117.34184270000002,33.983302200000004,San Bernardino,3,Medium Risk
+76,-117.36501229999999,33.9952042,San Bernardino,3,Medium Risk
+Kwik Serv,-117.36446780000001,34.0006622,San Bernardino,3,Medium Risk
+76,-117.49416969999999,33.8982132,Riverside,3,Medium Risk
+ARCO,-117.51482549999999,33.8820032,Riverside,3,Medium Risk
+Circle K,-117.513695,33.881775,Riverside,3,Medium Risk
+76,-117.32516090000001,33.9156376,Riverside,2,Mild Risk
+Circle K,-117.33161240000001,33.886990999999995,Riverside,2,Mild Risk
+76,-117.35029899999999,33.8846886,Riverside,2,Mild Risk
+Valero,-117.34967009999998,33.8851851,Riverside,2,Mild Risk
+Arco,-117.32116699999999,33.9158524,Riverside,2,Mild Risk
+Shell,-117.5591483,34.121011100000004,San Bernardino,3,Medium Risk
+76,-118.37015259999998,33.85803610000001,Los Angeles,3,Medium Risk
+Shell,-116.9730318,32.742982,San Diego,3,Medium Risk
+Unknown Name,-116.9281903,32.7693187,San Diego,3,Medium Risk
+76,-117.0984004,32.8213157,San Diego,3,Medium Risk
+76,-121.9133827,37.427043499999996,Santa Clara,3,Medium Risk
+MD,-122.9847487,38.5115668,Sonoma,2,Mild Risk
+Chevron,-122.6870049,38.4382288,Sonoma,2,Mild Risk
+Chevron,-122.55605390000001,38.094258399999994,Marin,1,Low Risk
+Shell,-121.8841649,37.4358902,Santa Clara,3,Medium Risk
+Shell,-121.9976058,38.3479594,Solano,3,Medium Risk
+Chevron,-121.5225889,38.655483200000006,Sacramento,3,Medium Risk
+Arco AM/PM,-121.27159979999999,38.64507920000001,Sacramento,3,Medium Risk
+Unknown Name,-121.2722591,38.7032388,Sacramento,3,Medium Risk
+Unknown Name,-121.2714815,38.70349210000001,Sacramento,3,Medium Risk
+Unknown Name,-121.2257575,38.7442424,Sacramento,3,Medium Risk
+Unknown Name,-121.22672539999999,38.743516799999995,Sacramento,3,Medium Risk
+Unknown Name,-119.78963940000001,36.7861985,Fresno,1,Low Risk
+Unknown Name,-121.30981709999999,38.636363,Sacramento,3,Medium Risk
+Card-Lock Fuel Station,-120.8245068,38.6929581,El Dorado,2,Mild Risk
+Unknown Name,-120.9153361,38.6783403,El Dorado,2,Mild Risk
+Unknown Name,-120.82234440000002,38.699963399999994,El Dorado,2,Mild Risk
+test,-120.62030390000001,35.2980033,San Luis Obispo,2,Mild Risk
+Chevron,-114.595275,34.8271162,Imperial,0,
+Chevron,-118.33454350000001,34.0328905,Los Angeles,3,Medium Risk
+Mobil,-118.33467350000001,34.0323804,Los Angeles,3,Medium Risk
+Shell,-118.74193170000001,37.5670936,Mono,1,Low Risk
+Unknown Name,-118.452629,33.9882046,Los Angeles,3,Medium Risk
+Unknown Name,-118.2710798,34.0461635,Los Angeles,3,Medium Risk
+Unknown Name,-118.34353300000001,33.91614439999999,Los Angeles,3,Medium Risk
+Unknown Name,-118.36091640000001,33.916640799999996,Los Angeles,3,Medium Risk
+Unknown Name,-118.3616459,33.9161556,Los Angeles,3,Medium Risk
+Unknown Name,-118.42181459999999,33.963219200000005,Los Angeles,3,Medium Risk
+Unknown Name,-118.3443645,34.0946589,Los Angeles,3,Medium Risk
+True Zero,-120.2236338,39.324777600000004,Nevada,0,
+True Zero,-121.96869550000001,37.5220591,Alameda,3,Medium Risk
+True Zero,-122.40612549999999,37.6481165,San Mateo,1,Low Risk
+Unknown Name,-122.1333584,37.418715,Santa Clara,3,Medium Risk
+Unknown Name,-117.00014850000001,32.6448702,San Diego,3,Medium Risk
+Unknown Name,-118.00209050000001,33.858627,Orange,3,Medium Risk
+Unknown Name,-119.02169199999999,35.35364379999999,Kern,3,Medium Risk
+Unknown Name,-117.17335759999999,32.729421,San Diego,3,Medium Risk
+Unknown Name,-117.18133190000002,32.7428193,San Diego,3,Medium Risk
+Unknown Name,-117.1819034,32.7431328,San Diego,3,Medium Risk
+Shell,-118.09458810000001,34.58006339999999,Los Angeles,2,Mild Risk
+Arco,-118.08560130000001,34.5804179,Los Angeles,2,Mild Risk
+Unknown Name,-119.66346010000001,37.335600799999995,Fresno,1,Low Risk
+NEX Gas Station,-117.1922764,32.7430717,San Diego,3,Medium Risk
+Ralph's Gas Station,-117.2258743,32.7288604,San Diego,3,Medium Risk
+Unknown Name,-118.62500800000001,34.4960758,Los Angeles,3,Medium Risk
+Unknown Name,-119.31410509999999,36.2981013,Tulare,2,Mild Risk
+Unknown Name,-119.27619740000002,35.8943499,Tulare,2,Mild Risk
+Unknown Name,-119.807594,36.74569,Fresno,1,Low Risk
+NEX Gasoline,-117.2251165,32.72847410000001,San Diego,3,Medium Risk
+Unknown Name,-118.87425359999999,34.2785591,Ventura,3,Medium Risk
+Unknown Name,-121.86528759999999,36.5959766,Monterey,3,Medium Risk
+Shell,-118.2920175,34.0620846,Los Angeles,3,Medium Risk
+7-Eleven,-117.2610615,33.9393327,Riverside,2,Mild Risk
+76,-117.1523098,32.8139656,San Diego,3,Medium Risk
+Shell,-120.4952547,37.3002465,Merced,2,Mild Risk
+Arco,-121.073539,37.7003086,Stanislaus,2,Mild Risk
+Shell,-119.209629,36.3257221,Tulare,2,Mild Risk
+Chevron,-120.9999365,37.2597288,Merced,3,Medium Risk
+Valero,-118.1499472,34.1170708,Los Angeles,3,Medium Risk
+Unknown Name,-121.4354616,37.76413529999999,San Joaquin,3,Medium Risk
+Flyer's,-122.70848640000001,38.4134204,Sonoma,2,Mild Risk
+Valero,-122.28195330000001,41.1952946,Shasta,2,Mild Risk
+76,-122.74860120000001,38.4972334,Sonoma,2,Mild Risk
+Shell,-122.78657450000001,38.5260977,Sonoma,2,Mild Risk
+Speedway,-122.603995,38.2339422,Sonoma,2,Mild Risk
+Chevron,-122.03331370000001,38.2928403,Solano,3,Medium Risk
+Valero,-122.29950829999999,40.4524272,Shasta,2,Mild Risk
+Unknown Name,-122.2999523,40.451473,Shasta,2,Mild Risk
+Chevron,-122.538271,41.646493799999995,Shasta,2,Mild Risk
+Love's,-122.19618100000001,39.9071813,Butte,3,Medium Risk
+mobile,-116.05289750000001,34.1354112,San Bernardino,0,
+Chevron,-117.09016640000002,32.9770732,San Diego,3,Medium Risk
+Shell,-122.22905,40.17950070000001,Shasta,2,Mild Risk
+Wave Gas,-122.0899652,37.6203875,Alameda,3,Medium Risk
+Mobil,-118.71742250000001,34.280789899999995,Ventura,0,
+Arco,-121.4565629,38.6437606,Sacramento,3,Medium Risk
+Chevron,-118.3639131,34.072118700000004,Los Angeles,3,Medium Risk
+Circle K,-121.59639070000001,36.6951522,Monterey,3,Medium Risk
+Chevron,-122.78075990000002,38.5107388,Sonoma,2,Mild Risk
+Arco,-121.66435729999999,36.7215711,Monterey,3,Medium Risk
+76,-117.769935,33.689164500000004,Orange,3,Medium Risk
+76 gas station,-122.31908909999999,37.5661361,San Mateo,1,Low Risk
+Campus Gas Pump,-117.0683867,32.7774571,San Diego,3,Medium Risk
+Carmel Highlands Chevron,-121.9362236,36.5053651,Monterey,3,Medium Risk
+Unknown Name,-117.10548259999999,32.576307199999995,San Diego,3,Medium Risk
+Unknown Name,-117.10535829999999,32.5767424,San Diego,3,Medium Risk
+Safeway Gas Station,-122.2509253,37.7587524,Alameda,3,Medium Risk
+76,-118.0139423,34.109553600000005,Los Angeles,3,Medium Risk
+Pacific Pride,-121.5520236,38.5770679,Yolo,2,Mild Risk
+Unknown Name,-117.19706770000002,32.9914256,San Diego,3,Medium Risk
+Unknown Name,-122.0563866,38.2495444,Solano,3,Medium Risk
+Chevron,-119.6547328,36.3596647,Kings,3,Medium Risk
+Valero,-122.12631019999999,38.221613700000006,Napa,0,
+Arco,-122.12710359999998,38.2217027,Napa,0,
+7-Eleven,-122.12676840000002,38.22058,Napa,0,
+Shell,-122.12785929999998,38.2212655,Napa,0,
+Chevron,-122.129497,38.22113289999999,Napa,0,
+Chevron,-122.2523307,38.1226977,Napa,0,
+Chevron,-122.2173011,38.1062901,Contra Costa,2,Mild Risk
+Chevron,-121.8398324,38.4582894,Yolo,3,Medium Risk
+Shell,-121.82210570000001,38.46433620000001,Yolo,3,Medium Risk
+76,-121.8235367,38.4697119,Yolo,3,Medium Risk
+Chevron,-121.82289469999999,38.4688305,Yolo,3,Medium Risk
+Unknown Name,-121.82268640000001,38.456417,Yolo,3,Medium Risk
+Albany Hill Mini Market,-122.29984669999999,37.8921585,Alameda,3,Medium Risk
+Sierra Energy 15,-121.2041967,39.20640170000001,Nevada,0,
+Unknown Name,-117.615328,33.4307765,Orange,3,Medium Risk
+Valero,-120.62737320000001,36.6393705,Fresno,3,Medium Risk
+Fuel Station,-119.1039283,36.20385260000001,Tulare,2,Mild Risk
+Shell,-122.21960929999999,40.1834042,Shasta,2,Mild Risk
+76,-121.8191259,37.3564862,Santa Clara,3,Medium Risk
+Rotten Robbie,-121.822589,37.35946129999999,Santa Clara,3,Medium Risk
+Sam's Club,-121.6463138,39.1410786,Yuba,3,Medium Risk
+Chevron,-121.5238594,38.5746575,Yolo,2,Mild Risk
+Chevron,-121.5017057,38.481456099999996,Sacramento,3,Medium Risk
+Shell,-121.4307115,38.500557799999996,Sacramento,3,Medium Risk
+Chevron,-121.29474979999999,38.2533665,Sacramento,3,Medium Risk
+Arco,-121.31036359999999,38.2902124,Sacramento,3,Medium Risk
+Unknown Name,-121.30118279999999,38.2530436,Sacramento,3,Medium Risk
+Costco Gasoline,-121.2615416,38.0997653,San Joaquin,3,Medium Risk
+Arco,-121.26900890000002,38.1016242,San Joaquin,3,Medium Risk
+Shell,-121.30606709999998,38.1151735,San Joaquin,3,Medium Risk
+Chevron,-121.3105028,38.1146348,San Joaquin,3,Medium Risk
+Kwik Serv,-121.2784405,38.115189799999996,San Joaquin,3,Medium Risk
+Unknown Name,-121.30736409999999,38.1297381,San Joaquin,3,Medium Risk
+Unknown Name,-121.26015020000001,38.1278566,San Joaquin,3,Medium Risk
+Arco,-117.1196586,34.0281213,San Bernardino,1,Low Risk
+Shell,-121.79123759999999,37.256062799999995,Santa Clara,3,Medium Risk
+Unknown Name,-121.4572635,38.684238799999996,Sacramento,3,Medium Risk
+Arco,-121.3649382,38.7139849,Sacramento,3,Medium Risk
+Chevron,-121.3640635,38.71371920000001,Sacramento,3,Medium Risk
+Chevron,-121.78431119999999,38.67727410000001,Yolo,2,Mild Risk
+76,-121.7842458,38.678511900000004,Yolo,2,Mild Risk
+Fastrip,-117.97470109999999,35.1262518,Kern,0,
+Unknown Name,-117.9861227,35.12559,Kern,0,
+Love's,-122.1439997,39.167488399999996,Lake,1,Low Risk
+Valero,-122.71007069999999,38.34794960000001,Sonoma,2,Mild Risk
+76,-122.58062679999999,38.57547720000001,Napa,0,
+76,-119.51771640000001,34.398132000000004,Ventura,3,Medium Risk
+Renner,-123.79028419999999,40.0088706,Mendocino,2,Mild Risk
+Arco,-119.51223799999998,34.3962499,Ventura,3,Medium Risk
+Renner,-123.79510459999999,40.1103711,Mendocino,2,Mild Risk
+Cecilville Station,-123.1399855,41.141041200000004,Shasta,2,Mild Risk
+Unknown Name,-122.07798600000001,37.884539000000004,Contra Costa,2,Mild Risk
+Shell,-118.8519845,34.79403320000001,Kern,3,Medium Risk
+Shell,-121.1021925,35.56858120000001,San Luis Obispo,2,Mild Risk
+FuelGood,-120.99275279999999,40.3153217,Plumas,1,Low Risk
+76,-121.74762350000002,36.7582749,Monterey,3,Medium Risk
+Santa Rosa Pit Stop,-116.54506140000001,33.560841499999995,Riverside,2,Mild Risk
+Arco,-119.0500861,35.3392836,Kern,3,Medium Risk
+Unknown Name,-118.1288894,34.6464592,Los Angeles,2,Mild Risk
+Unknown Name,-118.1289044,34.645581799999995,Los Angeles,2,Mild Risk
+Unknown Name,-124.0715345,41.79311,Del Norte,1,Low Risk
+Unknown Name,-122.06147220000001,37.8928439,Contra Costa,2,Mild Risk
+Mobil,-122.0613193,37.8923274,Contra Costa,2,Mild Risk
+Unknown Name,-122.0607024,37.892448,Contra Costa,2,Mild Risk
+Fastrip,-117.8978117,34.5061971,Los Angeles,2,Mild Risk
+Mobil,-117.98063619999999,34.5207263,Los Angeles,2,Mild Risk
+Kwik Serv,-117.98585590000002,34.5208776,Los Angeles,2,Mild Risk
+Ed Staub & Sons Petroleum & Fuel Commander Cardlock,-121.40778449999999,41.0452971,Plumas,1,Low Risk
+U.S. Gasoline,-119.98875579999999,38.923420899999996,El Dorado,1,Low Risk
+American Gasoline,-119.9796332,38.930231,El Dorado,1,Low Risk
+Chevron,-119.9942511,38.91975479999999,El Dorado,1,Low Risk
+7-Eleven,-117.1739135,33.5556909,Riverside,3,Medium Risk
+Shell,-117.73247859999998,34.002804299999994,San Bernardino,3,Medium Risk
+Rotten Robbie,-121.6564489,36.665694200000004,Monterey,3,Medium Risk
+Chevron,-117.7284206,34.002636200000005,Los Angeles,3,Medium Risk
+Shell,-117.94579540000001,33.9176777,Los Angeles,3,Medium Risk
+Pilot,-117.08772409999999,34.8546546,San Bernardino,1,Low Risk
+Unknown Name,-117.85039740000002,33.8233371,Orange,3,Medium Risk
+Shell,-117.0348082,32.594423600000006,San Diego,3,Medium Risk
+Mobil,-117.7382061,33.861639700000005,Orange,3,Medium Risk
+Sierra Super Stop,-121.1034851,39.3701609,Nevada,0,
