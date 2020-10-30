@@ -1,8 +1,8 @@
 # Client Project: Identifying Areas At Risk for COVID-19 and Other Natural Disasters
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<h4>Authors: <a href="https://github.com/shiffdag">Shiffraw Dagenchaw</a>, <a href="https://github.com/sophiascarano">Sophia Scarano, < a href="https://github.com/oaagboro">Oghenevwede Agboro-Jimoh</a></h4>
+<h4>Authors: <a href="https://github.com/shiffdag">Shiffraw Dagenchaw</a>, <a href="https://github.com/sophiascarano">Sophia Scarano, <a href="https://github.com/oaagboro">Oghenevwede Agboro-Jimoh</a> </h4>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ## Executive Summary
 Lorem Ipsum
