@@ -1,5 +1,11 @@
-# Executive Summary
-Hey
+# Client Project: Identifying Areas At Risk for COVID-19 and Other Natural Disasters
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h4>Authors: <a href="https://github.com/shiffdag">Shiffraw Dagenchaw</a>, <a href="https://github.com/sophiascarano">Sophia Scarano, < a href="https://github.com/oaagboro">Oghenevwede Agboro-Jimoh</h4>
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Executive Summary
+Lorem Ipsum
 
 
 
@@ -24,6 +30,13 @@ Hey
 - [COVID-19 California](https://github.com/shiffdag/Group-Project/blob/main/clean_covid_data.csv)
 
 - [Fire Data](https://github.com/shiffdag/Group-Project/blob/main/mapdataall.csv)
+
+-[Placeholder Here]
+
+-[Placeholder Here]
+
+-[Placeholder Here]
+
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
