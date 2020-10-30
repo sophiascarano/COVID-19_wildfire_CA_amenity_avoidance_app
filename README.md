@@ -22,4 +22,4 @@
 
 - [COVID-19 California](https://github.com/shiffdag/Group-Project/blob/main/clean_covid_data.csv)
 
-- [Fire Data](https://git.generalassemb.ly/shiffraw/Project-3-/blob/master/Data-Acquisition.ipynb)
+- [Fire Data](https://github.com/shiffdag/Group-Project/blob/main/mapdataall.csv)
