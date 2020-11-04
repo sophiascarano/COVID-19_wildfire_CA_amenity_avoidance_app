@@ -6,7 +6,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Executive Summary
-Lorem Ipsum
+
 
         
  -------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -22,23 +22,9 @@ Lorem Ipsum
 ### Underyling Goal 
 
 #### The underlying goal is to construct an application that locates proximal gas stations within California,upon user request, by mechanism of minimizing exposure to covid hotspots. The application will additionally display location of fires that are ongoing in order to reduce the risk of the user.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### Table of Contents 
-
-- [COVID-19 California](https://github.com/shiffdag/Group-Project/blob/main/clean_covid_data.csv)
-
-- [Fire Data](https://github.com/shiffdag/Group-Project/blob/main/mapdataall.csv)
-
--[Placeholder Here]
-
--[Placeholder Here]
-
--[Placeholder Here]
 
 
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Content with Jupyter Notebooks
 In this section, we highlight all of the steps we took to produce a functioning folium map.
 
 ## Steps:
