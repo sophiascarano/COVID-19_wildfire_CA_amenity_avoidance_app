@@ -16,14 +16,15 @@ The fire data was cleaned and several columns relabaled for better identificatio
 This model was then incorporated into a navigational tool that helps the user to identify areas at risk for COVID-19 and wild-fires. In the future we hope to add more map functionality to make it more interactive and to provide live COVID-19 updates to the end user.
 
         
- -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
  
  
  ## Problem Statement 
  
-#### It is critical to mitigate and tame the diffusion of COVID-19 among people. Increased Social distancing is associated with lower rates of COVID- 19.  Providing a navigation tool that will equip people with information in regards to the density of COVID cases, in their vicinity, can potentially decrease the general exposure to COVID-19. Additionally, the navigation tool will provide functionality to view the areas currently affected by wildfires, whether these fires are contained or ongoing so that the user can avoid these areas accordingly.
+It is critical to mitigate and tame the diffusion of COVID-19 among people. Increased Social distancing is associated with lower rates of COVID- 19.  Providing a navigation tool that will equip people with information in regards to the density of COVID cases, in their vicinity, can potentially decrease the general exposure to COVID-19. Additionally, the navigation tool will provide functionality to view the areas currently affected by wildfires, whether these fires are contained or ongoing so that the user can avoid these areas accordingly.
  
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
 
 ### Content with Jupyter Notebooks
