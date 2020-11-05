@@ -6,7 +6,12 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Executive Summary
+The goal of this project was to create an application that serves two purposes: help user to avoid ongoing wild-fires within California  and help them to avoid COVID-19 hotspots. The application would additionally display the location of Gas stations upon request. The data for this project was obtained from two sources namely:
+        - OpenStree Map API: This API was used to access data for California's amenities such as the location of the Gas stations
+        - Fire <a href ="fire.ca.gov/incidents/2020"> data</a> from California Department of Forestry and Fire Protection
 
+The fire data was cleaned and several columns relabaled for better identification of columns. Six Machine Learning models were made to model the probability of exposure to COVID-19. These models were made with Logistic Regression, Support Vector Machine, Random Forest Classifier, AdaBoost Classifier, Stochastic Gradient Descent Classifier and K Nearest Neighbors Classifier. The best model turned out to be the Support Vector Machine with a test accuracy score of 48%.
+This model was then incorporated into a navigational tool that helps the user to identify areas at risk for COVID-19 and wild-fires. In the future we hope to add more map functionality to make it more interactive and to provide live COVID-19 updates to the end user.
 
         
  -------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -18,11 +23,6 @@
 #### It is critical to mitigate and tame the diffusion of COVID-19 among people. Increased Social distancing is associated with lower rates of COVID- 19.  Providing a navigation tool that will equip people with information in regards to the density of COVID cases, in their vicinity, can potentially decrease the general exposure to COVID-19. Additionally, the navigation tool will provide functionality to view the areas currently affected by wildfires, whether these fires are contained or ongoing so that the user can avoid these areas accordingly.
  
  
- 
-### Underyling Goal 
-
-#### The underlying goal is to construct an application that locates proximal gas stations within California,upon user request, by mechanism of minimizing exposure to covid hotspots. The application will additionally display location of fires that are ongoing in order to reduce the risk of the user.
-
 
 ### Content with Jupyter Notebooks
 In this section, we highlight all of the steps we took to produce a functioning folium map.
